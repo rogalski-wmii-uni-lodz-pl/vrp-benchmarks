@@ -1,54 +1,15 @@
 import sys
 import re
 from typing import List, Dict, Any
+from parse_solution import parse_solution
+from parse_instance import parse_instance
+from pathlib import Path
+import decimal
 
+decimal.getcontext().prec = 100
 
-def after_colon(s: str) -> str:
-    return s.split(':')[1].strip()
-
-
-def to_numbers(line: str) -> List[int]:
-    return [
-        int(x)
-        for x in line.split(' ')
-        if x
-    ]
-
-
-def add_depots(route: List[int], depot=0) -> List[int]:
-    return [depot, *route, depot]
-
-
-def parse_route(line: str) -> List[int]:
-    route = after_colon(line)
-    parsed = to_numbers(route)
-    return add_depots(parsed)
-
-
-def instance_name_to_benchmark(instance: str):
-    if instance[0] == "L":
-        return "LiLim"
-
-    return "GehringHomberger"
-
-
-def parse_solution(lines: List[str]) -> Dict[str, Any]:
-    instance = after_colon(lines[0]).upper()
-
-    # first route line number
-    routes_start = 5
-
-    routes = [
-        parse_route(line)
-        for line in lines[routes_start:]
-        if line
-    ]
-
-    return {
-        "benchmark": instance_name_to_benchmark(instance),
-        "instance": instance,
-        "routes": routes
-    }
+script_location = Path(__file__).parent
+instances_location = script_location / "instances"
 
 
 def read_file(path) -> List[str]:
@@ -74,8 +35,8 @@ Route n: ...""")
 
 
 def check_instance_name(inst: str):
-    onehundreds = re.match(r"L(R|C|RC)[12][01][0-9]", inst)
-    rest = re.match(r"L?(R|C|RC)[12]_(2|4|6|8|10)_([1-9]|10)", inst)
+    onehundreds = re.match(r"l(r|c|rc)[12][01][0-9]", inst)
+    rest = re.match(r"l?(r|c|rc)[12]_(2|4|6|8|10)_([1-9]|10)", inst)
     if not onehundreds and not rest:
         raise Exception(f"instance name {inst} does not match any instance")
 
@@ -109,16 +70,44 @@ def check_sanity(solution: Dict[str, Any]):
         check_route_nodes(route, r + 1)
 
 
+def read_instance(benchmark: str, instance: str) -> List[str]:
+    path = (instances_location / benchmark / (instance + ".txt")).resolve()
+    return read_file(path)
+
+
 def verify():
     path = sys.argv[1]
     file_contents = read_file(path)
     solution = parse_solution(file_contents)
 
-    print(
-        solution["benchmark"],
-        solution["instance"])
     # print(solution)
     check_sanity(solution)
+
+    instance_file = read_instance(solution["benchmark"], solution["instance"])
+
+    instance = parse_instance(instance_file)
+
+    distance = 0
+
+    pts = instance["points"]
+
+    for route in solution["routes"]:
+        for a, b in zip(route, route[1:]):
+            distance += dist(pts[a], pts[b])
+
+    print(
+        solution["benchmark"],
+        solution["instance"],
+        len(solution["routes"]),
+        distance
+    )
+
+
+def dist(a: Dict[str, int], b: Dict[str, int]) -> decimal.Decimal:
+    xs = decimal.Decimal(a["x"] - b["x"])
+    ys = decimal.Decimal(a["y"] - b["y"])
+
+    return ((xs * xs) + (ys * ys)).sqrt()
 
 
 if __name__ == "__main__":
