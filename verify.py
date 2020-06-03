@@ -4,7 +4,7 @@ from typing import List, Dict, Any
 from parse_solution import parse_solution
 from parse_instance import parse_instance
 from pathlib import Path
-from gh_feasibility import dist, verify_gh, Infeasible
+from feasibility import dist, verify_gh, Infeasible, verify_ll
 import decimal
 
 decimal.getcontext().prec = 128
@@ -82,7 +82,7 @@ def verify(solution: Dict[str, Any], instance: Dict[str, Any]):
     if (solution["benchmark"] != "LiLim"):
         verify_gh(solution, instance)
     else:
-        verify_gh(solution, instance)
+        verify_ll(solution, instance)
 
 
 def total_distance(solution: Dict[str, Any], instance: Dict[str, Any]):

@@ -95,3 +95,66 @@ def verify_gh(solution: Dict[str, Any], instance: Dict[str, Any]):
     for r, route in enumerate(solution["routes"]):
         never_too_late(route, r + 1, instance)
         capacity_is_within_limits(route, r + 1, instance)
+
+
+def make_positions_and_route_ids(
+        solution: Dict[str, Any],
+        instance: Dict[str, Any]
+) -> (List[int], List[int]):
+    pts = instance["points"]
+    nodes = len(pts)
+
+    positions = [-1] * nodes
+    route_id = [-1] * nodes
+    for r, route in enumerate(solution["routes"]):
+        for pos, node in enumerate(route):
+            positions[node] = pos
+            route_id[node] = r
+
+    return positions, route_id
+
+
+def visiting_order(point: Dict[str, int]) -> (int, int):
+    node = point["id"]
+    pickup = point["pickup"]
+    delivery = point["delivery"]
+
+    before = pickup
+    after = node
+    if pickup == 0:
+        before = node
+        after = delivery
+
+    return before, after
+
+
+def nodes_are_in_order_in_same_routes(
+        solution: Dict[str, Any],
+        instance: Dict[str, Any]
+):
+    pts = instance["points"]
+    positions, route_id = make_positions_and_route_ids(solution, instance)
+
+    for pt in pts[1:]:  # skip checking depot
+        before, after = visiting_order(pt)
+
+        if route_id[before] != route_id[after]:
+            raise Infeasible(
+                f"Nodes {before} and {after} are not in the same route: "
+                f"{before} is in route {route_id[before] + 1}, and "
+                f"{after} is in route {route_id[after] + 1}."
+            )
+
+        if positions[before] >= positions[after]:
+            raise Infeasible(
+                f"Node order violated: "
+                f"node {before} should be visited before {after}, "
+                f"but in route {route_id[after] + 1} "
+                f"node {before} is in position {positions[before]}, and "
+                f"{after} is in position {positions[after]}."
+            )
+
+
+def verify_ll(solution: Dict[str, Any], instance: Dict[str, Any]):
+    verify_gh(solution, instance)
+    nodes_are_in_order_in_same_routes(solution, instance)
