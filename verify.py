@@ -61,7 +61,7 @@ def check_route_nodes(route: List[int], r: int):
 
 def check_sanity(solution: Dict[str, Any]):
     inst = solution["instance"]
-    if len(inst) >= 10:
+    if len(inst) >= 11:
         raise Infeasible(f"Instance name too long {len(inst)} >= 10")
     if len(inst) < 5:
         raise Infeasible(f"Instance name too short {len(inst)} < 5")
