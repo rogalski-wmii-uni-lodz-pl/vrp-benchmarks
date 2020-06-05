@@ -85,6 +85,17 @@ def verify(solution: Dict[str, Any], instance: Dict[str, Any]):
         verify_ll(solution, instance)
 
 
+def is_valid(
+        solution: Dict[str, Any],
+        instance: Dict[str, Any]
+) -> (bool, str):
+    try:
+        verify(solution, instance)
+        return True, "OK"
+    except Infeasible as infeasibility:
+        return False, infeasibility.args[0]
+
+
 def total_distance(solution: Dict[str, Any], instance: Dict[str, Any]):
     distance = 0
 
@@ -100,32 +111,31 @@ def total_distance(solution: Dict[str, Any], instance: Dict[str, Any]):
 def verify_file(approximation: int = 4):
     path = sys.argv[1]
     file_contents = read_file(path)
-    solution = parse_solution(file_contents)
 
-    # print(solution)
+    solution = parse_solution(file_contents)
 
     instance_file = read_instance(solution["benchmark"], solution["instance"])
 
     instance = parse_instance(instance_file)
 
-    try:
-        verify(solution, instance)
+    ok, err = is_valid(solution, instance)
 
-        print(
-            path,
-            solution["benchmark"],
-            solution["instance"],
-            len(solution["routes"]),
-            round(total_distance(solution, instance), approximation)
-        )
-    except Infeasible as infeasibility:
-        print(
-            path,
-            solution["benchmark"],
-            solution["instance"],
-            "ERROR:",
-            infeasibility.args[0]
-        )
+    status = ""
+
+    if ok:
+        routes = len(solution["routes"])
+        distance = total_distance(solution, instance)
+        rounded = round(distance, approximation)
+        status = f"OK {routes} {rounded}"
+    else:
+        status = f"ERROR {err}"
+
+    print(
+        path,
+        solution["benchmark"],
+        solution["instance"],
+        status
+    )
 
 
 if __name__ == "__main__":
