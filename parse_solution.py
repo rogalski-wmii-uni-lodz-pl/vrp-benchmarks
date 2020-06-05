@@ -39,7 +39,7 @@ def parse_solution(lines: List[str]) -> Dict[str, Any]:
     routes = [
         parse_route(line)
         for line in lines[routes_start:]
-        if line
+        if line.strip()
     ]
 
     return {
