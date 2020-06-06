@@ -66,6 +66,10 @@ def parse_filename(filename: str) -> (str, str, str):
     routes, dist_dot_txt = res.split('_')
     dist = dist_dot_txt.rsplit('.', 1)[0]
 
+    _, fraction = dist.split(".")
+
+    dist += "0"*(4 - len(fraction))
+
     return inst, routes, dist
 
 
@@ -141,7 +145,7 @@ def make_md_table(benchmark: str, groups: List[str]) -> str:
         for inst in insts:
             best = db[inst][-1]
 
-            for what in ["routes", "distance"]:
+            for what in ["instance", "routes", "distance"]:
                 best[what] = f"`{best[what]}`"
 
             best["url"] = f'[download]({best["url"]})'
