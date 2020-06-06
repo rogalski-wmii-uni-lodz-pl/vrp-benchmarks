@@ -117,7 +117,7 @@ def generate_bks(
     return db
 
 
-left = "---"
+left = ":---"
 right = "---:"
 center = ":---:"
 
@@ -128,8 +128,8 @@ def mdrow(row: List[str]) -> str:
 
 def make_md_table(benchmark: str, groups: List[str]) -> str:
     out = []
-    keys = ["when", "who", "routes", "distance", "url", "detailed"]
-    align = [left, right, right, right, right, right]
+    keys = ["instance", "when", "who", "routes", "distance", "url", "detailed"]
+    align = [center, center, center, center, center, center, center]
     refs = read_refs()
     overwrites = read_overwrites()
     db = generate_bks(refs, overwrites, bks_location / benchmark)
@@ -141,10 +141,16 @@ def make_md_table(benchmark: str, groups: List[str]) -> str:
         for inst in insts:
             best = db[inst][-1]
 
-            row = [inst]
-            row += [best[what] for what in keys]
+            for what in ["routes", "distance"]:
+                best[what] = f"`{best[what]}`"
+
+            best["url"] = f'[download]({best["url"]})'
+
+            row = [best[what] for what in keys]
 
             out.append(mdrow(row))
+
+        out.append("")
 
     return out
 
