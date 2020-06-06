@@ -2,63 +2,63 @@
 ## 100 clients
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-`lc101` | 2001-01-01 | SAM::OPT | `10` | `828.9369` | [download](best_known_solutions/LiLim/2001-01-01/lc101.10_828.9369.txt) | 
-`lc102` | 2001-01-01 | SAM::OPT | `10` | `828.9369` | [download](best_known_solutions/LiLim/2001-01-01/lc102.10_828.9369.txt) | 
+`lc101` | 2001-01-01 | Li&Lim | `10` | `828.9369` | [download](best_known_solutions/LiLim/2001-01-01/lc101.10_828.9369.txt) | SAM::OPT
+`lc102` | 2001-01-01 | Li&Lim | `10` | `828.9369` | [download](best_known_solutions/LiLim/2001-01-01/lc102.10_828.9369.txt) | SAM::OPT
 `lc103` | 2003-06-27 | SAM::OPT | `9` | `1035.3499` | [download](best_known_solutions/LiLim/2003-06-27/lc103.9_1035.3499.txt) | 
 `lc104` | 2003-04-11 | SAM::OPT | `9` | `860.0112` | [download](best_known_solutions/LiLim/2003-04-11/lc104.9_860.0112.txt) | 
-`lc105` | 2001-01-01 | SAM::OPT | `10` | `828.9369` | [download](best_known_solutions/LiLim/2001-01-01/lc105.10_828.9369.txt) | 
-`lc106` | 2001-01-01 | SAM::OPT | `10` | `828.9369` | [download](best_known_solutions/LiLim/2001-01-01/lc106.10_828.9369.txt) | 
-`lc107` | 2001-01-01 | SAM::OPT | `10` | `828.9369` | [download](best_known_solutions/LiLim/2001-01-01/lc107.10_828.9369.txt) | 
-`lc108` | 2001-01-01 | SAM::OPT | `10` | `826.4392` | [download](best_known_solutions/LiLim/2001-01-01/lc108.10_826.4392.txt) | 
+`lc105` | 2001-01-01 | Li&Lim | `10` | `828.9369` | [download](best_known_solutions/LiLim/2001-01-01/lc105.10_828.9369.txt) | SAM::OPT
+`lc106` | 2001-01-01 | Li&Lim | `10` | `828.9369` | [download](best_known_solutions/LiLim/2001-01-01/lc106.10_828.9369.txt) | SAM::OPT
+`lc107` | 2001-01-01 | Li&Lim | `10` | `828.9369` | [download](best_known_solutions/LiLim/2001-01-01/lc107.10_828.9369.txt) | SAM::OPT
+`lc108` | 2001-01-01 | Li&Lim | `10` | `826.4392` | [download](best_known_solutions/LiLim/2001-01-01/lc108.10_826.4392.txt) | SAM::OPT
 `lc109` | 2003-06-27 | Q | `9` | `1000.5962` | [download](best_known_solutions/LiLim/2003-06-27/lc109.9_1000.5962.txt) | 
 
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-`lc201` | 2001-01-01 | SAM::OPT | `3` | `591.5566` | [download](best_known_solutions/LiLim/2001-01-01/lc201.3_591.5566.txt) | 
-`lc202` | 2001-01-01 | SAM::OPT | `3` | `591.5566` | [download](best_known_solutions/LiLim/2001-01-01/lc202.3_591.5566.txt) | 
+`lc201` | 2001-01-01 | Li&Lim | `3` | `591.5566` | [download](best_known_solutions/LiLim/2001-01-01/lc201.3_591.5566.txt) | SAM::OPT
+`lc202` | 2001-01-01 | Li&Lim | `3` | `591.5566` | [download](best_known_solutions/LiLim/2001-01-01/lc202.3_591.5566.txt) | SAM::OPT
 `lc203` | 2003-03-11 | SAM::OPT | `3` | `591.1734` | [download](best_known_solutions/LiLim/2003-03-11/lc203.3_591.1734.txt) | 
 `lc204` | 2003-03-08 | SAM::OPT | `3` | `590.5987` | [download](best_known_solutions/LiLim/2003-03-08/lc204.3_590.5987.txt) | 
-`lc205` | 2001-01-01 | SAM::OPT | `3` | `588.8760` | [download](best_known_solutions/LiLim/2001-01-01/lc205.3_588.876.txt) | 
-`lc206` | 2001-01-01 | SAM::OPT | `3` | `588.4928` | [download](best_known_solutions/LiLim/2001-01-01/lc206.3_588.4928.txt) | 
-`lc207` | 2001-01-01 | SAM::OPT | `3` | `588.2863` | [download](best_known_solutions/LiLim/2001-01-01/lc207.3_588.2863.txt) | 
-`lc208` | 2001-01-01 | SAM::OPT | `3` | `588.3238` | [download](best_known_solutions/LiLim/2001-01-01/lc208.3_588.3238.txt) | 
+`lc205` | 2001-01-01 | Li&Lim | `3` | `588.8760` | [download](best_known_solutions/LiLim/2001-01-01/lc205.3_588.876.txt) | SAM::OPT
+`lc206` | 2001-01-01 | Li&Lim | `3` | `588.4928` | [download](best_known_solutions/LiLim/2001-01-01/lc206.3_588.4928.txt) | SAM::OPT
+`lc207` | 2001-01-01 | Li&Lim | `3` | `588.2863` | [download](best_known_solutions/LiLim/2001-01-01/lc207.3_588.2863.txt) | SAM::OPT
+`lc208` | 2001-01-01 | Li&Lim | `3` | `588.3238` | [download](best_known_solutions/LiLim/2001-01-01/lc208.3_588.3238.txt) | SAM::OPT
 
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-`lr101` | 2001-01-01 | SAM::OPT | `19` | `1650.7992` | [download](best_known_solutions/LiLim/2001-01-01/lr101.19_1650.7992.txt) | 
-`lr102` | 2001-01-01 | SAM::OPT | `17` | `1487.5704` | [download](best_known_solutions/LiLim/2001-01-01/lr102.17_1487.5704.txt) | 
-`lr103` | 2001-01-01 | SAM::OPT | `13` | `1292.6755` | [download](best_known_solutions/LiLim/2001-01-01/lr103.13_1292.6755.txt) | 
-`lr104` | 2001-01-01 | SAM::OPT | `9` | `1013.3893` | [download](best_known_solutions/LiLim/2001-01-01/lr104.9_1013.3893.txt) | 
-`lr105` | 2001-01-01 | SAM::OPT | `14` | `1377.1110` | [download](best_known_solutions/LiLim/2001-01-01/lr105.14_1377.111.txt) | 
-`lr106` | 2001-01-01 | SAM::OPT | `12` | `1252.6167` | [download](best_known_solutions/LiLim/2001-01-01/lr106.12_1252.6167.txt) | 
-`lr107` | 2001-01-01 | SAM::OPT | `10` | `1111.3132` | [download](best_known_solutions/LiLim/2001-01-01/lr107.10_1111.3132.txt) | 
-`lr108` | 2001-01-01 | SAM::OPT | `9` | `968.9660` | [download](best_known_solutions/LiLim/2001-01-01/lr108.9_968.966.txt) | 
+`lr101` | 2001-01-01 | Li&Lim | `19` | `1650.7992` | [download](best_known_solutions/LiLim/2001-01-01/lr101.19_1650.7992.txt) | SAM::OPT
+`lr102` | 2001-01-01 | Li&Lim | `17` | `1487.5704` | [download](best_known_solutions/LiLim/2001-01-01/lr102.17_1487.5704.txt) | SAM::OPT
+`lr103` | 2001-01-01 | Li&Lim | `13` | `1292.6755` | [download](best_known_solutions/LiLim/2001-01-01/lr103.13_1292.6755.txt) | SAM::OPT
+`lr104` | 2001-01-01 | Li&Lim | `9` | `1013.3893` | [download](best_known_solutions/LiLim/2001-01-01/lr104.9_1013.3893.txt) | SAM::OPT
+`lr105` | 2001-01-01 | Li&Lim | `14` | `1377.1110` | [download](best_known_solutions/LiLim/2001-01-01/lr105.14_1377.111.txt) | SAM::OPT
+`lr106` | 2001-01-01 | Li&Lim | `12` | `1252.6167` | [download](best_known_solutions/LiLim/2001-01-01/lr106.12_1252.6167.txt) | SAM::OPT
+`lr107` | 2001-01-01 | Li&Lim | `10` | `1111.3132` | [download](best_known_solutions/LiLim/2001-01-01/lr107.10_1111.3132.txt) | SAM::OPT
+`lr108` | 2001-01-01 | Li&Lim | `9` | `968.9660` | [download](best_known_solutions/LiLim/2001-01-01/lr108.9_968.966.txt) | SAM::OPT
 `lr109` | 2003-02-27 | SAM::OPT | `11` | `1208.9648` | [download](best_known_solutions/LiLim/2003-02-27/lr109.11_1208.9648.txt) | 
-`lr110` | 2001-01-01 | SAM::OPT | `10` | `1159.3484` | [download](best_known_solutions/LiLim/2001-01-01/lr110.10_1159.3484.txt) | 
-`lr111` | 2001-01-01 | SAM::OPT | `10` | `1108.9007` | [download](best_known_solutions/LiLim/2001-01-01/lr111.10_1108.9007.txt) | 
-`lr112` | 2001-01-01 | SAM::OPT | `9` | `1003.7670` | [download](best_known_solutions/LiLim/2001-01-01/lr112.9_1003.767.txt) | 
+`lr110` | 2001-01-01 | Li&Lim | `10` | `1159.3484` | [download](best_known_solutions/LiLim/2001-01-01/lr110.10_1159.3484.txt) | SAM::OPT
+`lr111` | 2001-01-01 | Li&Lim | `10` | `1108.9007` | [download](best_known_solutions/LiLim/2001-01-01/lr111.10_1108.9007.txt) | SAM::OPT
+`lr112` | 2001-01-01 | Li&Lim | `9` | `1003.7670` | [download](best_known_solutions/LiLim/2001-01-01/lr112.9_1003.767.txt) | SAM::OPT
 
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
 `lr201` | 2003-02-28 | SAM::OPT | `4` | `1253.2340` | [download](best_known_solutions/LiLim/2003-02-28/lr201.4_1253.234.txt) | 
-`lr202` | 2001-01-01 | SAM::OPT | `3` | `1197.6655` | [download](best_known_solutions/LiLim/2001-01-01/lr202.3_1197.6655.txt) | 
-`lr203` | 2001-01-01 | SAM::OPT | `3` | `949.3964` | [download](best_known_solutions/LiLim/2001-01-01/lr203.3_949.3964.txt) | 
-`lr204` | 2001-01-01 | SAM::OPT | `2` | `849.0504` | [download](best_known_solutions/LiLim/2001-01-01/lr204.2_849.0504.txt) | 
-`lr205` | 2001-01-01 | SAM::OPT | `3` | `1054.0186` | [download](best_known_solutions/LiLim/2001-01-01/lr205.3_1054.0186.txt) | 
-`lr206` | 2001-01-01 | SAM::OPT | `3` | `931.6254` | [download](best_known_solutions/LiLim/2001-01-01/lr206.3_931.6254.txt) | 
-`lr207` | 2001-01-01 | SAM::OPT | `2` | `903.0556` | [download](best_known_solutions/LiLim/2001-01-01/lr207.2_903.0556.txt) | 
-`lr208` | 2001-01-01 | SAM::OPT | `2` | `734.8480` | [download](best_known_solutions/LiLim/2001-01-01/lr208.2_734.848.txt) | 
+`lr202` | 2001-01-01 | Li&Lim | `3` | `1197.6655` | [download](best_known_solutions/LiLim/2001-01-01/lr202.3_1197.6655.txt) | SAM::OPT
+`lr203` | 2001-01-01 | Li&Lim | `3` | `949.3964` | [download](best_known_solutions/LiLim/2001-01-01/lr203.3_949.3964.txt) | SAM::OPT
+`lr204` | 2001-01-01 | Li&Lim | `2` | `849.0504` | [download](best_known_solutions/LiLim/2001-01-01/lr204.2_849.0504.txt) | SAM::OPT
+`lr205` | 2001-01-01 | Li&Lim | `3` | `1054.0186` | [download](best_known_solutions/LiLim/2001-01-01/lr205.3_1054.0186.txt) | SAM::OPT
+`lr206` | 2001-01-01 | Li&Lim | `3` | `931.6254` | [download](best_known_solutions/LiLim/2001-01-01/lr206.3_931.6254.txt) | SAM::OPT
+`lr207` | 2001-01-01 | Li&Lim | `2` | `903.0556` | [download](best_known_solutions/LiLim/2001-01-01/lr207.2_903.0556.txt) | SAM::OPT
+`lr208` | 2001-01-01 | Li&Lim | `2` | `734.8480` | [download](best_known_solutions/LiLim/2001-01-01/lr208.2_734.848.txt) | SAM::OPT
 `lr209` | 2003-03-09 | SAM::OPT | `3` | `930.5857` | [download](best_known_solutions/LiLim/2003-03-09/lr209.3_930.5857.txt) | 
-`lr210` | 2001-01-01 | SAM::OPT | `3` | `964.2236` | [download](best_known_solutions/LiLim/2001-01-01/lr210.3_964.2236.txt) | 
+`lr210` | 2001-01-01 | Li&Lim | `3` | `964.2236` | [download](best_known_solutions/LiLim/2001-01-01/lr210.3_964.2236.txt) | SAM::OPT
 `lr211` | 2003-05-15 | SAM::OPT | `2` | `911.5183` | [download](best_known_solutions/LiLim/2003-05-15/lr211.2_911.5183.txt) | 
 
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-`lrc101` | 2001-01-01 | SAM::OPT | `14` | `1708.8013` | [download](best_known_solutions/LiLim/2001-01-01/lrc101.14_1708.8013.txt) | 
+`lrc101` | 2001-01-01 | Li&Lim | `14` | `1708.8013` | [download](best_known_solutions/LiLim/2001-01-01/lrc101.14_1708.8013.txt) | SAM::OPT
 `lrc102` | 2003-02-19 | SAM::OPT | `12` | `1558.0693` | [download](best_known_solutions/LiLim/2003-02-19/lrc102.12_1558.0693.txt) | 
-`lrc103` | 2001-01-01 | SAM::OPT | `11` | `1258.7371` | [download](best_known_solutions/LiLim/2001-01-01/lrc103.11_1258.7371.txt) | 
-`lrc104` | 2001-01-01 | SAM::OPT | `10` | `1128.4012` | [download](best_known_solutions/LiLim/2001-01-01/lrc104.10_1128.4012.txt) | 
-`lrc105` | 2001-01-01 | SAM::OPT | `13` | `1637.6244` | [download](best_known_solutions/LiLim/2001-01-01/lrc105.13_1637.6244.txt) | 
+`lrc103` | 2001-01-01 | Li&Lim | `11` | `1258.7371` | [download](best_known_solutions/LiLim/2001-01-01/lrc103.11_1258.7371.txt) | SAM::OPT
+`lrc104` | 2001-01-01 | Li&Lim | `10` | `1128.4012` | [download](best_known_solutions/LiLim/2001-01-01/lrc104.10_1128.4012.txt) | SAM::OPT
+`lrc105` | 2001-01-01 | Li&Lim | `13` | `1637.6244` | [download](best_known_solutions/LiLim/2001-01-01/lrc105.13_1637.6244.txt) | SAM::OPT
 `lrc106` | 2003-02-28 | SAM::OPT | `11` | `1424.7337` | [download](best_known_solutions/LiLim/2003-02-28/lrc106.11_1424.7337.txt) | 
 `lrc107` | 2003-02-18 | SAM::OPT | `11` | `1230.1448` | [download](best_known_solutions/LiLim/2003-02-18/lrc107.11_1230.1448.txt) | 
 `lrc108` | 2003-02-28 | SAM::OPT | `10` | `1147.4253` | [download](best_known_solutions/LiLim/2003-02-28/lrc108.10_1147.4253.txt) | 
@@ -66,13 +66,13 @@ instance | when | who | routes | distance | url | detailed
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
 `lrc201` | 2003-02-28 | SAM::OPT | `4` | `1406.9401` | [download](best_known_solutions/LiLim/2003-02-28/lrc201.4_1406.9401.txt) | 
-`lrc202` | 2001-01-01 | SAM::OPT | `3` | `1374.2668` | [download](best_known_solutions/LiLim/2001-01-01/lrc202.3_1374.2668.txt) | 
-`lrc203` | 2001-01-01 | SAM::OPT | `3` | `1089.0677` | [download](best_known_solutions/LiLim/2001-01-01/lrc203.3_1089.0677.txt) | 
+`lrc202` | 2001-01-01 | Li&Lim | `3` | `1374.2668` | [download](best_known_solutions/LiLim/2001-01-01/lrc202.3_1374.2668.txt) | SAM::OPT
+`lrc203` | 2001-01-01 | Li&Lim | `3` | `1089.0677` | [download](best_known_solutions/LiLim/2001-01-01/lrc203.3_1089.0677.txt) | SAM::OPT
 `lrc204` | 2003-03-23 | SAM::OPT | `3` | `818.6631` | [download](best_known_solutions/LiLim/2003-03-23/lrc204.3_818.6631.txt) | 
-`lrc205` | 2001-01-01 | SAM::OPT | `4` | `1302.1985` | [download](best_known_solutions/LiLim/2001-01-01/lrc205.4_1302.1985.txt) | 
+`lrc205` | 2001-01-01 | Li&Lim | `4` | `1302.1985` | [download](best_known_solutions/LiLim/2001-01-01/lrc205.4_1302.1985.txt) | SAM::OPT
 `lrc206` | 2003-03-12 | SAM::OPT | `3` | `1159.0332` | [download](best_known_solutions/LiLim/2003-03-12/lrc206.3_1159.0332.txt) | 
 `lrc207` | 2004-01-04 | SAM::OPT | `3` | `1062.0483` | [download](best_known_solutions/LiLim/2004-01-04/lrc207.3_1062.0483.txt) | 
-`lrc208` | 2001-01-01 | SAM::OPT | `3` | `852.7576` | [download](best_known_solutions/LiLim/2001-01-01/lrc208.3_852.7576.txt) | 
+`lrc208` | 2001-01-01 | Li&Lim | `3` | `852.7576` | [download](best_known_solutions/LiLim/2001-01-01/lrc208.3_852.7576.txt) | SAM::OPT
 
 ## 200 clients
 instance | when | who | routes | distance | url | detailed
