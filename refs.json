@@ -1,0 +1,442 @@
+{
+  "B": [
+    {
+      "authors": "O. Bräysy",
+      "reference": "\"A Reactive Variable Neighborhood Search Algorithm for the Vehicle Routing Problem with Time Windows,\" Working Paper, University of Vaasa, Finland, 2001."
+    }
+  ],
+  "BBM": [
+    {
+      "authors": "Baldacci, Bartolini, and Mingozzi",
+      "reference": "An Exact Algorithm for the Pickup and Delivery Problem. Operations Research 59(2), pp. 414–426 (2011)."
+    }
+  ],
+  "BC4": [
+    {
+      "authors": "Mirosław Błocho, Zbigniew J. Czech",
+      "reference": "\"A parallel memetic algorithm for the vehicle routing problem with time windows\". 3PGCIC 2013, 8th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing."
+    },
+    {
+      "authors": "Mirosław Błocho, Zbigniew J. Czech",
+      "reference": "A parallel EAX-based memetic algorithm for the vehicle routing problem with time windows"
+    },
+    {
+      "authors": "Mirosław Błocho, Zbigniew J. Czech",
+      "reference": ""
+    },
+    {
+      "authors": "Mirosław Błocho, Zbigniew J. Czech",
+      "reference": "XXX"
+    }
+  ],
+  "BS": [
+    {
+      "authors": "Pete Bailey, Paul Smith (IFS 360 Scheduling)",
+      "reference": "Commercial Software (www.360scheduling.com)"
+    }
+  ],
+  "BSJ": [
+    {
+      "authors": "Bjørn Sigurd Johansen, BjornSigurdJohansen@hotmail.com",
+      "reference": "DSolver 09-2004"
+    }
+  ],
+  "BSJ2": [
+    {
+      "authors": "Bjørn Sigurd Johansen, BjornSigurdJohansen@hotmail.com",
+      "reference": "DSolver version2 05-2005."
+    }
+  ],
+  "BVH": [
+    {
+      "authors": "R. Bent and P. Van Hentenryck",
+      "reference": "\"A Two-Stage Hybrid Local Search for the Vehicle Routing Problem with Time Windows,\" Technical Report CS-01-06, Department of Computer Science, Brown University, 2001."
+    }
+  ],
+  "CAINIAO": [
+    {
+      "authors": "Zhu He, Longfei Wang, Weibo Lin, Yujie Chen, Haoyuan Hu (haoyuan.huhy@cainiao.com ), Yinghui Xu, & VRP Team (Ying Zhang, Guotao Wu, Kunpeng Han et al.)",
+      "reference": "Unpublished work by CAINIAO AI."
+    },
+    {
+      "authors": "Zhu He, Longfei Wang, Haoyuan Hu (haoyuan.huhy@cainiao.com), Yinghui Xu & VRP Team (Yujie Chen, Lei Wen, Guotao Wu, Ying Zhang et al.), unpublished result of CAINIAO AI.",
+      "reference": "\"New Algorithm for PDPTW\", unpublished result of CAINIAO AI."
+    },
+    {
+      "authors": "Zhu He, Longfei Wang, Weibo Lin, Yujie Chen, Haoyuan Hu (haoyuan.huhy@cainiao.com), Yinghui Xu & VRP Team (Ying Zhang, Guotao Wu, Kunpeng Han et al.), unpublished result of CAINIAO AI.",
+      "reference": "\"New Algorithm for VRPTW\", unpublished result of CAINIAO AI."
+    },
+    {
+      "authors": "Zhu He, Longfei Wang, Weibo Lin, Yujie Chen, Haoyuan Hu (Corresponding Author, haoyuan.huhy@cainiao.com), Yinghui Xu & VRP Team (Yin Zhang, Guotao Wu, Kunpeng Han et al.), unpublished result of CAINIAO AI.",
+      "reference": "\"New Algorithm for VRPTW\", unpublished result of CAINIAO AI."
+    },
+    {
+      "authors": "Zhu He, Longfei Wang, Weibo Lin, Yujie Chen, Haoyuan Hu (haoyuan.huhy@cainiao.com ), Yinghui Xu, & VRP Team (Ying Zhang, Guotao Wu, Kunpeng Han et al.)",
+      "reference": "Stark  VRP"
+    }
+  ],
+  "CLS": [
+    {
+      "authors": "Curtois & Landa Silva",
+      "reference": "Ejection based metaheuristic for PDPTW (working paper)"
+    },
+    {
+      "authors": "Curtois & Landa Silva",
+      "reference": "Ejection based metaheuristic for PDPTW. Working paper, University of Nottingham"
+    }
+  ],
+  "CVB": [
+    {
+      "authors": "Christiaens J. and Vanden Berghe G.",
+      "reference": "Preliminary title: A Fresh Ruin & Recreate Implementation for Capacitated Vehicle Routing Problems"
+    },
+    {
+      "authors": "Christiaens J. and Vanden Berghe G.",
+      "reference": "A Fresh Ruin & Recreate Implementation for Capacitated Vehicle Routing Problems. To be submitted."
+    }
+  ],
+  "CVB2": [
+    {
+      "authors": "Christiaens J. and Vanden Berghe G.",
+      "reference": "Preliminary title: Slack Induction by String Removals for Vehicle Routing Problems."
+    },
+    {
+      "authors": "Christiaens J. and Vanden Berghe G.",
+      "reference": "Preliminary title: Slack Induction by String Removals for Vehicle Routing Problems"
+    }
+  ],
+  "DK": [
+    {
+      "authors": "Dirk Koning",
+      "reference": "Using Column Generation for the Pickup and Delivery Problem with Disturbances, Technical Report, Department of Computer Science, Utrecht University, 2011."
+    },
+    {
+      "authors": "Dirk Koning",
+      "reference": "D. Koning, Using Column Generation for the Pickup and Delivery Problem with Disturbances, Technical Report, Department of Computer Science, Utrecht University, 2011."
+    }
+  ],
+  "EMIF": [
+    {
+      "authors": "Evgeny Makarov, Ilya Fiks (swatmobile.io)",
+      "reference": "swatmobile.io"
+    }
+  ],
+  "EOE": [
+    {
+      "authors": "Eirik Krogen Hagen, EOE Koordinering DA",
+      "reference": "\"Exploring infeasible and feasible regions of the VRPTW and PDPTW through penalty based tabu search\". Working paper."
+    },
+    {
+      "authors": "Eirik Krogen Hagen, EOE Koordinering DA",
+      "reference": "Exploring infeasible and feasible regions of the PDPTW through penalty based tabu search. Working paper."
+    },
+    {
+      "authors": "Eirik Krogen Hagen, EOE Koordinering DA",
+      "reference": "Exploring infeasible and feasible regions of the VRPTW and PDPTW through penalty based tabu search. Working paper."
+    }
+  ],
+  "G": [
+    {
+      "authors": "Tomasz Gandor",
+      "reference": "\"Approximate Solutions for the Vehicle Routing Problem with Time Windows for a Large Number of Customers\". \"Systemy Wspomagania Decyzji\" (Decision Support Systems), 2008, Zakopane, Poland."
+    }
+  ],
+  "GH": [
+    {
+      "authors": "H. Gehring and J. Homberger",
+      "reference": "\"A Parallel Two-phase Metaheuristic for Routing Problems with Time Windows,\" Asia-Pacific Journal of Operational Research, 18, 35-47, (2001)."
+    }
+  ],
+  "H": [
+    {
+      "authors": "Keld Helsgaun",
+      "reference": "Unpublished Technical Report, Roskilde University, 2017."
+    },
+    {
+      "authors": "Keld Helsgaun",
+      "reference": "Working paper, Roskilde University, Denmark (2016)."
+    },
+    {
+      "authors": "Keld Helsgaun",
+      "reference": ""
+    }
+  ],
+  "JG": [
+    {
+      "authors": "Jakub Grzegorek",
+      "reference": "Improved Hybrid Genetic Search with Advanced Diversity Control, forthcoming MEng thesis, Imperial College London. (2017)"
+    }
+  ],
+  "JN": [
+    {
+      "authors": "Jakub Nalepa",
+      "reference": "\"Parallel memetic algorithm to solve the vehicle routing problem with time windows, Master of Science Thesis, Silesian University of Technology, Gliwice, 2011\""
+    }
+  ],
+  "JNMB": [
+    {
+      "authors": "Jakub Nalepa, Miroslaw Blocho.",
+      "reference": "\"Co-operation in the Parallel Memetic Algorithm\", International Journal of Parallel Programming 214, pp 1-28. http://dx.doi.org/10.1007/s10766-014-0343-4"
+    }
+  ],
+  "JNMB2": [
+    {
+      "authors": "Jakub Nalepa, Miroslaw Blocho.",
+      "reference": "\"Temporally Adaptive Co-operation Schemes\". working paper."
+    },
+    {
+      "authors": "Jakub Nalepa, Miroslaw Blocho",
+      "reference": "Temporally Adaptive Co-operation Schemes, working paper"
+    },
+    {
+      "authors": "Jakub Nalepa, Mirosław Błocho",
+      "reference": "Temporally Adaptive Co-operation Schemes, working paper"
+    }
+  ],
+  "K": [
+    {
+      "authors": "Richard Kelly",
+      "reference": "Hybrid Ejection Chains and Adaptive LNS for the PDPTW. Working paper."
+    },
+    {
+      "authors": "Richard Kelly",
+      "reference": "Hybrid Ejection Chains and Adaptive LNS for the PDPTW, Working Paper"
+    },
+    {
+      "authors": "Richard Kelly",
+      "reference": ""
+    }
+  ],
+  "Li&Lim": [
+    {
+      "authors": "Li H. and A. Lim",
+      "reference": "A MetaHeuristic for the Pickup and Delivery Problem with Time Windows, In Proceedings of the 13th International Conference on Tools with Artificial Intelligence, Dallas, TX, USA, 2001."
+    }
+  ],
+  "LL": [
+    {
+      "authors": "H. Li and A. Lim",
+      "reference": "\"Large Scale Time-Constrained Vehicle Routing Problems: A General Metaheuristic Framework with Extensive Experimental Results,\" Submitted to Artificial Intelligence Review, 2001."
+    }
+  ],
+  "M": [
+    {
+      "authors": "D. Mester",
+      "reference": "\"An Evolutionary Strategies Algorithm for Large Scale Vehicle Routing Problem with Capacitate and Time Windows Restrictions,\" Working Paper, Institute of Evolution, University of Haifa, Israel (2002)."
+    }
+  ],
+  "MB": [
+    {
+      "authors": "Mester, D. and O. Bräysy",
+      "reference": "\"Active Guided Evolution Strategies for Large Scale Vehicle Routing Problems with Time Windows\". Computers & Operations Research 32, 1593-1614. (2005)"
+    },
+    {
+      "authors": "Mester, D. and O. Bräysy",
+      "reference": "Correction of result from MB - Mester, D. and O. Bräysy (2005), \"Active Guided Evolution Strategies for Large Scale Vehicle Routing Problems with Time Windows\". Computers & Operations Research 32, 1593-1614."
+    }
+  ],
+  "MB2": [
+    {
+      "authors": "Mester, D. and O. Bräysy",
+      "reference": "\"A new powerful metaheuristic for the VRPTW\", working paper, University of Haifa, Israel (2012)."
+    }
+  ],
+  "MBD": [
+    {
+      "authors": "D. Mester, O. Bräysy and W. Dullaert",
+      "reference": "\"A Multi-parametric Evolution Strategies Algorithm for Vehicle Routing Problems\". Working Paper, Institute of Evolution, University of Haifa, Israel (2005)."
+    }
+  ],
+  "MFS": [
+    {
+      "authors": "Evgeny Makarov, Ilya Fiks, Eugene Sorokhtin",
+      "reference": "swatmobile.io"
+    },
+    {
+      "authors": "Evgeny Makarov, Ilya Fiks, Eugene Sorokhtin (swatmobile.io)",
+      "reference": "swatmobile.io"
+    }
+  ],
+  "MK": [
+    {
+      "authors": "M. Koch",
+      "reference": "\"An approach combining two methods for the vehicle routing problem with time windows\",  The solutions were presented at EURO and EURO XX Conference 2004."
+    }
+  ],
+  "NB": [
+    {
+      "authors": "Jakub Nalepa, Mirosław Błocho",
+      "reference": "Co-operation in the parallel memetic algorithm, submitted to International Journal of Parallel Programming"
+    }
+  ],
+  "NB1": [
+    {
+      "authors": "J. Nalepa and M. Blocho",
+      "reference": "\"Enhanced Guided Ejection Search for the Pickup and Delivery Problem with Time Windows\" Intelligent Information and Database Systems: Proc. 8th Asian Conference, ACIIDS 2016, pages 388–398. Springer, Heidelberg, 2016."
+    }
+  ],
+  "NBC": [
+    {
+      "authors": "Jakub Nalepa, Miroslaw Blocho, and Zbigniew J. Czech.",
+      "reference": "\"Co-operation schemes for the parallel memetic algorithm\". In Roman Wyrzykowski, Jack Dongarra, Konrad Karczewski, and Jerzy Waniewski, editors, Parallel Processing and Applied Mathematics, Lecture Notes in Computer Science, pages 191–201. Springer Berlin Heidelberg, 2014. ISBN 978-3-642-55223-6. doi: 10.1007/978-3-642-55224-3 19."
+    }
+  ],
+  "NBD": [
+    {
+      "authors": "Yuichi Nagata, Olli Bräysy, and Wout Dullaert (2010)",
+      "reference": "\"A penalty-based edge assembly memetic algorithm for the vehicle routing problem with time windows\". Comput. Oper. Res. 37, 4 (April 2010), 724-737."
+    }
+  ],
+  "PGDR": [
+    {
+      "authors": "Eric Prescott-Gagnon, Guy Desaulniers and Louis-Martin Rousseau",
+      "reference": "A Branch-and-Price-Based Large Neighborhood Search Algorithm for the Vehicle Routing Problem with Time Windows. (2007)."
+    }
+  ],
+  "Q": [
+    {
+      "authors": "Quintiq",
+      "reference": "http://www.quintiq.com/optimization/vrptw-world-records.html"
+    },
+    {
+      "authors": "Quintiq",
+      "reference": "http://www.quintiq.com/optimization-world-records.aspx"
+    }
+  ],
+  "RC": [
+    {
+      "authors": "Ropke S. and J.-F. Cordeau",
+      "reference": "Branch and cut and price for the pickup and delivery problem with time windows. Transportation Sci. 43(3)267–286 (2009)."
+    }
+  ],
+  "RP": [
+    {
+      "authors": "S. Ropke & D. Pisinger",
+      "reference": "An Adaptive Large Neighborhood Search Heuristic for the Pickup and Delivery Problem with Time Windows, Technical Report, Department of Computer  Science, University of Copenhagen, 2004."
+    }
+  ],
+  "RP2": [
+    {
+      "authors": "S. Ropke & D.Pisinger",
+      "reference": "\"A general heuristic for vehicle routing problems\",  technical report, Department of Computer Science, University of Copenhagen."
+    }
+  ],
+  "SAM::OPT": [
+    {
+      "authors": "Geir Hasle, Oddvar Kloster",
+      "reference": "Industrial Vehicle Routing Problems. Chapter in Hasle G., K-A Lie, E. Quak (eds): Geometric Modelling, Numerical Simulation, and Optimization. ISBN 978-3-540-68782-5, Springer 2007"
+    },
+    {
+      "authors": "Geir Hasle, Oddvar Kloster",
+      "reference": "Chapter in G. Hasle, K-A Lie, E. Quak (eds): Geometric Modelling, Numerical Simulation, and Optimization. ISBN 978-3-540-68782-5, Springer 2007."
+    },
+    {
+      "authors": "Geir Hasle, Oddvar Kloster",
+      "reference": "Chapter in Hasle G. K-A Lie E. Quak (eds): Geometric Modelling Numerical Simulation and Optimization. ISBN 978-3-540-68782-5 Springer 2007."
+    },
+    {
+      "authors": "Geir Hasle, Oddvar Kloster",
+      "reference": "Chapter in Hasle G K-A Lie E. Quak (eds): Geometric Modelling Numerical Simulation and Optimization. ISBN 978-3-540-68782-5 Springer 2007."
+    },
+    {
+      "authors": "Geir Hasle, Oddvar Kloster",
+      "reference": "Chapter in Hasle G K-A Lie E. Quak (eds): Geometric Modelling, Numerical Simulation, and Optimization. ISBN 978-3-540-68782-5 Springer 2007."
+    },
+    {
+      "authors": "Geir Hasle, Oddvar Kloster",
+      "reference": "Chapter in Hasle G K-A Lie E Quak (eds): Geometric Modelling Numerical Simulation and Optimization. ISBN 978-3-540-68782-5 Springer 2007."
+    }
+  ],
+  "SB": [
+    {
+      "authors": "Carlo Sartori, Luciana Buriol",
+      "reference": "A matheuristic approach to the PDPTW (to be submitted)."
+    },
+    {
+      "authors": "Carlo Sartori, Luciana Buriol",
+      "reference": "A matheuristic approach to the PDPTW. (to be submitted)"
+    }
+  ],
+  "SCR": [
+    {
+      "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Piotr Beling Andrzej Jaszkiewicz, Przemysław Pełka. Emapa S.A. (http://www.emapa.pl)",
+      "reference": "\"New methods of VRP problem optimization\", unpublished research funded by The National Centre for Research and Development. project number: POIR.01.01.01.-00-0222/16."
+    },
+    {
+      "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Piotr Beling, Andrzej Jaszkiewicz, Przemysław Pełka, Mariusz Kok.  Emapa S.A. (http://www.emapa.pl), research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
+      "reference": "\"New methods of VRP problem optimization\", unpublished result."
+    },
+    {
+      "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Piotr Beling, Andrzej Jaszkiewicz, Przemysław Pełka.  Emapa S.A. (http://www.emapa.pl), research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
+      "reference": "\"New methods of VRP problem optimization\", unpublished result."
+    },
+    {
+      "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Piotr Beling, Andrzej Jaszkiewicz.  Emapa S.A. (http://www.emapa.pl), research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
+      "reference": "\"New methods of VRP problem optimization\", unpublished result."
+    },
+    {
+      "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski.  Emapa S.A. (http://www.emapa.pl), research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
+      "reference": "\"New methods of VRP problem optimization\", unpublished result."
+    },
+    {
+      "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Mariusz Kok, Piotr Beling, Andrzej Jaszkiewicz, Przemysław Pełka.",
+      "reference": "\"Optimization of advanced VRP problem variants\", unpublished. Computing grant 358 funded by Poznan Supercomputing and Networking Center."
+    },
+    {
+      "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Mariusz Kok, Piotr Beling, Andrzej Jaszkiewicz, Przemysław Pełka.",
+      "reference": "\"Optimization of advanced VRP problem variants\", unpublished result. Computing grant 358 funced by Poznan Supercomputing and Networking Center."
+    },
+    {
+      "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Mariusz Kok, Piotr Beling, Andrzej Jaszkiewicz, Przemysław Pełka.  Emapa S.A. (http://www.emapa.pl)",
+      "reference": "\"Development of universal methods of solving advanced VRP problems with the use of machine learning\", unpublished research funded by The National Centre for Research and Development, project number: POIR.01.01.01-00-0012/19.  \"Optimization of advanced VRP problem variants\", unpublished. Computing grant 358 funded by Poznan Supercomputing and Networking Center."
+    },
+    {
+      "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Mariusz Kok, Piotr Beling, Andrzej Jaszkiewicz, Przemyslaw Pelka.  Emapa S.A. (http://www.emapa.pl)",
+      "reference": "Development of universal methods of solving advanced VRP problems with the use of machine learning\", unpublished research funded by The National Centre for Research and Development, project number: POIR.01.01.01-00-0012/19.  \"Optimization of advanced VRP problem variants\", unpublished. Computing grant 358 funded by Poznan Supercomputing and Networking Center."
+    }
+  ],
+  "Shobb": [
+    {
+      "authors": "Shobb",
+      "reference": "http://shobb.narod.ru/vrppd.html"
+    },
+    {
+      "authors": "Shobb<shobb@narod.ru>",
+      "reference": "http://shobb.narod.ru/vrppd.html"
+    }
+  ],
+  "TS": [
+    {
+      "authors": "TetraSoft A/S",
+      "reference": "MapBooking Algoritm for Pickup and Delivery Solutions with Time Windows and Capacity restraints."
+    }
+  ],
+  "VCGP": [
+    {
+      "authors": "T. Vidal, T. G. Crainic, M. Gendreau, C. Prins",
+      "reference": "'A hybrid genetic algorithm with adaptive diversity managment for a large class of vehicle routing problems with time-windows'"
+    },
+    {
+      "authors": "T. Vidal, T. G. Crainic, M. Gendreau, C. Prins",
+      "reference": "A hybrid genetic algorithm with adaptive diversity managment for a large class of vehicle routing problems with time-windows"
+    }
+  ],
+  "WA": [
+    {
+      "authors": "Ruud Wagemaker",
+      "reference": "MSc thesis in progress. Tilburg University."
+    }
+  ],
+  "WM": [
+    {
+      "authors": "Ganzhong Luo (luoganzhong@water-mirror.com), Lei Gao (gaolei@water-mirror.com), Zhixin Liu, Yaning Li, Mingxiang Chen, Qichang Chen, Nuoyi Zhu, unpublished result of WATERMIRROR AI.",
+      "reference": "\"New Algorithms for VRPTW & PDPTW\", unpublished result of WATERMIRROR AI."
+    }
+  ],
+  "WW": [
+    {
+      "authors": "Witoslaw Wierzbicki",
+      "reference": "\"Design and implementation of parallel programs with shared memory\". Master of Science Thesis, University of Silesia, Sosnowiec, 2012."
+    }
+  ]
+}

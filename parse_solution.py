@@ -1,8 +1,11 @@
 from typing import List, Dict, Any
+from collections import namedtuple
+
+Reference = namedtuple('ref', 'author reference')
 
 
 def after_colon(s: str) -> str:
-    return s.split(':')[1].strip()
+    return s.split(':', 1)[1].strip()
 
 
 def to_numbers(line: str) -> List[int]:
@@ -33,6 +36,9 @@ def instance_name_to_benchmark(instance: str):
 def parse_solution(lines: List[str]) -> Dict[str, Any]:
     instance = after_colon(lines[0]).lower()
 
+    authors = after_colon(lines[1])
+    reference = after_colon(lines[3])
+
     # line number of the first route
     routes_start = 5
 
@@ -45,5 +51,6 @@ def parse_solution(lines: List[str]) -> Dict[str, Any]:
     return {
         "benchmark": instance_name_to_benchmark(instance),
         "instance": instance,
-        "routes": routes
+        "routes": routes,
+        "who": Reference(authors, reference)
     }

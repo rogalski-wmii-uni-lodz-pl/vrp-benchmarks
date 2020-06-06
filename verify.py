@@ -71,8 +71,8 @@ def check_sanity(solution: Dict[str, Any]):
         check_route_nodes(route, r + 1)
 
 
-def read_instance(benchmark: str, instance: str) -> List[str]:
-    path = (instances_location / benchmark / (instance + ".txt")).resolve()
+def read_instance(location: Path, benchmark: str, instance: str) -> List[str]:
+    path = (location / benchmark / (instance + ".txt")).resolve()
     return read_file(path)
 
 
@@ -114,7 +114,10 @@ def verify_file(approximation: int = 4):
 
     solution = parse_solution(file_contents)
 
-    instance_file = read_instance(solution["benchmark"], solution["instance"])
+    instance_file = read_instance(
+        instances_location,
+        solution["benchmark"],
+        solution["instance"])
 
     instance = parse_instance(instance_file)
 
