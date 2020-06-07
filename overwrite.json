@@ -1,4 +1,34 @@
 [
+
+{"instance":  "lc2_4_10",   "when":  "2003-06-27",  "who":  ["BVH"],            "routes":  12,   "distnace":  3828.4359,   "file":  "lc2_4_10.12_3828.4359.txt"},
+{"instance":  "lr1_4_1",    "when":  "2003-01-01",  "who":  ["TS"],             "routes":  40,   "distnace":  10639.7539,  "file":  "lr1_4_1.40_10639.7539.txt"},
+{"instance":  "lc1_6_1",    "when":  "2003-07-14",  "who":  ["RP2"],            "routes":  60,   "distnace":  14095.6438,  "file":  "lc1_6_1.60_14095.6438.txt"},
+{"instance":  "lc1_6_5",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  60,   "distnace":  14086.3016,  "file":  "lc1_6_5.60_14086.3016.txt"},
+{"instance":  "lc1_6_6",    "when":  "2003-07-14",  "who":  ["RP2"],            "routes":  60,   "distnace":  14090.7906,  "file":  "lc1_6_6.60_14090.7906.txt"},
+{"instance":  "lc2_6_8",    "when":  "2003-07-14",  "who":  ["RP2"],            "routes":  18,   "distnace":  7579.9262,   "file":  "lc2_6_8.18_7579.9262.txt"},
+{"instance":  "lr1_8_1",    "when":  "2018-04-06",  "who":  ["CVB"],            "routes":  80,   "distnace":  39291.3198,  "file":  "lr1_8_1.80_39291.3198.txt"},
+{"instance":  "lc1_10_7",   "when":  "2003-01-01",  "who":  ["TS"],             "routes":  100,  "distnace":  42854.9853,  "file":  "lc1_10_7.100_42854.9853.txt"},
+{"instance":  "lc2_10_1",   "when":  "2003-01-01",  "who":  ["TS"],             "routes":  30,   "distnace":  16879.2419,  "file":  "lc2_10_1.30_16879.2419.txt"},
+{"instance":  "lc2_10_5",   "when":  "2005-02-25",  "who":  ["RP2"],            "routes":  31,   "distnace":  17137.5280,  "file":  "lc2_10_5.31_17137.528.txt"},
+{"instance":  "lc2_4_9",    "when":  "2003-07-08",  "who":  ["RP2"],            "routes":  12,   "distance":  4188.9281,   "file":  "lc2_4_9.12_4188.9281.txt"},
+{"instance":  "lc1_2_1",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  20,   "distance":  2704.5678,   "file":  "lc1_2_1.20_2704.5678.txt"},
+{"instance":  "lc1_2_2",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  19,   "distance":  2764.5552,   "file":  "lc1_2_2.19_2764.5552.txt"},
+{"instance":  "lc1_2_5",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  20,   "distance":  2702.0488,   "file":  "lc1_2_5.20_2702.0488.txt"},
+{"instance":  "lc1_2_6",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  20,   "distance":  2701.0354,   "file":  "lc1_2_6.20_2701.0354.txt"},
+{"instance":  "lc1_2_7",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  20,   "distance":  2701.0354,   "file":  "lc1_2_7.20_2701.0354.txt"},
+{"instance":  "lc1_2_9",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  18,   "distance":  2724.2353,   "file":  "lc1_2_9.18_2724.2353.txt"},
+{"instance":  "lc2_2_1",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  6,    "distance":  1931.4425,   "file":  "lc2_2_1.6_1931.4425.txt"},
+{"instance":  "lc2_2_2",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  6,    "distance":  1881.4023,   "file":  "lc2_2_2.6_1881.4023.txt"},
+{"instance":  "lc2_2_4",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  6,    "distance":  1767.1183,   "file":  "lc2_2_4.6_1767.1183.txt"},
+{"instance":  "lc2_2_5",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  6,    "distance":  1891.2090,   "file":  "lc2_2_5.6_1891.209.txt"},
+{"instance":  "lc2_2_8",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  6,    "distance":  1824.3360,   "file":  "lc2_2_8.6_1824.336.txt"},
+{"instance":  "lc2_2_10",   "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  6,    "distance":  1817.4533,   "file":  "lc2_2_10.6_1817.4533.txt"},
+{"instance":  "lr1_2_1",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  20,   "distance":  4819.1241,   "file":  "lr1_2_1.20_4819.1241.txt"},
+{"instance":  "lc1_4_4",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  30,   "distance":  6451.6800,   "file":  "lc1_4_4.30_6451.68.txt"},
+{"instance":  "lc1_4_6",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  40,   "distance":  7154.0159,   "file":  "lc1_4_6.40_7154.0159.txt"},
+{"instance":  "lc2_4_1",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  12,   "distance":  4116.3291,   "file":  "lc2_4_1.12_4116.3291.txt"},
+{"instance":  "lc2_4_4",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  12,   "distance":  3743.9500,   "file":  "lc2_4_4.12_3743.95.txt"},
+{"instance":  "lc2_4_8",    "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  12,   "distance":  3844.4523,   "file":  "lc2_4_8.12_3844.4523.txt"},
 {"instance":  "lc101",      "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  10,   "distance":  828.9369,    "file":  "lc101.10_828.9369.txt"},
 {"instance":  "lc102",      "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  10,   "distance":  828.9369,    "file":  "lc102.10_828.9369.txt"},
 {"instance":  "lc105",      "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  10,   "distance":  828.9369,    "file":  "lc105.10_828.9369.txt"},
@@ -758,6 +788,5 @@
 {"instance":  "c1_4_6",     "when":  "2001-01-01",  "who":  ["BVH"],            "routes":  40,   "distance":  7153.4548,   "file":  "c1_4_6.40_7153.4548.txt"},
 {"instance":  "c1_6_1",     "when":  "2001-01-01",  "who":  ["GH"],             "routes":  60,   "distance":  14095.6438,  "file":  "c1_6_1.60_14095.6438.txt"},
 {"instance":  "c1_2_2",     "when":  "2001-01-01",  "who":  ["BVH"],            "routes":  18,   "distance":  2917.892,    "file":  "c1_2_2.18_2917.892.txt"},
-{}                                                                                                                                  
+{}
 ]
-

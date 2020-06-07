@@ -77,33 +77,33 @@ instance | when | who | routes | distance | url | detailed
 ## 200 clients
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-`lc1_2_1` | 2001-01-01 | SAM::OPT | `20` | `2704.5678` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_1.20_2704.5678.txt) | 
-`lc1_2_2` | 2001-01-01 | SAM::OPT | `19` | `2764.5552` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_2.19_2764.5552.txt) | 
+`lc1_2_1` | 2001-01-01 | Li&Lim | `20` | `2704.5678` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_1.20_2704.5678.txt) | SAM::OPT
+`lc1_2_2` | 2001-01-01 | Li&Lim | `19` | `2764.5552` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_2.19_2764.5552.txt) | SAM::OPT
 `lc1_2_3` | 2016-07-15 | H | `17` | `3127.7846` | [download](best_known_solutions/LiLim/2016-07-15/lc1_2_3.17_3127.7846.txt) | 
 `lc1_2_4` | 2003-06-27 | K | `17` | `2693.4088` | [download](best_known_solutions/LiLim/2003-06-27/lc1_2_4.17_2693.4088.txt) | 
-`lc1_2_5` | 2001-01-01 | SAM::OPT | `20` | `2702.0488` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_5.20_2702.0488.txt) | 
-`lc1_2_6` | 2001-01-01 | SAM::OPT | `20` | `2701.0354` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_6.20_2701.0354.txt) | 
-`lc1_2_7` | 2001-01-01 | SAM::OPT | `20` | `2701.0354` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_7.20_2701.0354.txt) | 
+`lc1_2_5` | 2001-01-01 | Li&Lim | `20` | `2702.0488` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_5.20_2702.0488.txt) | SAM::OPT
+`lc1_2_6` | 2001-01-01 | Li&Lim | `20` | `2701.0354` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_6.20_2701.0354.txt) | SAM::OPT
+`lc1_2_7` | 2001-01-01 | Li&Lim | `20` | `2701.0354` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_7.20_2701.0354.txt) | SAM::OPT
 `lc1_2_8` | 2018-04-18 | SB | `19` | `3354.2726` | [download](best_known_solutions/LiLim/2018-04-18/lc1_2_8.19_3354.2726.txt) | 
-`lc1_2_9` | 2001-01-01 | SAM::OPT | `18` | `2724.2353` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_9.18_2724.2353.txt) | 
+`lc1_2_9` | 2001-01-01 | Li&Lim | `18` | `2724.2353` | [download](best_known_solutions/LiLim/2001-01-01/lc1_2_9.18_2724.2353.txt) | SAM::OPT
 `lc1_2_10` | 2015-11-19 | EOE | `17` | `2942.1319` | [download](best_known_solutions/LiLim/2015-11-19/lc1_2_10.17_2942.1319.txt) | 
 
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-`lc2_2_1` | 2001-01-01 | SAM::OPT | `6` | `1931.4425` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_1.6_1931.4425.txt) | 
-`lc2_2_2` | 2001-01-01 | SAM::OPT | `6` | `1881.4023` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_2.6_1881.4023.txt) | 
+`lc2_2_1` | 2001-01-01 | Li&Lim | `6` | `1931.4425` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_1.6_1931.4425.txt) | SAM::OPT
+`lc2_2_2` | 2001-01-01 | Li&Lim | `6` | `1881.4023` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_2.6_1881.4023.txt) | SAM::OPT
 `lc2_2_3` | 2003-04-15 | SAM::OPT | `6` | `1844.3281` | [download](best_known_solutions/LiLim/2003-04-15/lc2_2_3.6_1844.3281.txt) | 
-`lc2_2_4` | 2001-01-01 | SAM::OPT | `6` | `1767.1183` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_4.6_1767.1183.txt) | 
-`lc2_2_5` | 2001-01-01 | SAM::OPT | `6` | `1891.2090` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_5.6_1891.209.txt) | 
+`lc2_2_4` | 2001-01-01 | Li&Lim | `6` | `1767.1183` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_4.6_1767.1183.txt) | SAM::OPT
+`lc2_2_5` | 2001-01-01 | Li&Lim | `6` | `1891.2090` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_5.6_1891.209.txt) | SAM::OPT
 `lc2_2_6` | 2003-12-29 | SAM::OPT | `6` | `1857.7772` | [download](best_known_solutions/LiLim/2003-12-29/lc2_2_6.6_1857.7772.txt) | 
 `lc2_2_7` | 2003-12-10 | SAM::OPT | `6` | `1850.1343` | [download](best_known_solutions/LiLim/2003-12-10/lc2_2_7.6_1850.1343.txt) | 
-`lc2_2_8` | 2001-01-01 | SAM::OPT | `6` | `1824.3360` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_8.6_1824.336.txt) | 
+`lc2_2_8` | 2001-01-01 | Li&Lim | `6` | `1824.3360` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_8.6_1824.336.txt) | SAM::OPT
 `lc2_2_9` | 2003-09-01 | SAM::OPT | `6` | `1854.2104` | [download](best_known_solutions/LiLim/2003-09-01/lc2_2_9.6_1854.2104.txt) | 
-`lc2_2_10` | 2001-01-01 | SAM::OPT | `6` | `1817.4533` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_10.6_1817.4533.txt) | 
+`lc2_2_10` | 2001-01-01 | Li&Lim | `6` | `1817.4533` | [download](best_known_solutions/LiLim/2001-01-01/lc2_2_10.6_1817.4533.txt) | SAM::OPT
 
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-`lr1_2_1` | 2001-01-01 | SAM::OPT | `20` | `4819.1241` | [download](best_known_solutions/LiLim/2001-01-01/lr1_2_1.20_4819.1241.txt) | 
+`lr1_2_1` | 2001-01-01 | Li&Lim | `20` | `4819.1241` | [download](best_known_solutions/LiLim/2001-01-01/lr1_2_1.20_4819.1241.txt) | SAM::OPT
 `lr1_2_2` | 2003-07-08 | K | `17` | `4621.2058` | [download](best_known_solutions/LiLim/2003-07-08/lr1_2_2.17_4621.2058.txt) | 
 `lr1_2_3` | 2016-02-27 | CLS | `14` | `4402.3848` | [download](best_known_solutions/LiLim/2016-02-27/lr1_2_3.14_4402.3848.txt) | 
 `lr1_2_4` | 2018-04-18 | SB | `10` | `3027.0620` | [download](best_known_solutions/LiLim/2018-04-18/lr1_2_4.10_3027.062.txt) | 
@@ -161,7 +161,7 @@ instance | when | who | routes | distance | url | detailed
 `lc1_4_3` | 2019-11-06 | SCR | `32` | `8678.2293` | [download](best_known_solutions/LiLim/2019-11-06/lc1_4_3.32_8678.2293.txt) | 
 `lc1_4_4` | 2001-01-01 | LL | `30` | `6451.6800` | [download](best_known_solutions/LiLim/2001-01-01/lc1_4_4.30_6451.68.txt) | ???
 `lc1_4_5` | 2003-04-19 | SAM::OPT | `40` | `7149.9962` | [download](best_known_solutions/LiLim/2003-04-19/lc1_4_5.40_7149.9962.txt) | 
-`lc1_4_6` | 2001-01-01 | SAM::OPT | `40` | `7154.0159` | [download](best_known_solutions/LiLim/2001-01-01/lc1_4_6.40_7154.0159.txt) | 
+`lc1_4_6` | 2001-01-01 | Li&Lim | `40` | `7154.0159` | [download](best_known_solutions/LiLim/2001-01-01/lc1_4_6.40_7154.0159.txt) | SAM::OPT
 `lc1_4_7` | 2003-03-15 | SAM::OPT | `40` | `7149.4345` | [download](best_known_solutions/LiLim/2003-03-15/lc1_4_7.40_7149.4345.txt) | 
 `lc1_4_8` | 2019-01-17 | CVB2 | `38` | `8305.4246` | [download](best_known_solutions/LiLim/2019-01-17/lc1_4_8.38_8305.4246.txt) | 
 `lc1_4_9` | 2015-10-09 | Q | `36` | `7451.1989` | [download](best_known_solutions/LiLim/2015-10-09/lc1_4_9.36_7451.1989.txt) | 
@@ -169,20 +169,20 @@ instance | when | who | routes | distance | url | detailed
 
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-`lc2_4_1` | 2001-01-01 | SAM::OPT | `12` | `4116.3291` | [download](best_known_solutions/LiLim/2001-01-01/lc2_4_1.12_4116.3291.txt) | 
+`lc2_4_1` | 2001-01-01 | Li&Lim | `12` | `4116.3291` | [download](best_known_solutions/LiLim/2001-01-01/lc2_4_1.12_4116.3291.txt) | SAM::OPT
 `lc2_4_2` | 2003-05-15 | SAM::OPT | `12` | `4144.2890` | [download](best_known_solutions/LiLim/2003-05-15/lc2_4_2.12_4144.289.txt) | 
 `lc2_4_3` | 2019-01-17 | CVB2 | `12` | `4401.0810` | [download](best_known_solutions/LiLim/2019-01-17/lc2_4_3.12_4401.081.txt) | 
 `lc2_4_4` | 2001-01-01 | LL | `12` | `3743.9500` | [download](best_known_solutions/LiLim/2001-01-01/lc2_4_4.12_3743.95.txt) | ???
 `lc2_4_5` | 2003-05-01 | SAM::OPT | `12` | `4030.6341` | [download](best_known_solutions/LiLim/2003-05-01/lc2_4_5.12_4030.6341.txt) | 
 `lc2_4_6` | 2003-04-20 | SAM::OPT | `12` | `3900.2855` | [download](best_known_solutions/LiLim/2003-04-20/lc2_4_6.12_3900.2855.txt) | 
 `lc2_4_7` | 2003-06-27 | SAM::OPT | `12` | `3962.5070` | [download](best_known_solutions/LiLim/2003-06-27/lc2_4_7.12_3962.507.txt) | 
-`lc2_4_8` | 2001-01-01 | SAM::OPT | `12` | `3844.4523` | [download](best_known_solutions/LiLim/2001-01-01/lc2_4_8.12_3844.4523.txt) | 
-`lc2_4_9` | 2003-07-08 | Shobb | `12` | `4188.9281` | [download](best_known_solutions/LiLim/2003-07-08/lc2_4_9.12_4188.9281.txt) | 
-`lc2_4_10` | 2003-06-27 | SAM::OPT | `12` | `3828.4359` | [download](best_known_solutions/LiLim/2003-06-27/lc2_4_10.12_3828.4359.txt) | 
+`lc2_4_8` | 2001-01-01 | Li&Lim | `12` | `3844.4523` | [download](best_known_solutions/LiLim/2001-01-01/lc2_4_8.12_3844.4523.txt) | SAM::OPT
+`lc2_4_9` | 2003-07-08 | RP2 | `12` | `4188.9281` | [download](best_known_solutions/LiLim/2003-07-08/lc2_4_9.12_4188.9281.txt) | Shobb
+`lc2_4_10` | 2003-06-27 | BVH | `12` | `3828.4359` | [download](best_known_solutions/LiLim/2003-06-27/lc2_4_10.12_3828.4359.txt) | SAM::OPT
 
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-`lr1_4_1` | 2003-01-01 | SAM::OPT | `40` | `10639.7539` | [download](best_known_solutions/LiLim/2003-01-01/lr1_4_1.40_10639.7539.txt) | 
+`lr1_4_1` | 2003-01-01 | TS | `40` | `10639.7539` | [download](best_known_solutions/LiLim/2003-01-01/lr1_4_1.40_10639.7539.txt) | SAM::OPT
 `lr1_4_2` | 2019-01-30 | SB | `30` | `11009.5077` | [download](best_known_solutions/LiLim/2019-01-30/lr1_4_2.30_11009.5077.txt) | 
 `lr1_4_3` | 2019-01-30 | SB | `22` | `9251.1330` | [download](best_known_solutions/LiLim/2019-01-30/lr1_4_3.22_9251.133.txt) | 
 `lr1_4_4` | 2019-11-06 | SCR | `15` | `7037.1662` | [download](best_known_solutions/LiLim/2019-11-06/lr1_4_4.15_7037.1662.txt) | 
@@ -235,12 +235,12 @@ instance | when | who | routes | distance | url | detailed
 ## 600 clients
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-`lc1_6_1` | 2003-07-14 | Shobb | `60` | `14095.6438` | [download](best_known_solutions/LiLim/2003-07-14/lc1_6_1.60_14095.6438.txt) | 
+`lc1_6_1` | 2003-07-14 | RP2 | `60` | `14095.6438` | [download](best_known_solutions/LiLim/2003-07-14/lc1_6_1.60_14095.6438.txt) | Shobb
 `lc1_6_2` | 2016-01-13 | CLS | `57` | `15048.1606` | [download](best_known_solutions/LiLim/2016-01-13/lc1_6_2.57_15048.1606.txt) | 
 `lc1_6_3` | 2020-03-31 | SCR | `49` | `14874.6766` | [download](best_known_solutions/LiLim/2020-03-31/lc1_6_3.49_14874.6766.txt) | 
 `lc1_6_4` | 2019-06-01 | SCR | `47` | `13321.4530` | [download](best_known_solutions/LiLim/2019-06-01/lc1_6_4.47_13321.453.txt) | 
-`lc1_6_5` | 2001-01-01 | SAM::OPT | `60` | `14086.3016` | [download](best_known_solutions/LiLim/2001-01-01/lc1_6_5.60_14086.3016.txt) | 
-`lc1_6_6` | 2003-07-14 | SAM::OPT | `60` | `14090.7906` | [download](best_known_solutions/LiLim/2003-07-14/lc1_6_6.60_14090.7906.txt) | 
+`lc1_6_5` | 2001-01-01 | Li&Lim | `60` | `14086.3016` | [download](best_known_solutions/LiLim/2001-01-01/lc1_6_5.60_14086.3016.txt) | SAM::OPT
+`lc1_6_6` | 2003-07-14 | RP2 | `60` | `14090.7906` | [download](best_known_solutions/LiLim/2003-07-14/lc1_6_6.60_14090.7906.txt) | SAM::OPT
 `lc1_6_7` | 2003-07-13 | SAM::OPT | `60` | `14083.7563` | [download](best_known_solutions/LiLim/2003-07-13/lc1_6_7.60_14083.7563.txt) | 
 `lc1_6_8` | 2015-12-08 | CLS | `58` | `14880.6996` | [download](best_known_solutions/LiLim/2015-12-08/lc1_6_8.58_14880.6996.txt) | 
 `lc1_6_9` | 2020-01-21 | SCR | `53` | `15207.5760` | [download](best_known_solutions/LiLim/2020-01-21/lc1_6_9.53_15207.576.txt) | 
@@ -255,7 +255,7 @@ instance | when | who | routes | distance | url | detailed
 `lc2_6_5` | 2019-01-17 | CVB2 | `18` | `9051.5286` | [download](best_known_solutions/LiLim/2019-01-17/lc2_6_5.18_9051.5286.txt) | 
 `lc2_6_6` | 2019-11-06 | SCR | `18` | `8775.5460` | [download](best_known_solutions/LiLim/2019-11-06/lc2_6_6.18_8775.546.txt) | 
 `lc2_6_7` | 2019-11-06 | SCR | `18` | `9376.5825` | [download](best_known_solutions/LiLim/2019-11-06/lc2_6_7.18_9376.5825.txt) | 
-`lc2_6_8` | 2003-07-14 | Q | `18` | `7579.9262` | [download](best_known_solutions/LiLim/2003-07-14/lc2_6_8.18_7579.9262.txt) | 
+`lc2_6_8` | 2003-07-14 | RP2 | `18` | `7579.9262` | [download](best_known_solutions/LiLim/2003-07-14/lc2_6_8.18_7579.9262.txt) | Q
 `lc2_6_9` | 2019-11-06 | SCR | `18` | `8744.7564` | [download](best_known_solutions/LiLim/2019-11-06/lc2_6_9.18_8744.7564.txt) | 
 `lc2_6_10` | 2019-11-06 | SCR | `17` | `7946.6021` | [download](best_known_solutions/LiLim/2019-11-06/lc2_6_10.17_7946.6021.txt) | 
 
@@ -399,18 +399,18 @@ instance | when | who | routes | distance | url | detailed
 `lc1_10_4` | 2020-01-21 | SCR | `73` | `37515.0365` | [download](best_known_solutions/LiLim/2020-01-21/lc1_10_4.73_37515.0365.txt) | 
 `lc1_10_5` | 2003-08-10 | SAM::OPT | `100` | `42477.4137` | [download](best_known_solutions/LiLim/2003-08-10/lc1_10_5.100_42477.4137.txt) | 
 `lc1_10_6` | 2003-08-11 | SAM::OPT | `101` | `42838.3948` | [download](best_known_solutions/LiLim/2003-08-11/lc1_10_6.101_42838.3948.txt) | 
-`lc1_10_7` | 2003-01-01 | SAM::OPT | `100` | `42854.9853` | [download](best_known_solutions/LiLim/2003-01-01/lc1_10_7.100_42854.9853.txt) | 
+`lc1_10_7` | 2003-01-01 | TS | `100` | `42854.9853` | [download](best_known_solutions/LiLim/2003-01-01/lc1_10_7.100_42854.9853.txt) | SAM::OPT
 `lc1_10_8` | 2018-03-31 | Shobb | `98` | `42949.5645` | [download](best_known_solutions/LiLim/2018-03-31/lc1_10_8.98_42949.5645.txt) | 
 `lc1_10_9` | 2019-11-06 | SCR | `91` | `42504.0533` | [download](best_known_solutions/LiLim/2019-11-06/lc1_10_9.91_42504.0533.txt) | 
 `lc1_10_10` | 2019-06-01 | SCR | `87` | `42008.6545` | [download](best_known_solutions/LiLim/2019-06-01/lc1_10_10.87_42008.6545.txt) | 
 
 instance | when | who | routes | distance | url | detailed
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-`lc2_10_1` | 2003-01-01 | SAM::OPT | `30` | `16879.2419` | [download](best_known_solutions/LiLim/2003-01-01/lc2_10_1.30_16879.2419.txt) | 
+`lc2_10_1` | 2003-01-01 | TS | `30` | `16879.2419` | [download](best_known_solutions/LiLim/2003-01-01/lc2_10_1.30_16879.2419.txt) | SAM::OPT
 `lc2_10_2` | 2019-11-06 | SCR | `30` | `20901.5574` | [download](best_known_solutions/LiLim/2019-11-06/lc2_10_2.30_20901.5574.txt) | 
 `lc2_10_3` | 2020-03-04 | SCR | `29` | `19325.0449` | [download](best_known_solutions/LiLim/2020-03-04/lc2_10_3.29_19325.0449.txt) | 
 `lc2_10_4` | 2019-11-06 | SCR | `29` | `17886.9744` | [download](best_known_solutions/LiLim/2019-11-06/lc2_10_4.29_17886.9744.txt) | 
-`lc2_10_5` | 2005-02-25 | K | `31` | `17137.5280` | [download](best_known_solutions/LiLim/2005-02-25/lc2_10_5.31_17137.528.txt) | 
+`lc2_10_5` | 2005-02-25 | RP2 | `31` | `17137.5280` | [download](best_known_solutions/LiLim/2005-02-25/lc2_10_5.31_17137.528.txt) | K
 `lc2_10_6` | 2019-01-30 | SB | `31` | `17194.0800` | [download](best_known_solutions/LiLim/2019-01-30/lc2_10_6.31_17194.08.txt) | 
 `lc2_10_7` | 2019-11-06 | SCR | `31` | `18389.3693` | [download](best_known_solutions/LiLim/2019-11-06/lc2_10_7.31_18389.3693.txt) | 
 `lc2_10_8` | 2019-01-30 | SB | `30` | `17015.0291` | [download](best_known_solutions/LiLim/2019-01-30/lc2_10_8.30_17015.0291.txt) | 
