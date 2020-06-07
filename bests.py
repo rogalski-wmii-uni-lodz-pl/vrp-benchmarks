@@ -104,21 +104,28 @@ def generate_bks(
             who_detail = [refs[reference]]
             who, who_detail = overwrite(filename, overwrites, who_detail)
 
-            if who == who_detail:
-                who_detail = ""
-
             if not db[inst] or is_better(db[inst][-1], routes, dist):
                 db[inst].append({
                     "instance": inst,
                     "when": date,
                     "routes": routes,
                     "distance": dist,
-                    "who": " & ".join(who),
+                    "who": " & ".join(sorted(who)),
                     "detailed": " & ".join(sorted(who_detail)),
                     "url": full_path
                 })
 
     return db
+
+
+def make_table(
+        db: Dict[str, List[Any]], insts: List[str]) -> List[Dict[str, Any]]:
+    out = []
+
+    for inst in insts:
+        best = db[inst][-1]
+        out.append(best)
+    return out
 
 
 left = ":---"
@@ -130,31 +137,23 @@ def mdrow(row: List[str]) -> str:
     return " | ".join(str(r) for r in row)
 
 
-def make_md_table(benchmark: str, groups: List[str]) -> str:
+def make_md_table(table) -> List[str]:
     out = []
-    keys = ["instance", "when", "who", "routes", "distance", "url", "detailed"]
-    align = [center, center, center, center, center, center, center]
-    refs = read_refs()
-    overwrites = read_overwrites()
-    db = generate_bks(refs, overwrites, bks_location / benchmark)
+    keys = ["instance", "routes", "distance", "when", "who", "notes"]
+    align = [center, center, center, center, center, center]
+    out.append(mdrow(keys))
+    out.append(mdrow(align))
 
-    for insts in groups:
-        out.append(mdrow(keys))
-        out.append(mdrow(align))
+    for row in table:
+        row["distance"] = f'[{row["distance"]}]({row["url"]})'
 
-        for inst in insts:
-            best = db[inst][-1]
+        row["notes"] = ""
+        if row["who"] != row["detailed"]:
+            row["notes"] = f'contributed by {row["detailed"]}'
 
-            for what in ["instance", "routes", "distance"]:
-                best[what] = f"`{best[what]}`"
+        fields = [row[what] for what in keys]
 
-            best["url"] = f'[download]({best["url"]})'
-
-            row = [best[what] for what in keys]
-
-            out.append(mdrow(row))
-
-        out.append("")
+        out.append(mdrow(fields))
 
     return out
 
@@ -168,16 +167,24 @@ def make_benchmarks():
         "GehringHomberger": "Gehring-Homberger CVRPTW Benchmark"
     }
 
+    refs = read_refs()
+    overwrites = read_overwrites()
     for benchmark in tables:
+        db = generate_bks(refs, overwrites, bks_location / benchmark)
+
         print(f"# {names[benchmark]}")
         for size in tables[benchmark]:
-            instances = tables[benchmark][size]
-            mdtable = make_md_table(benchmark, instances)
-
+            groups = tables[benchmark][size]
             print(f"## {size} clients")
 
-            for line in mdtable:
-                print(line)
+            for instances in groups:
+                table = make_table(db, instances)
+                mdtable = make_md_table(table)
+
+                for line in mdtable:
+                    print(line)
+
+                print("")
 
 
 if __name__ == "__main__":
