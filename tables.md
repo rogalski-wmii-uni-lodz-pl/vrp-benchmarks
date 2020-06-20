@@ -658,12 +658,12 @@ instance | routes | distance | when | who | notes
 r1_6_1 | 59 | [21394.9478](best_known_solutions/GehringHomberger/2019-05-01/r1_6_1.59_21394.9478.txt) | 2019-05-01 | CAINIAO & SCR | 
 r1_6_2 | 54 | [18605.3238](best_known_solutions/GehringHomberger/2019-06-01/r1_6_2.54_18605.3238.txt) | 2019-06-01 | SCR | 
 r1_6_3 | 54 | [16908.8659](best_known_solutions/GehringHomberger/2019-06-01/r1_6_3.54_16908.8659.txt) | 2019-06-01 | SCR | 
-r1_6_4 | 54 | [15749.7438](best_known_solutions/GehringHomberger/2019-08-06/r1_6_4.54_15749.7438.txt) | 2019-08-06 | SCR | 
+r1_6_4 | 54 | [15749.7438](best_known_solutions/GehringHomberger/2019-06-08/r1_6_4.54_15749.7438.txt) | 2019-06-08 | SCR | 
 r1_6_5 | 54 | [19385.6448](best_known_solutions/GehringHomberger/2019-05-01/r1_6_5.54_19385.6448.txt) | 2019-05-01 | SCR | 
-r1_6_6 | 54 | [17801.2978](best_known_solutions/GehringHomberger/2019-08-06/r1_6_6.54_17801.2978.txt) | 2019-08-06 | SCR | 
+r1_6_6 | 54 | [17801.2978](best_known_solutions/GehringHomberger/2019-06-08/r1_6_6.54_17801.2978.txt) | 2019-06-08 | SCR | 
 r1_6_7 | 54 | [16523.9329](best_known_solutions/GehringHomberger/2019-08-29/r1_6_7.54_16523.9329.txt) | 2019-08-29 | SCR | 
 r1_6_8 | 54 | [15610.0011](best_known_solutions/GehringHomberger/2019-05-01/r1_6_8.54_15610.0011.txt) | 2019-05-01 | SCR | 
-r1_6_9 | 54 | [18530.9590](best_known_solutions/GehringHomberger/2019-08-06/r1_6_9.54_18530.959.txt) | 2019-08-06 | SCR | 
+r1_6_9 | 54 | [18530.9590](best_known_solutions/GehringHomberger/2019-06-08/r1_6_9.54_18530.959.txt) | 2019-06-08 | SCR | 
 r1_6_10 | 54 | [17610.1191](best_known_solutions/GehringHomberger/2019-05-01/r1_6_10.54_17610.1191.txt) | 2019-05-01 | SCR | 
 
 instance | routes | distance | when | who | notes
@@ -681,11 +681,11 @@ r2_6_10 | 11 | [12202.2813](best_known_solutions/GehringHomberger/2018-11-01/r2_
 
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
-rc1_6_1 | 55 | [16982.8556](best_known_solutions/GehringHomberger/2019-08-06/rc1_6_1.55_16982.8556.txt) | 2019-08-06 | SCR | 
+rc1_6_1 | 55 | [16982.8556](best_known_solutions/GehringHomberger/2019-06-08/rc1_6_1.55_16982.8556.txt) | 2019-06-08 | SCR | 
 rc1_6_2 | 55 | [15914.7035](best_known_solutions/GehringHomberger/2018-11-01/rc1_6_2.55_15914.7035.txt) | 2018-11-01 | CAINIAO | 
 rc1_6_3 | 55 | [15204.6363](best_known_solutions/GehringHomberger/2016-12-23/rc1_6_3.55_15204.6363.txt) | 2016-12-23 | Q | 
 rc1_6_4 | 55 | [14777.1897](best_known_solutions/GehringHomberger/2018-09-08/rc1_6_4.55_14777.1897.txt) | 2018-09-08 | SCR | 
-rc1_6_5 | 55 | [16561.9003](best_known_solutions/GehringHomberger/2019-08-06/rc1_6_5.55_16561.9003.txt) | 2019-08-06 | SCR | 
+rc1_6_5 | 55 | [16561.9003](best_known_solutions/GehringHomberger/2019-06-08/rc1_6_5.55_16561.9003.txt) | 2019-06-08 | SCR | 
 rc1_6_6 | 55 | [16504.2519](best_known_solutions/GehringHomberger/2016-12-23/rc1_6_6.55_16504.2519.txt) | 2016-12-23 | Q | 
 rc1_6_7 | 55 | [16077.1157](best_known_solutions/GehringHomberger/2017-09-07/rc1_6_7.55_16077.1157.txt) | 2017-09-07 | Q | 
 rc1_6_8 | 55 | [15914.9093](best_known_solutions/GehringHomberger/2016-12-23/rc1_6_8.55_15914.9093.txt) | 2016-12-23 | Q | 
@@ -715,7 +715,7 @@ c1_8_4 | 72 | [23824.1658](best_known_solutions/GehringHomberger/2014-10-28/c1_8
 c1_8_5 | 80 | [25166.2784](best_known_solutions/GehringHomberger/2005-02-25/c1_8_5.80_25166.2784.txt) | 2005-02-25 | RP | contributed by Q
 c1_8_6 | 79 | [26911.9422](best_known_solutions/GehringHomberger/2018-12-01/c1_8_6.79_26911.9422.txt) | 2018-12-01 | SCR | 
 c1_8_7 | 77 | [26480.0734](best_known_solutions/GehringHomberger/2018-11-01/c1_8_7.77_26480.0734.txt) | 2018-11-01 | SCR | 
-c1_8_8 | 73 | [26099.7370](best_known_solutions/GehringHomberger/2019-08-06/c1_8_8.73_26099.737.txt) | 2019-08-06 | SCR | 
+c1_8_8 | 73 | [26099.7370](best_known_solutions/GehringHomberger/2019-06-08/c1_8_8.73_26099.737.txt) | 2019-06-08 | SCR | 
 c1_8_9 | 72 | [24300.2069](best_known_solutions/GehringHomberger/2017-08-14/c1_8_9.72_24300.2069.txt) | 2017-08-14 | Q | 
 c1_8_10 | 72 | [24070.1673](best_known_solutions/GehringHomberger/2015-09-04/c1_8_10.72_24070.1673.txt) | 2015-09-04 | Q | 
 
@@ -740,9 +740,9 @@ r1_8_3 | 72 | [29342.5280](best_known_solutions/GehringHomberger/2019-05-01/r1_8
 r1_8_4 | 72 | [27771.8775](best_known_solutions/GehringHomberger/2019-08-29/r1_8_4.72_27771.8775.txt) | 2019-08-29 | SCR | 
 r1_8_5 | 72 | [33529.7346](best_known_solutions/GehringHomberger/2019-05-01/r1_8_5.72_33529.7346.txt) | 2019-05-01 | CAINIAO & SCR | 
 r1_8_6 | 72 | [30925.2558](best_known_solutions/GehringHomberger/2019-04-01/r1_8_6.72_30925.2558.txt) | 2019-04-01 | SCR | 
-r1_8_7 | 72 | [28861.8860](best_known_solutions/GehringHomberger/2019-08-06/r1_8_7.72_28861.886.txt) | 2019-08-06 | SCR | 
+r1_8_7 | 72 | [28861.8860](best_known_solutions/GehringHomberger/2019-06-08/r1_8_7.72_28861.886.txt) | 2019-06-08 | SCR | 
 r1_8_8 | 72 | [27652.6962](best_known_solutions/GehringHomberger/2019-04-01/r1_8_8.72_27652.6962.txt) | 2019-04-01 | SCR | 
-r1_8_9 | 72 | [32301.6643](best_known_solutions/GehringHomberger/2019-08-06/r1_8_9.72_32301.6643.txt) | 2019-08-06 | SCR | 
+r1_8_9 | 72 | [32301.6643](best_known_solutions/GehringHomberger/2019-06-08/r1_8_9.72_32301.6643.txt) | 2019-06-08 | SCR | 
 r1_8_10 | 72 | [30952.7654](best_known_solutions/GehringHomberger/2020-02-01/r1_8_10.72_30952.7654.txt) | 2020-02-01 | SCR | 
 
 instance | routes | distance | when | who | notes
@@ -769,7 +769,7 @@ rc1_8_6 | 72 | [29458.3840](best_known_solutions/GehringHomberger/2019-05-01/rc1
 rc1_8_7 | 72 | [29021.5908](best_known_solutions/GehringHomberger/2019-06-01/rc1_8_7.72_29021.5908.txt) | 2019-06-01 | SCR | 
 rc1_8_8 | 72 | [28607.5057](best_known_solutions/GehringHomberger/2019-05-01/rc1_8_8.72_28607.5057.txt) | 2019-05-01 | SCR | 
 rc1_8_9 | 72 | [28555.5315](best_known_solutions/GehringHomberger/2019-05-01/rc1_8_9.72_28555.5315.txt) | 2019-05-01 | SCR | 
-rc1_8_10 | 72 | [28371.3954](best_known_solutions/GehringHomberger/2019-08-06/rc1_8_10.72_28371.3954.txt) | 2019-08-06 | SCR | 
+rc1_8_10 | 72 | [28371.3954](best_known_solutions/GehringHomberger/2019-06-08/rc1_8_10.72_28371.3954.txt) | 2019-06-08 | SCR | 
 
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
@@ -806,7 +806,7 @@ c2_10_3 | 28 | [16829.4747](best_known_solutions/GehringHomberger/2018-12-01/c2_
 c2_10_4 | 28 | [15607.4780](best_known_solutions/GehringHomberger/2018-12-01/c2_10_4.28_15607.478.txt) | 2018-12-01 | SCR | 
 c2_10_5 | 30 | [16561.2859](best_known_solutions/GehringHomberger/2012-07-31/c2_10_5.30_16561.2859.txt) | 2012-07-31 | VCGP | 
 c2_10_6 | 29 | [16863.7061](best_known_solutions/GehringHomberger/2018-11-01/c2_10_6.29_16863.7061.txt) | 2018-11-01 | SCR | 
-c2_10_7 | 29 | [17602.8449](best_known_solutions/GehringHomberger/2019-08-06/c2_10_7.29_17602.8449.txt) | 2019-08-06 | SCR | 
+c2_10_7 | 29 | [17602.8449](best_known_solutions/GehringHomberger/2019-06-08/c2_10_7.29_17602.8449.txt) | 2019-06-08 | SCR | 
 c2_10_8 | 28 | [16512.4312](best_known_solutions/GehringHomberger/2018-11-01/c2_10_8.28_16512.4312.txt) | 2018-11-01 | SCR | 
 c2_10_9 | 29 | [16363.9430](best_known_solutions/GehringHomberger/2018-11-01/c2_10_9.29_16363.943.txt) | 2018-11-01 | SCR | 
 c2_10_10 | 28 | [15937.4475](best_known_solutions/GehringHomberger/2018-11-01/c2_10_10.28_15937.4475.txt) | 2018-11-01 | SCR | 
@@ -815,12 +815,12 @@ instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 r1_10_1 | 100 | [53412.1129](best_known_solutions/GehringHomberger/2020-03-04/r1_10_1.100_53412.1129.txt) | 2020-03-04 | SCR | 
 r1_10_2 | 91 | [48307.8087](best_known_solutions/GehringHomberger/2019-06-01/r1_10_2.91_48307.8087.txt) | 2019-06-01 | SCR | 
-r1_10_3 | 91 | [44722.2234](best_known_solutions/GehringHomberger/2019-08-06/r1_10_3.91_44722.2234.txt) | 2019-08-06 | SCR | 
+r1_10_3 | 91 | [44722.2234](best_known_solutions/GehringHomberger/2019-06-08/r1_10_3.91_44722.2234.txt) | 2019-06-08 | SCR | 
 r1_10_4 | 91 | [42485.1351](best_known_solutions/GehringHomberger/2019-08-07/r1_10_4.91_42485.1351.txt) | 2019-08-07 | SCR | 
 r1_10_5 | 91 | [50452.8687](best_known_solutions/GehringHomberger/2019-06-01/r1_10_5.91_50452.8687.txt) | 2019-06-01 | SCR | 
 r1_10_6 | 91 | [46974.4495](best_known_solutions/GehringHomberger/2019-08-29/r1_10_6.91_46974.4495.txt) | 2019-08-29 | SCR | 
 r1_10_7 | 91 | [44040.9154](best_known_solutions/GehringHomberger/2020-03-04/r1_10_7.91_44040.9154.txt) | 2020-03-04 | SCR | 
-r1_10_8 | 91 | [42321.9956](best_known_solutions/GehringHomberger/2019-08-06/r1_10_8.91_42321.9956.txt) | 2019-08-06 | SCR | 
+r1_10_8 | 91 | [42321.9956](best_known_solutions/GehringHomberger/2019-06-08/r1_10_8.91_42321.9956.txt) | 2019-06-08 | SCR | 
 r1_10_9 | 91 | [49208.0979](best_known_solutions/GehringHomberger/2019-04-01/r1_10_9.91_49208.0979.txt) | 2019-04-01 | SCR | 
 r1_10_10 | 91 | [47409.8285](best_known_solutions/GehringHomberger/2020-02-01/r1_10_10.91_47409.8285.txt) | 2020-02-01 | SCR | 
 
@@ -833,7 +833,7 @@ r2_10_4 | 19 | [17851.9586](best_known_solutions/GehringHomberger/2019-10-11/r2_
 r2_10_5 | 19 | [36216.0541](best_known_solutions/GehringHomberger/2018-11-01/r2_10_5.19_36216.0541.txt) | 2018-11-01 | SCR | 
 r2_10_6 | 19 | [29978.0155](best_known_solutions/GehringHomberger/2019-08-29/r2_10_6.19_29978.0155.txt) | 2019-08-29 | SCR | 
 r2_10_7 | 19 | [23219.6085](best_known_solutions/GehringHomberger/2019-08-29/r2_10_7.19_23219.6085.txt) | 2019-08-29 | SCR | 
-r2_10_8 | 19 | [17442.2923](best_known_solutions/GehringHomberger/2019-08-06/r2_10_8.19_17442.2923.txt) | 2019-08-06 | SCR | 
+r2_10_8 | 19 | [17442.2923](best_known_solutions/GehringHomberger/2019-06-08/r2_10_8.19_17442.2923.txt) | 2019-06-08 | SCR | 
 r2_10_9 | 19 | [32995.7087](best_known_solutions/GehringHomberger/2018-10-01/r2_10_9.19_32995.7087.txt) | 2018-10-01 | CAINIAO | 
 r2_10_10 | 19 | [30207.4894](best_known_solutions/GehringHomberger/2018-11-01/r2_10_10.19_30207.4894.txt) | 2018-11-01 | SCR | 
 
@@ -843,7 +843,7 @@ rc1_10_1 | 90 | [45830.6235](best_known_solutions/GehringHomberger/2020-01-04/rc
 rc1_10_2 | 90 | [43718.8449](best_known_solutions/GehringHomberger/2019-05-01/rc1_10_2.90_43718.8449.txt) | 2019-05-01 | SCR | 
 rc1_10_3 | 90 | [42163.4594](best_known_solutions/GehringHomberger/2019-05-01/rc1_10_3.90_42163.4594.txt) | 2019-05-01 | SCR | 
 rc1_10_4 | 90 | [41397.8107](best_known_solutions/GehringHomberger/2020-03-04/rc1_10_4.90_41397.8107.txt) | 2020-03-04 | SCR | 
-rc1_10_5 | 90 | [45069.3748](best_known_solutions/GehringHomberger/2019-08-06/rc1_10_5.90_45069.3748.txt) | 2019-08-06 | SCR | 
+rc1_10_5 | 90 | [45069.3748](best_known_solutions/GehringHomberger/2019-06-08/rc1_10_5.90_45069.3748.txt) | 2019-06-08 | SCR | 
 rc1_10_6 | 90 | [44944.9478](best_known_solutions/GehringHomberger/2019-10-11/rc1_10_6.90_44944.9478.txt) | 2019-10-11 | SCR | 
 rc1_10_7 | 90 | [44457.7866](best_known_solutions/GehringHomberger/2020-03-04/rc1_10_7.90_44457.7866.txt) | 2020-03-04 | SCR | 
 rc1_10_8 | 90 | [43956.9138](best_known_solutions/GehringHomberger/2020-02-01/rc1_10_8.90_43956.9138.txt) | 2020-02-01 | SCR | 
