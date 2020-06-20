@@ -104,7 +104,7 @@ def generate_bks(
             who_detail = [refs[reference]]
             who, who_detail = overwrite(filename, overwrites, who_detail)
 
-            if not db[inst] or is_better(db[inst][-1], routes, dist):
+            if inst not in db or is_better(db[inst][-1], routes, dist):
                 db[inst].append({
                     "instance": inst,
                     "when": date,
@@ -156,6 +156,16 @@ def make_md_table(table) -> List[str]:
         out.append(mdrow(fields))
 
     return out
+
+
+def make_full_bks_db():
+    refs = read_refs()
+    overwrites = read_overwrites()
+    db = {}
+    for benchmark in ["LiLim", "GehringHomberger"]:
+        db = {**db, **generate_bks(refs, overwrites, bks_location / benchmark)}
+
+    return db
 
 
 def make_benchmarks():

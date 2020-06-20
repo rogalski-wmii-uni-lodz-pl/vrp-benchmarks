@@ -108,9 +108,8 @@ def total_distance(solution: Dict[str, Any], instance: Dict[str, Any]):
     return distance
 
 
-def verify_file(approximation: int = 4):
-    path = sys.argv[1]
-    file_contents = read_file(path)
+def read_solution_and_instance(solution_path):
+    file_contents = read_file(solution_path)
 
     solution = parse_solution(file_contents)
 
@@ -120,6 +119,13 @@ def verify_file(approximation: int = 4):
         solution["instance"])
 
     instance = parse_instance(instance_file)
+    return solution, instance
+
+
+def verify_file(approximation: int = 4):
+    path = sys.argv[1]
+
+    solution, instance = read_solution_and_instance(path)
 
     ok, err = is_valid(solution, instance)
 
