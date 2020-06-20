@@ -1,6 +1,9 @@
 import os
 import json
+import csv
+import platform
 from typing import List, Dict, Any
+from copy import deepcopy
 from pathlib import Path
 from collections import defaultdict
 from parse_solution import Reference, parse_solution
@@ -138,13 +141,14 @@ def mdrow(row: List[str]) -> str:
 
 
 def make_md_table(table) -> List[str]:
+    tbl = deepcopy(table)
     out = []
     keys = ["instance", "routes", "distance", "when", "who", "notes"]
     align = [center, center, center, center, center, center]
     out.append(mdrow(keys))
     out.append(mdrow(align))
 
-    for row in table:
+    for row in tbl:
         row["distance"] = f'[{row["distance"]}]({row["url"]})'
 
         row["notes"] = ""
@@ -169,7 +173,7 @@ def make_full_bks_db():
 
 
 def make_benchmarks():
-    with open("./tables.json") as fd:
+    with open("tables.json") as fd:
         tables = json.load(fd)
 
     names = {
@@ -179,22 +183,36 @@ def make_benchmarks():
 
     refs = read_refs()
     overwrites = read_overwrites()
-    for benchmark in tables:
-        db = generate_bks(refs, overwrites, bks_location / benchmark)
+    firstline = True
+    with open("tables.md", 'w') as out, open("tables.csv", 'w') as csv_out:
+        if platform.system() == "Linux":
+            c = csv.writer(csv_out, lineterminator='\n')
+        else:
+            c = csv.writer(csv_out)
 
-        print(f"# {names[benchmark]}")
-        for size in tables[benchmark]:
-            groups = tables[benchmark][size]
-            print(f"## {size} clients")
+        for benchmark in tables:
+            db = generate_bks(refs, overwrites, bks_location / benchmark)
 
-            for instances in groups:
-                table = make_table(db, instances)
-                mdtable = make_md_table(table)
+            out.write(f"# {names[benchmark]}\n")
+            for size in tables[benchmark]:
+                groups = tables[benchmark][size]
+                out.write(f"## {size} clients\n")
 
-                for line in mdtable:
-                    print(line)
+                for instances in groups:
+                    table = make_table(db, instances)
+                    mdtable = make_md_table(table)
 
-                print("")
+                    if firstline:
+                        c.writerow(["benchmark", "clients", *table[0]])
+                        firstline = False
+
+                    for row in table:
+                        c.writerow([benchmark, size, *row.values()])
+
+                    for line in mdtable:
+                        out.write(line + "\n")
+
+                    out.write("\n")
 
 
 if __name__ == "__main__":
