@@ -6,9 +6,13 @@ from collections import defaultdict
 # from parse_solution import parse_solution
 from verify import read_solution_and_instance, is_valid, total_distance
 from bests import make_full_bks_db, is_better, bks_location
+from typing import List, Dict, Any
 
 
-def generate_new_bks(db, paths):
+def generate_new_bks(
+        db: Dict[str, Any],
+        paths: List[str]
+) -> (Dict[str, Any], List[Any]):
     bks = {}
     report = []
 
@@ -63,7 +67,7 @@ def generate_new_bks(db, paths):
     return bks, report
 
 
-def make_name(new_best):
+def make_name(new_best: Dict[str, Any]) -> str:
     inst = new_best["instance"]
     routes = new_best["routes"]
     distance = round(new_best["distance"], 4)
@@ -73,7 +77,7 @@ def make_name(new_best):
     return new_name
 
 
-def copy_new_bks(bks):
+def copy_new_bks(bks: Dict[str, Any]):
     today = str(datetime.date.today())
 
     for b in bks:
@@ -95,7 +99,7 @@ def copy_new_bks(bks):
         #     "to", new_location / new_name)
 
 
-def group_by_benchmark(report):
+def group_by_benchmark(report: List[Any]) -> Dict[str, Any]:
     groupped = defaultdict(list)
 
     for f in report:
@@ -104,7 +108,7 @@ def group_by_benchmark(report):
     return groupped
 
 
-def format_report_item(f):
+def format_report_item(f: Dict[str, Any]) -> str:
     routes, dist = f["result"]
     return (
         f'{f["file"]} {f["benchmark"]} {f["instance"]} '
@@ -112,7 +116,7 @@ def format_report_item(f):
     )
 
 
-def report_errors(errors):
+def report_errors(errors: List[Any]):
     if errors:
         print("ERRORS")
         print("======")
@@ -122,7 +126,7 @@ def report_errors(errors):
         print()
 
 
-def report_in_benchmark_groups(report):
+def report_in_benchmark_groups(report: List[Any]):
     groupped = group_by_benchmark(report)
     for b in groupped:
         print(b)
@@ -133,7 +137,7 @@ def report_in_benchmark_groups(report):
         print()
 
 
-def report_if_not_empty(report, name):
+def report_if_not_empty(report: List[Any], name: str):
     if report:
         print(name)
         print("="*len(name))
@@ -141,7 +145,7 @@ def report_if_not_empty(report, name):
         report_in_benchmark_groups(report)
 
 
-def split_report(report):
+def split_report(report: List[Any]):
     errors = []
     bks = []
     oks = []
@@ -157,7 +161,7 @@ def split_report(report):
     return errors, bks, oks
 
 
-def make_nice_report(report):
+def make_nice_report(report: List[Any]):
     errors, bks, oks = split_report(report)
 
     report_errors(errors)
