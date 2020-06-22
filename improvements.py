@@ -1,5 +1,6 @@
 import csv
 import datetime
+from collections import defaultdict
 import bests
 
 
@@ -55,7 +56,7 @@ def to_improvmenet(prev, sol):
 def instance_order(inst):
     if '_' in inst:
         t, clients, n = inst.split('_')
-        order = (t, int(clients), int(n))
+        order = (int(clients), t, int(n))
 
     else:
         t = inst.lstrip('lrc')
@@ -103,9 +104,78 @@ def improvements_csv(fd, improvements):
         key=lambda x: x["when"]))
 
 
+def format_improvements_for_date_md(fd, imps):
+    for benchmark in ["GH", "LL"]:
+        if imps[benchmark]:
+            bench = "Gehring-Homberger"
+            if benchmark == "LL":
+                bench = "Li&Lim"
+
+            total = sum(
+                len(imps[benchmark][who])
+                for who in imps[benchmark])
+
+            fd.write(f"### {bench} ({total} new)\n")
+
+            for who in sorted(imps[benchmark]):
+                fd.write(f"#### {who} ({len(imps[benchmark][who])} new):\n")
+
+                for imp in imps[benchmark][who]:
+                    text = (
+                        f'1. `{imp["instance"]}` '
+                        f'from {imp["prev_bks"]} to {imp["new_bks"]} '
+                        f'after {imp["after_days"]} days, '
+                        f'beating {imp["beaten"]} '
+                        f'by {imp["change"]} (by {imp["%"]}%).\n'
+                    )
+                    fd.write(text)
+
+
+def improvements_md(fd, improvements):
+    d = None
+
+    imps = {
+        "GH": defaultdict(list),
+        "LL": defaultdict(list),
+        "total": 0
+    }
+
+    for imp in sorted(improvements, reverse=True, key=lambda x: x["when"]):
+        if d and d != imp["when"]:
+            fd.write(f'## {d} ({imps["total"]} new)\n')
+            format_improvements_for_date_md(fd, imps)
+
+            imps["GH"].clear()
+            imps["LL"].clear()
+            imps["total"] = 0
+
+        d = imp["when"]
+
+        bench = "GH"
+        if imp["instance"][0] == 'l':
+            bench = "LL"
+
+        imps[bench][imp["who"]].append(imp)
+        imps["total"] += 1
+
+        # text = (
+        #     f'1. {imp["who"]} improved the {imp["improved"]}\'s '
+        #     f'on {bench} {imp["instance"]} '
+        #     f'from {imp["prev_bks"]} to {imp["new_bks"]} '
+        #     f'after {imp["after_days"]} days, '
+        #     f'improving a solution found previously by {imp["beaten"]} '
+        #     f'by {imp["change"]} (by {imp["%"]}%).\n'
+        # )
+
+        # fd.write(text)
+
+
 def gen():
     with open("improvements.csv", 'w') as fd:
         improvements_csv(fd, generate_improvements())
+
+    with open("improvements.md", 'w') as fd:
+        improvements_md(fd, generate_improvements())
 
 
 if __name__ == "__main__":
