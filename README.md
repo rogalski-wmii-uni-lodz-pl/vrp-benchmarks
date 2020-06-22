@@ -1,7 +1,8 @@
 # vrp-benchmarks
 A solution checker for CVRPTW (Gehring-Homberger) and PDP (Li-Lim) solutions in Sintef format, plus a clone of best known solutions from https://www.sintef.no/projectweb/top/, and an automated table generator for them.
 
-# Benchmarks ([last updated: 2020-05-08](https://github.com/rogalski-wmii-uni-lodz-pl/vrp-benchmarks/blob/master/improvements.md#2020-05-08-2-new))
+# Benchmarks 
+Last updated: [2020-05-08](https://github.com/rogalski-wmii-uni-lodz-pl/vrp-benchmarks/blob/master/improvements.md#2020-05-08-2-new)
 
 ## [full csv](https://github.com/rogalski-wmii-uni-lodz-pl/vrp-benchmarks/blob/master/tables.csv)
 
@@ -22,7 +23,7 @@ A solution checker for CVRPTW (Gehring-Homberger) and PDP (Li-Lim) solutions in 
 
 ## [improvements csv](https://github.com/rogalski-wmii-uni-lodz-pl/vrp-benchmarks/blob/master/improvements.csv)
 
-# Checker
+## Checker
 Run `python3 veriyfy.py sol [precision=4]` to verify one solution sol in the sintef format, with result rounded to optional precision (default 4).
 
 ## Generating tables
