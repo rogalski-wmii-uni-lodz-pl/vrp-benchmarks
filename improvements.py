@@ -1,6 +1,7 @@
 import csv
 import datetime
 from collections import defaultdict
+import pathlib
 import bests
 
 
@@ -17,6 +18,14 @@ def diff(to_type, what, a, b):
 
     pr = round(imp / to_type(b[what]) * 100, 4)
     return imp, pr
+
+
+current_full_path = pathlib.Path(__file__).resolve()
+pure_path = pathlib.PurePosixPath(current_full_path).parent
+
+
+def relative_url_hack(url):
+    return url.relative_to(pure_path)
 
 
 def to_improvmenet(prev, sol):
@@ -37,6 +46,8 @@ def to_improvmenet(prev, sol):
 
     after = change(to_date, "when", sol, prev)
 
+    relative_url_hack(sol["url"])
+
     improvement = {
         "when": sol["when"],
         "who": sol["who"],
@@ -49,6 +60,8 @@ def to_improvmenet(prev, sol):
         "beaten": prev["who"],
         "prev_when": prev["when"],
         "after_days": after.days,
+        "prev_url": relative_url_hack(prev["url"]),
+        "new_url": relative_url_hack(sol["url"]),
     }
     return improvement
 
@@ -95,7 +108,7 @@ def improvements_csv(fd, improvements):
         "after_days",
     ]
 
-    out = csv.DictWriter(fd, fieldnames=fields)
+    out = csv.DictWriter(fd, fieldnames=fields, extrasaction='ignore')
     out.writeheader()
 
     out.writerows(sorted(
@@ -123,7 +136,8 @@ def format_improvements_for_date_md(fd, imps):
                 for imp in imps[benchmark][who]:
                     text = (
                         f'1. `{imp["instance"]}` '
-                        f'from {imp["prev_bks"]} to {imp["new_bks"]} '
+                        f'from [{imp["prev_bks"]}]({imp["prev_url"]}) '
+                        f'to [{imp["new_bks"]}]({imp["new_url"]}) '
                         f'after {imp["after_days"]} days, '
                         f'beating {imp["beaten"]} '
                         f'by {imp["change"]} (by {imp["%"]}%).\n'
