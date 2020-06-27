@@ -1,11 +1,17 @@
 import sys
+import os
 import re
+from pathlib import Path
 from typing import List, Dict, Any
 from parse_solution import parse_solution
 from parse_instance import parse_instance
-from pathlib import Path
 from feasibility import dist, verify_gh, Infeasible, verify_ll
 import decimal
+
+
+class NoSuchInstance(Exception):
+    pass
+
 
 decimal.getcontext().prec = 128
 
@@ -41,7 +47,8 @@ def check_instance_name(inst: str):
     onehundreds = re.match(r"l(r|c|rc)[12][01][0-9]", inst)
     rest = re.match(r"l?(r|c|rc)[12]_(2|4|6|8|10)_([1-9]|10)", inst)
     if not onehundreds and not rest:
-        raise Infeasible(f"Instance name {inst} does not match any instance")
+        raise NoSuchInstance(
+            f"Instance name {inst} does not match any instance")
 
 
 def check_route_nodes(route: List[int], r: int):
@@ -72,7 +79,10 @@ def check_sanity(solution: Dict[str, Any]):
 
 
 def read_instance(location: Path, benchmark: str, instance: str) -> List[str]:
+    check_instance_name(instance)
     path = (location / benchmark / (instance + ".txt")).resolve()
+    if not os.path.isfile(path):
+        raise NoSuchInstance(instance)
     return read_file(path)
 
 
@@ -108,9 +118,7 @@ def total_distance(solution: Dict[str, Any], instance: Dict[str, Any]):
     return distance
 
 
-def read_solution_and_instance(solution_path):
-    file_contents = read_file(solution_path)
-
+def parse_solution_and_read_instance(file_contents):
     solution = parse_solution(file_contents)
 
     instance_file = read_instance(
@@ -122,13 +130,20 @@ def read_solution_and_instance(solution_path):
     return solution, instance
 
 
-def verify_file(approximation: int = 4):
-    path = sys.argv[1]
+def read_solution_and_instance(solution_path):
+    file_contents = read_file(solution_path)
+    return parse_solution_and_read_instance(file_contents)
 
-    solution, instance = read_solution_and_instance(path)
+
+def verify_file_contents(file_contents, approximation: int = 4):
+    solution, instance = parse_solution_and_read_instance(file_contents)
 
     ok, err = is_valid(solution, instance)
 
+    status = f"ERROR {err}"
+    routes = 0
+    distance = 0
+    rounded = 0
     status = ""
 
     if ok:
@@ -136,15 +151,26 @@ def verify_file(approximation: int = 4):
         distance = total_distance(solution, instance)
         rounded = round(distance, approximation)
         status = f"OK {routes} {rounded}"
-    else:
-        status = f"ERROR {err}"
+
+    return {
+        "solution": solution,
+        "status": status,
+        "distance": distance,
+        "rounded": rounded,
+    }
+
+
+def verify_file(path, approximation: int = 4):
+    contents = read_file(path)
+    out = verify_file_contents(contents, approximation)
 
     print(
         path,
-        solution["benchmark"],
-        solution["instance"],
-        status
+        out["solution"]["benchmark"],
+        out["solution"]["instance"],
+        out["status"],
     )
+
 
 
 if __name__ == "__main__":
@@ -152,6 +178,6 @@ if __name__ == "__main__":
     if argc not in [2, 3]:
         usage()
     elif argc == 2:
-        verify_file()
+        verify_file(sys.argv[1])
     else:
-        verify_file(int(sys.argv[2]))
+        verify_file(sys.argv[1], int(sys.argv[2]))
