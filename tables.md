@@ -10,7 +10,7 @@ lc105 | 10 | [828.9369](best_known_solutions/LiLim/2001-01-01/lc105.10_828.9369.
 lc106 | 10 | [828.9369](best_known_solutions/LiLim/2001-01-01/lc106.10_828.9369.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc107 | 10 | [828.9369](best_known_solutions/LiLim/2001-01-01/lc107.10_828.9369.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc108 | 10 | [826.4392](best_known_solutions/LiLim/2001-01-01/lc108.10_826.4392.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
-lc109 | 9 | [1000.5962](best_known_solutions/LiLim/2003-06-27/lc109.9_1000.5962.txt) | 2003-06-27 | Q | 
+lc109 | 9 | [1000.5962](best_known_solutions/LiLim/2003-06-27/lc109.9_1000.5962.txt) | 2003-06-27 | BVH | contributed by Q
 
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:

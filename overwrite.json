@@ -35,6 +35,7 @@
 {"instance":  "lc106",      "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  10,   "distance":  828.9369,    "file":  "lc106.10_828.9369.txt"},
 {"instance":  "lc107",      "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  10,   "distance":  828.9369,    "file":  "lc107.10_828.9369.txt"},
 {"instance":  "lc108",      "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  10,   "distance":  826.4392,    "file":  "lc108.10_826.4392.txt"},
+{"instance":  "lc109",      "when":  "2003-06-27",  "who":  ["BVH"],            "routes":  9,    "distance":  1000.5962,   "file":  "lc109.9_1000.5962.txt"},
 {"instance":  "lc201",      "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  3,    "distance":  591.5566,    "file":  "lc201.3_591.5566.txt"},
 {"instance":  "lc202",      "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  3,    "distance":  591.5566,    "file":  "lc202.3_591.5566.txt"},
 {"instance":  "lc205",      "when":  "2001-01-01",  "who":  ["Li&Lim"],         "routes":  3,    "distance":  588.8760,    "file":  "lc205.3_588.876.txt"},
