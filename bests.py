@@ -15,7 +15,7 @@ unknown = "???"
 
 
 def read_overwrites():
-    with open("overwrite.json") as fd:
+    with open(script_location / "overwrite.json") as fd:
         over = [x for x in json.load(fd) if x]
         overwrites = dict(
             (o["file"], o["who"])
@@ -26,7 +26,7 @@ def read_overwrites():
 
 def read_refs():
     references = {unknown: unknown}
-    with open("refs.json") as fd:
+    with open(script_location / "refs.json") as fd:
         refs = json.load(fd)
         for reference in refs:
             for variant in refs[reference]:
@@ -71,7 +71,7 @@ def parse_filename(filename: str) -> (str, str, str):
 
     _, fraction = dist.split(".")
 
-    dist += "0"*(4 - len(fraction))
+    dist += "0" * (4 - len(fraction))
 
     return inst, routes, dist
 
@@ -173,7 +173,7 @@ def make_full_bks_db():
 
 
 def make_benchmarks():
-    with open("tables.json") as fd:
+    with open(script_location / "tables.json") as fd:
         tables = json.load(fd)
 
     names = {
