@@ -4,7 +4,7 @@ instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 lc101 | 10 | [828.9369](best_known_solutions/LiLim/2001-01-01/lc101.10_828.9369.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc102 | 10 | [828.9369](best_known_solutions/LiLim/2001-01-01/lc102.10_828.9369.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
-lc103 | 9 | [1035.3499](best_known_solutions/LiLim/2003-06-27/lc103.9_1035.3499.txt) | 2003-06-27 | SAM::OPT | 
+lc103 | 9 | [1035.3499](best_known_solutions/LiLim/2003-06-27/lc103.9_1035.3499.txt) | 2003-06-27 | BVH | contributed by SAM::OPT
 lc104 | 9 | [860.0112](best_known_solutions/LiLim/2003-04-11/lc104.9_860.0112.txt) | 2003-04-11 | SAM::OPT | 
 lc105 | 10 | [828.9369](best_known_solutions/LiLim/2001-01-01/lc105.10_828.9369.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc106 | 10 | [828.9369](best_known_solutions/LiLim/2001-01-01/lc106.10_828.9369.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
@@ -80,7 +80,7 @@ instance | routes | distance | when | who | notes
 lc1_2_1 | 20 | [2704.5678](best_known_solutions/LiLim/2001-01-01/lc1_2_1.20_2704.5678.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc1_2_2 | 19 | [2764.5552](best_known_solutions/LiLim/2001-01-01/lc1_2_2.19_2764.5552.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc1_2_3 | 17 | [3127.7846](best_known_solutions/LiLim/2016-07-15/lc1_2_3.17_3127.7846.txt) | 2016-07-15 | H | 
-lc1_2_4 | 17 | [2693.4088](best_known_solutions/LiLim/2003-06-27/lc1_2_4.17_2693.4088.txt) | 2003-06-27 | K | 
+lc1_2_4 | 17 | [2693.4088](best_known_solutions/LiLim/2003-06-27/lc1_2_4.17_2693.4088.txt) | 2003-06-27 | BVH | contributed by K
 lc1_2_5 | 20 | [2702.0488](best_known_solutions/LiLim/2001-01-01/lc1_2_5.20_2702.0488.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc1_2_6 | 20 | [2701.0354](best_known_solutions/LiLim/2001-01-01/lc1_2_6.20_2701.0354.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc1_2_7 | 20 | [2701.0354](best_known_solutions/LiLim/2001-01-01/lc1_2_7.20_2701.0354.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
@@ -104,10 +104,10 @@ lc2_2_10 | 6 | [1817.4533](best_known_solutions/LiLim/2001-01-01/lc2_2_10.6_1817
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 lr1_2_1 | 20 | [4819.1241](best_known_solutions/LiLim/2001-01-01/lr1_2_1.20_4819.1241.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
-lr1_2_2 | 17 | [4621.2058](best_known_solutions/LiLim/2003-07-08/lr1_2_2.17_4621.2058.txt) | 2003-07-08 | K | 
+lr1_2_2 | 17 | [4621.2058](best_known_solutions/LiLim/2003-07-08/lr1_2_2.17_4621.2058.txt) | 2003-07-08 | RP2 | contributed by K
 lr1_2_3 | 14 | [4402.3848](best_known_solutions/LiLim/2016-02-27/lr1_2_3.14_4402.3848.txt) | 2016-02-27 | CLS | 
 lr1_2_4 | 10 | [3027.0620](best_known_solutions/LiLim/2018-04-18/lr1_2_4.10_3027.062.txt) | 2018-04-18 | SB | 
-lr1_2_5 | 16 | [4760.1815](best_known_solutions/LiLim/2003-06-27/lr1_2_5.16_4760.1815.txt) | 2003-06-27 | Shobb | 
+lr1_2_5 | 16 | [4760.1815](best_known_solutions/LiLim/2003-06-27/lr1_2_5.16_4760.1815.txt) | 2003-06-27 | BVH | contributed by Shobb
 lr1_2_6 | 13 | [4800.9395](best_known_solutions/LiLim/2016-02-26/lr1_2_6.13_4800.9395.txt) | 2016-02-26 | CLS | 
 lr1_2_7 | 12 | [3543.3613](best_known_solutions/LiLim/2018-04-18/lr1_2_7.12_3543.3613.txt) | 2018-04-18 | SB | 
 lr1_2_8 | 9 | [2759.3151](best_known_solutions/LiLim/2018-04-18/lr1_2_8.9_2759.3151.txt) | 2018-04-18 | SB | 
@@ -118,7 +118,7 @@ instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 lr2_2_1 | 5 | [4073.0980](best_known_solutions/LiLim/2003-12-09/lr2_2_1.5_4073.098.txt) | 2003-12-09 | SAM::OPT | 
 lr2_2_2 | 4 | [3795.9965](best_known_solutions/LiLim/2003-02-14/lr2_2_2.4_3795.9965.txt) | 2003-02-14 | SAM::OPT | 
-lr2_2_3 | 4 | [3098.3585](best_known_solutions/LiLim/2003-07-08/lr2_2_3.4_3098.3585.txt) | 2003-07-08 | SAM::OPT | 
+lr2_2_3 | 4 | [3098.3585](best_known_solutions/LiLim/2003-07-08/lr2_2_3.4_3098.3585.txt) | 2003-07-08 | RP2 | contributed by SAM::OPT
 lr2_2_4 | 3 | [2486.0024](best_known_solutions/LiLim/2016-07-13/lr2_2_4.3_2486.0024.txt) | 2016-07-13 | H | 
 lr2_2_5 | 4 | [3438.3917](best_known_solutions/LiLim/2003-12-13/lr2_2_5.4_3438.3917.txt) | 2003-12-13 | SAM::OPT | 
 lr2_2_6 | 3 | [4457.9540](best_known_solutions/LiLim/2019-11-06/lr2_2_6.3_4457.954.txt) | 2019-11-06 | SCR | 
@@ -132,8 +132,8 @@ instance | routes | distance | when | who | notes
 lrc1_2_1 | 19 | [3606.0626](best_known_solutions/LiLim/2003-12-14/lrc1_2_1.19_3606.0626.txt) | 2003-12-14 | SAM::OPT | 
 lrc1_2_2 | 15 | [3671.0239](best_known_solutions/LiLim/2015-11-19/lrc1_2_2.15_3671.0239.txt) | 2015-11-19 | EOE | 
 lrc1_2_3 | 13 | [3154.9222](best_known_solutions/LiLim/2016-02-27/lrc1_2_3.13_3154.9222.txt) | 2016-02-27 | CLS | 
-lrc1_2_4 | 10 | [2631.8190](best_known_solutions/LiLim/2003-07-08/lrc1_2_4.10_2631.819.txt) | 2003-07-08 | K | 
-lrc1_2_5 | 16 | [3715.8094](best_known_solutions/LiLim/2003-06-27/lrc1_2_5.16_3715.8094.txt) | 2003-06-27 | SAM::OPT | 
+lrc1_2_4 | 10 | [2631.8190](best_known_solutions/LiLim/2003-07-08/lrc1_2_4.10_2631.819.txt) | 2003-07-08 | RP2 | contributed by K
+lrc1_2_5 | 16 | [3715.8094](best_known_solutions/LiLim/2003-06-27/lrc1_2_5.16_3715.8094.txt) | 2003-06-27 | BVH | contributed by SAM::OPT
 lrc1_2_6 | 16 | [3572.1589](best_known_solutions/LiLim/2015-11-19/lrc1_2_6.16_3572.1589.txt) | 2015-11-19 | EOE | 
 lrc1_2_7 | 14 | [3666.3394](best_known_solutions/LiLim/2015-04-13/lrc1_2_7.14_3666.3394.txt) | 2015-04-13 | K | 
 lrc1_2_8 | 13 | [3145.7400](best_known_solutions/LiLim/2018-04-06/lrc1_2_8.13_3145.74.txt) | 2018-04-06 | CVB | 
@@ -146,11 +146,11 @@ lrc2_2_1 | 6 | [3595.1783](best_known_solutions/LiLim/2015-04-14/lrc2_2_1.6_3595
 lrc2_2_2 | 5 | [3158.2501](best_known_solutions/LiLim/2016-07-13/lrc2_2_2.5_3158.2501.txt) | 2016-07-13 | H | 
 lrc2_2_3 | 4 | [2881.9865](best_known_solutions/LiLim/2016-07-13/lrc2_2_3.4_2881.9865.txt) | 2016-07-13 | H | 
 lrc2_2_4 | 3 | [2835.4049](best_known_solutions/LiLim/2019-11-06/lrc2_2_4.3_2835.4049.txt) | 2019-11-06 | SCR | 
-lrc2_2_5 | 5 | [2776.9262](best_known_solutions/LiLim/2003-06-27/lrc2_2_5.5_2776.9262.txt) | 2003-06-27 | SAM::OPT | 
+lrc2_2_5 | 5 | [2776.9262](best_known_solutions/LiLim/2003-06-27/lrc2_2_5.5_2776.9262.txt) | 2003-06-27 | BVH | contributed by SAM::OPT
 lrc2_2_6 | 5 | [2707.9592](best_known_solutions/LiLim/2003-12-21/lrc2_2_6.5_2707.9592.txt) | 2003-12-21 | SAM::OPT | 
 lrc2_2_7 | 4 | [3010.6763](best_known_solutions/LiLim/2019-11-06/lrc2_2_7.4_3010.6763.txt) | 2019-11-06 | SCR | 
 lrc2_2_8 | 4 | [2399.8904](best_known_solutions/LiLim/2015-11-17/lrc2_2_8.4_2399.8904.txt) | 2015-11-17 | EOE | 
-lrc2_2_9 | 4 | [2208.4949](best_known_solutions/LiLim/2003-07-08/lrc2_2_9.4_2208.4949.txt) | 2003-07-08 | SAM::OPT | 
+lrc2_2_9 | 4 | [2208.4949](best_known_solutions/LiLim/2003-07-08/lrc2_2_9.4_2208.4949.txt) | 2003-07-08 | RP2 | contributed by SAM::OPT
 lrc2_2_10 | 3 | [2437.8805](best_known_solutions/LiLim/2016-07-13/lrc2_2_10.3_2437.8805.txt) | 2016-07-13 | H | 
 
 ## 400 clients
@@ -172,10 +172,10 @@ instance | routes | distance | when | who | notes
 lc2_4_1 | 12 | [4116.3291](best_known_solutions/LiLim/2001-01-01/lc2_4_1.12_4116.3291.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc2_4_2 | 12 | [4144.2890](best_known_solutions/LiLim/2003-05-15/lc2_4_2.12_4144.289.txt) | 2003-05-15 | SAM::OPT | 
 lc2_4_3 | 12 | [4401.0810](best_known_solutions/LiLim/2019-01-17/lc2_4_3.12_4401.081.txt) | 2019-01-17 | CVB2 | 
-lc2_4_4 | 12 | [3743.9500](best_known_solutions/LiLim/2001-01-01/lc2_4_4.12_3743.95.txt) | 2001-01-01 | LL | contributed by ???
-lc2_4_5 | 12 | [4030.6341](best_known_solutions/LiLim/2003-05-01/lc2_4_5.12_4030.6341.txt) | 2003-05-01 | SAM::OPT | 
+lc2_4_4 | 12 | [3743.9500](best_known_solutions/LiLim/2001-01-01/lc2_4_4.12_3743.95.txt) | 2001-01-01 | Li&Lim | contributed by ???
+lc2_4_5 | 12 | [4030.6341](best_known_solutions/LiLim/2003-05-01/lc2_4_5.12_4030.6341.txt) | 2003-05-01 | TS | contributed by SAM::OPT
 lc2_4_6 | 12 | [3900.2855](best_known_solutions/LiLim/2003-04-20/lc2_4_6.12_3900.2855.txt) | 2003-04-20 | SAM::OPT | 
-lc2_4_7 | 12 | [3962.5070](best_known_solutions/LiLim/2003-06-27/lc2_4_7.12_3962.507.txt) | 2003-06-27 | SAM::OPT | 
+lc2_4_7 | 12 | [3962.5070](best_known_solutions/LiLim/2003-06-27/lc2_4_7.12_3962.507.txt) | 2003-06-27 | BVH | contributed by SAM::OPT
 lc2_4_8 | 12 | [3844.4523](best_known_solutions/LiLim/2001-01-01/lc2_4_8.12_3844.4523.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc2_4_9 | 12 | [4188.9281](best_known_solutions/LiLim/2003-07-08/lc2_4_9.12_4188.9281.txt) | 2003-07-08 | RP2 | contributed by Shobb
 lc2_4_10 | 12 | [3828.4359](best_known_solutions/LiLim/2003-06-27/lc2_4_10.12_3828.4359.txt) | 2003-06-27 | BVH | contributed by SAM::OPT
@@ -195,7 +195,7 @@ lr1_4_10 | 20 | [8192.6546](best_known_solutions/LiLim/2019-11-06/lr1_4_10.20_81
 
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
-lr2_4_1 | 8 | [9726.8819](best_known_solutions/LiLim/2003-06-27/lr2_4_1.8_9726.8819.txt) | 2003-06-27 | SAM::OPT | 
+lr2_4_1 | 8 | [9726.8819](best_known_solutions/LiLim/2003-06-27/lr2_4_1.8_9726.8819.txt) | 2003-06-27 | BVH | contributed by SAM::OPT
 lr2_4_2 | 7 | [9405.4012](best_known_solutions/LiLim/2019-11-06/lr2_4_2.7_9405.4012.txt) | 2019-11-06 | SCR | 
 lr2_4_3 | 5 | [10282.0090](best_known_solutions/LiLim/2020-01-21/lr2_4_3.5_10282.009.txt) | 2020-01-21 | SCR | 
 lr2_4_4 | 4 | [6201.8431](best_known_solutions/LiLim/2019-11-06/lr2_4_4.4_6201.8431.txt) | 2019-11-06 | SCR | 
@@ -209,7 +209,7 @@ lr2_4_10 | 5 | [7596.6238](best_known_solutions/LiLim/2019-11-06/lr2_4_10.5_7596
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 lrc1_4_1 | 36 | [9124.5172](best_known_solutions/LiLim/2015-12-02/lrc1_4_1.36_9124.5172.txt) | 2015-12-02 | CLS | 
-lrc1_4_2 | 31 | [8346.0614](best_known_solutions/LiLim/2003-07-08/lrc1_4_2.31_8346.0614.txt) | 2003-07-08 | SB | 
+lrc1_4_2 | 31 | [8346.0614](best_known_solutions/LiLim/2003-07-08/lrc1_4_2.31_8346.0614.txt) | 2003-07-08 | RP2 | contributed by SB
 lrc1_4_3 | 24 | [7805.1637](best_known_solutions/LiLim/2019-01-30/lrc1_4_3.24_7805.1637.txt) | 2019-01-30 | SB | 
 lrc1_4_4 | 19 | [5803.3125](best_known_solutions/LiLim/2019-01-30/lrc1_4_4.19_5803.3125.txt) | 2019-01-30 | SB | 
 lrc1_4_5 | 32 | [8847.4010](best_known_solutions/LiLim/2019-01-30/lrc1_4_5.32_8847.401.txt) | 2019-01-30 | SB | 
@@ -471,26 +471,26 @@ lrc2_10_10 | 11 | [29210.4203](best_known_solutions/LiLim/2019-11-06/lrc2_10_10.
 ## 200 clients
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
-c1_2_1 | 20 | [2704.5678](best_known_solutions/GehringHomberger/2001-01-01/c1_2_1.20_2704.5678.txt) | 2001-01-01 | SAM::OPT | 
+c1_2_1 | 20 | [2704.5678](best_known_solutions/GehringHomberger/2001-01-01/c1_2_1.20_2704.5678.txt) | 2001-01-01 | GH | contributed by SAM::OPT
 c1_2_2 | 18 | [2917.8920](best_known_solutions/GehringHomberger/2001-01-01/c1_2_2.18_2917.892.txt) | 2001-01-01 | BVH | contributed by SCR
 c1_2_3 | 18 | [2707.3454](best_known_solutions/GehringHomberger/2007-09-20/c1_2_3.18_2707.3454.txt) | 2007-09-20 | BSJ2 | contributed by SCR
 c1_2_4 | 18 | [2643.3088](best_known_solutions/GehringHomberger/2007-09-20/c1_2_4.18_2643.3088.txt) | 2007-09-20 | BSJ2 | contributed by SCR
-c1_2_5 | 20 | [2702.0488](best_known_solutions/GehringHomberger/2001-01-01/c1_2_5.20_2702.0488.txt) | 2001-01-01 | SAM::OPT | 
-c1_2_6 | 20 | [2701.0354](best_known_solutions/GehringHomberger/2001-01-01/c1_2_6.20_2701.0354.txt) | 2001-01-01 | SAM::OPT | 
-c1_2_7 | 20 | [2701.0354](best_known_solutions/GehringHomberger/2001-01-01/c1_2_7.20_2701.0354.txt) | 2001-01-01 | SAM::OPT | 
+c1_2_5 | 20 | [2702.0488](best_known_solutions/GehringHomberger/2001-01-01/c1_2_5.20_2702.0488.txt) | 2001-01-01 | GH | contributed by SAM::OPT
+c1_2_6 | 20 | [2701.0354](best_known_solutions/GehringHomberger/2001-01-01/c1_2_6.20_2701.0354.txt) | 2001-01-01 | GH | contributed by SAM::OPT
+c1_2_7 | 20 | [2701.0354](best_known_solutions/GehringHomberger/2001-01-01/c1_2_7.20_2701.0354.txt) | 2001-01-01 | GH | contributed by SAM::OPT
 c1_2_8 | 19 | [2775.4781](best_known_solutions/GehringHomberger/2012-04-05/c1_2_8.19_2775.4781.txt) | 2012-04-05 | BC4 | 
 c1_2_9 | 18 | [2687.8273](best_known_solutions/GehringHomberger/2013-09-02/c1_2_9.18_2687.8273.txt) | 2013-09-02 | MB | 
 c1_2_10 | 18 | [2643.5534](best_known_solutions/GehringHomberger/2016-06-22/c1_2_10.18_2643.5534.txt) | 2016-06-22 | BC4 | 
 
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
-c2_2_1 | 6 | [1931.4425](best_known_solutions/GehringHomberger/2001-01-01/c2_2_1.6_1931.4425.txt) | 2001-01-01 | SAM::OPT | 
-c2_2_2 | 6 | [1863.1556](best_known_solutions/GehringHomberger/2001-01-01/c2_2_2.6_1863.1556.txt) | 2001-01-01 | SAM::OPT | 
+c2_2_1 | 6 | [1931.4425](best_known_solutions/GehringHomberger/2001-01-01/c2_2_1.6_1931.4425.txt) | 2001-01-01 | GH | contributed by SAM::OPT
+c2_2_2 | 6 | [1863.1556](best_known_solutions/GehringHomberger/2001-01-01/c2_2_2.6_1863.1556.txt) | 2001-01-01 | GH | contributed by SAM::OPT
 c2_2_3 | 6 | [1775.0754](best_known_solutions/GehringHomberger/2009-01-01/c2_2_3.6_1775.0754.txt) | 2009-01-01 | NBD | contributed by BC4
 c2_2_4 | 6 | [1703.4288](best_known_solutions/GehringHomberger/2007-10-17/c2_2_4.6_1703.4288.txt) | 2007-10-17 | PGDR | contributed by SCR
 c2_2_5 | 6 | [1878.8463](best_known_solutions/GehringHomberger/2001-01-01/c2_2_5.6_1878.8463.txt) | 2001-01-01 | BVH | contributed by SCR
 c2_2_6 | 6 | [1857.3535](best_known_solutions/GehringHomberger/2001-01-01/c2_2_6.6_1857.3535.txt) | 2001-01-01 | B | contributed by SAM::OPT
-c2_2_7 | 6 | [1849.4563](best_known_solutions/GehringHomberger/2001-01-01/c2_2_7.6_1849.4563.txt) | 2001-01-01 | SAM::OPT | 
+c2_2_7 | 6 | [1849.4563](best_known_solutions/GehringHomberger/2001-01-01/c2_2_7.6_1849.4563.txt) | 2001-01-01 | GH | contributed by SAM::OPT
 c2_2_8 | 6 | [1820.5343](best_known_solutions/GehringHomberger/2005-02-25/c2_2_8.6_1820.5343.txt) | 2005-02-25 | RP | contributed by SCR
 c2_2_9 | 6 | [1830.0500](best_known_solutions/GehringHomberger/2005-02-25/c2_2_9.6_1830.05.txt) | 2005-02-25 | RP | contributed by SCR
 c2_2_10 | 6 | [1806.5751](best_known_solutions/GehringHomberger/2009-01-01/c2_2_10.6_1806.5751.txt) | 2009-01-01 | NBD | contributed by BC4
