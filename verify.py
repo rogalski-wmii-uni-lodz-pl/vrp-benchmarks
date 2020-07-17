@@ -145,18 +145,22 @@ def verify_file_contents(file_contents, approximation: int = 4):
     distance = 0
     rounded = 0
     status = ""
+    feasible = False
 
     if ok:
         routes = len(solution["routes"])
         distance = total_distance(solution, instance)
         rounded = round(distance, approximation)
         status = f"OK {routes} {rounded}"
+        feasible = True
 
     return {
         "solution": solution,
         "status": status,
         "distance": distance,
         "rounded": rounded,
+        "feasible": feasible,
+        "errors": err
     }
 
 
@@ -170,7 +174,6 @@ def verify_file(path, approximation: int = 4):
         out["solution"]["instance"],
         out["status"],
     )
-
 
 
 if __name__ == "__main__":
