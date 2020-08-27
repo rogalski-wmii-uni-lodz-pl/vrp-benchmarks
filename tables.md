@@ -202,7 +202,7 @@ lr2_4_4 | 4 | [6201.8431](best_known_solutions/LiLim/2019-11-06/lr2_4_4.4_6201.8
 lr2_4_5 | 6 | [9906.5495](best_known_solutions/LiLim/2019-11-06/lr2_4_5.6_9906.5495.txt) | 2019-11-06 | SCR | 
 lr2_4_6 | 5 | [8946.9096](best_known_solutions/LiLim/2019-11-06/lr2_4_6.5_8946.9096.txt) | 2019-11-06 | SCR | 
 lr2_4_7 | 4 | [8023.1147](best_known_solutions/LiLim/2020-05-08/lr2_4_7.4_8023.1147.txt) | 2020-05-08 | CAINIAO | 
-lr2_4_8 | 4 | [5271.0561](best_known_solutions/LiLim/2020-05-08/lr2_4_8.4_5271.0561.txt) | 2020-05-08 | CAINIAO | 
+lr2_4_8 | 4 | [5271.0491](best_known_solutions/LiLim/2020-08-26/lr2_4_8.4_5271.0491.txt) | 2020-08-26 | MFS | 
 lr2_4_9 | 6 | [7926.0702](best_known_solutions/LiLim/2019-11-06/lr2_4_9.6_7926.0702.txt) | 2019-11-06 | SCR | 
 lr2_4_10 | 5 | [7596.6238](best_known_solutions/LiLim/2019-11-06/lr2_4_10.5_7596.6238.txt) | 2019-11-06 | SCR | 
 

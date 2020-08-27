@@ -1,3 +1,7 @@
+## 2020-08-26 (1 new)
+### Li&Lim (1 new)
+#### MFS (1 new):
+1. `lr2_4_8` from [5271.0561](best_known_solutions/LiLim/2020-05-08/lr2_4_8.4_5271.0561.txt) to [5271.0491](best_known_solutions/LiLim/2020-08-26/lr2_4_8.4_5271.0491.txt) after 110 days, beating CAINIAO by -0.007 (by -0.0001%).
 ## 2020-05-08 (2 new)
 ### Li&Lim (2 new)
 #### CAINIAO (2 new):
