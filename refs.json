@@ -161,6 +161,12 @@
       "reference": ""
     }
   ],
+  "HW" : [
+    {
+      "authors": "Zhu He, Weibo Lin (linweibo@huawei.com), Fuda Ma et al. (Team of Scheduling Architecture and Algorithms, Huawei Cloud) and Zhipeng Lü (Huazhong University of Science and Technology).",
+      "reference": "Cloud-oriented solvers for industrial planning and resource scheduling problems of Huawei Cloud (https://www.huaweicloud.com), unpublished."
+    }
+  ],
   "JG": [
     {
       "authors": "Jakub Grzegorek",
