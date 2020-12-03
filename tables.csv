@@ -231,7 +231,7 @@ LiLim,600,lrc2_6_3,2019-11-06,10,12432.9089,SCR,SCR,best_known_solutions/LiLim/2
 LiLim,600,lrc2_6_4,2019-11-06,7,9833.9252,SCR,SCR,best_known_solutions/LiLim/2019-11-06/lrc2_6_4.7_9833.9252.txt
 LiLim,600,lrc2_6_5,2020-12-02,13,14383.9802,SCR,SCR,best_known_solutions/LiLim/2020-12-02/lrc2_6_5.13_14383.9802.txt
 LiLim,600,lrc2_6_6,2020-12-01,12,14962.0824,HW,HW,best_known_solutions/LiLim/2020-12-01/lrc2_6_6.12_14962.0824.txt
-LiLim,600,lrc2_6_7,2020-12-02,10,14123.3442,SCR,SCR,best_known_solutions/LiLim/2020-12-02/lrc2_6_7.10_14123.3442.txt
+LiLim,600,lrc2_6_7,2020-12-03,10,14094.2635,HW,HW,best_known_solutions/LiLim/2020-12-03/lrc2_6_7.10_14094.2635.txt
 LiLim,600,lrc2_6_8,2020-01-21,9,13183.6704,SCR,SCR,best_known_solutions/LiLim/2020-01-21/lrc2_6_8.9_13183.6704.txt
 LiLim,600,lrc2_6_9,2020-12-01,8,16635.4104,HW,HW,best_known_solutions/LiLim/2020-12-01/lrc2_6_9.8_16635.4104.txt
 LiLim,600,lrc2_6_10,2019-11-06,7,13054.5015,SCR,SCR,best_known_solutions/LiLim/2019-11-06/lrc2_6_10.7_13054.5015.txt
@@ -293,8 +293,8 @@ LiLim,800,lrc2_8_5,2020-04-08,16,23602.4356,CAINIAO,CAINIAO,best_known_solutions
 LiLim,800,lrc2_8_6,2019-11-06,15,22591.2594,SCR,SCR,best_known_solutions/LiLim/2019-11-06/lrc2_8_6.15_22591.2594.txt
 LiLim,800,lrc2_8_7,2020-12-01,13,25436.7909,HW,HW,best_known_solutions/LiLim/2020-12-01/lrc2_8_7.13_25436.7909.txt
 LiLim,800,lrc2_8_8,2020-12-01,11,22759.3420,HW,HW,best_known_solutions/LiLim/2020-12-01/lrc2_8_8.11_22759.3420.txt
-LiLim,800,lrc2_8_9,2020-12-01,10,22884.1701,HW,HW,best_known_solutions/LiLim/2020-12-01/lrc2_8_9.10_22884.1701.txt
-LiLim,800,lrc2_8_10,2020-12-01,9,19707.4342,HW,HW,best_known_solutions/LiLim/2020-12-01/lrc2_8_10.9_19707.4342.txt
+LiLim,800,lrc2_8_9,2020-12-03,10,22785.1703,HW,HW,best_known_solutions/LiLim/2020-12-03/lrc2_8_9.10_22785.1703.txt
+LiLim,800,lrc2_8_10,2020-12-03,9,19706.2394,HW,HW,best_known_solutions/LiLim/2020-12-03/lrc2_8_10.9_19706.2394.txt
 LiLim,1000,lc1_10_1,2003-04-23,100,42488.6570,SAM::OPT,SAM::OPT,best_known_solutions/LiLim/2003-04-23/lc1_10_1.100_42488.657.txt
 LiLim,1000,lc1_10_2,2019-01-30,94,44548.5117,SB,SB,best_known_solutions/LiLim/2019-01-30/lc1_10_2.94_44548.5117.txt
 LiLim,1000,lc1_10_3,2020-12-01,79,44064.5200,HW,HW,best_known_solutions/LiLim/2020-12-01/lc1_10_3.79_44064.5200.txt
