@@ -432,7 +432,7 @@ lr1_10_10 | 38 | [45956.6689](best_known_solutions/LiLim/2019-11-06/lr1_10_10.38
 
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
-lr2_10_1 | 17 | [63318.2136](best_known_solutions/LiLim/2019-11-28/lr2_10_1.17_63318.2136.txt) | 2019-11-28 | WM | 
+lr2_10_1 | 17 | [63108.8217](best_known_solutions/LiLim/2020-12-08/lr2_10_1.17_63108.8217.txt) | 2020-12-08 | HW | 
 lr2_10_2 | 14 | [51763.3164](best_known_solutions/LiLim/2020-01-21/lr2_10_2.14_51763.3164.txt) | 2020-01-21 | SCR | 
 lr2_10_3 | 10 | [42926.8312](best_known_solutions/LiLim/2020-12-01/lr2_10_3.10_42926.8312.txt) | 2020-12-01 | HW | 
 lr2_10_4 | 8 | [26597.6545](best_known_solutions/LiLim/2020-12-08/lr2_10_4.8_26597.6545.txt) | 2020-12-08 | HW | 
