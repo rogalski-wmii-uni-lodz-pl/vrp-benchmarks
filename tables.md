@@ -304,7 +304,7 @@ lrc2_6_1 | 16 | [14578.9221](best_known_solutions/LiLim/2019-11-06/lrc2_6_1.16_1
 lrc2_6_2 | 13 | [13850.2169](best_known_solutions/LiLim/2019-11-06/lrc2_6_2.13_13850.2169.txt) | 2019-11-06 | SCR | 
 lrc2_6_3 | 10 | [12432.9089](best_known_solutions/LiLim/2019-11-06/lrc2_6_3.10_12432.9089.txt) | 2019-11-06 | SCR | 
 lrc2_6_4 | 7 | [9833.9252](best_known_solutions/LiLim/2019-11-06/lrc2_6_4.7_9833.9252.txt) | 2019-11-06 | SCR | 
-lrc2_6_5 | 13 | [14383.9802](best_known_solutions/LiLim/2020-12-02/lrc2_6_5.13_14383.9802.txt) | 2020-12-02 | SCR | 
+lrc2_6_5 | 13 | [14380.3652](best_known_solutions/LiLim/2020-12-08/lrc2_6_5.13_14380.3652.txt) | 2020-12-08 | HW | 
 lrc2_6_6 | 12 | [14962.0824](best_known_solutions/LiLim/2020-12-01/lrc2_6_6.12_14962.0824.txt) | 2020-12-01 | HW | 
 lrc2_6_7 | 10 | [14094.2635](best_known_solutions/LiLim/2020-12-03/lrc2_6_7.10_14094.2635.txt) | 2020-12-03 | HW | 
 lrc2_6_8 | 9 | [13183.6704](best_known_solutions/LiLim/2020-01-21/lrc2_6_8.9_13183.6704.txt) | 2020-01-21 | SCR | 
@@ -347,7 +347,7 @@ lr1_8_4 | 25 | [20695.2213](best_known_solutions/LiLim/2020-12-01/lr1_8_4.25_206
 lr1_8_5 | 48 | [40094.8636](best_known_solutions/LiLim/2020-12-01/lr1_8_5.48_40094.8636.txt) | 2020-12-01 | HW | 
 lr1_8_6 | 38 | [36962.7528](best_known_solutions/LiLim/2020-12-01/lr1_8_6.38_36962.7528.txt) | 2020-12-01 | HW | 
 lr1_8_7 | 30 | [27228.0231](best_known_solutions/LiLim/2020-12-01/lr1_8_7.30_27228.0231.txt) | 2020-12-01 | HW | 
-lr1_8_8 | 19 | [20995.9783](best_known_solutions/LiLim/2020-12-02/lr1_8_8.19_20995.9783.txt) | 2020-12-02 | SCR | 
+lr1_8_8 | 19 | [20984.0737](best_known_solutions/LiLim/2020-12-08/lr1_8_8.19_20984.0737.txt) | 2020-12-08 | HW | 
 lr1_8_9 | 40 | [36720.3653](best_known_solutions/LiLim/2020-12-02/lr1_8_9.40_36720.3653.txt) | 2020-12-02 | SCR | 
 lr1_8_10 | 31 | [29525.5710](best_known_solutions/LiLim/2020-01-21/lr1_8_10.31_29525.571.txt) | 2020-01-21 | SCR | 
 
@@ -356,7 +356,7 @@ instance | routes | distance | when | who | notes
 lr2_8_1 | 14 | [41873.1217](best_known_solutions/LiLim/2020-12-01/lr2_8_1.14_41873.1217.txt) | 2020-12-01 | HW | 
 lr2_8_2 | 11 | [36646.3328](best_known_solutions/LiLim/2019-11-06/lr2_8_2.11_36646.3328.txt) | 2019-11-06 | SCR | 
 lr2_8_3 | 9 | [26472.8704](best_known_solutions/LiLim/2020-12-02/lr2_8_3.9_26472.8704.txt) | 2020-12-02 | SCR | 
-lr2_8_4 | 6 | [21112.8279](best_known_solutions/LiLim/2020-12-02/lr2_8_4.6_21112.8279.txt) | 2020-12-02 | SCR | 
+lr2_8_4 | 6 | [20685.0918](best_known_solutions/LiLim/2020-12-08/lr2_8_4.6_20685.0918.txt) | 2020-12-08 | HW | 
 lr2_8_5 | 11 | [34819.6892](best_known_solutions/LiLim/2020-12-02/lr2_8_5.11_34819.6892.txt) | 2020-12-02 | SCR | 
 lr2_8_6 | 9 | [28985.1854](best_known_solutions/LiLim/2020-12-01/lr2_8_6.9_28985.1854.txt) | 2020-12-01 | HW | 
 lr2_8_7 | 7 | [26056.6745](best_known_solutions/LiLim/2020-12-01/lr2_8_7.7_26056.6745.txt) | 2020-12-01 | HW | 
@@ -425,7 +425,7 @@ lr1_10_3 | 54 | [41512.5797](best_known_solutions/LiLim/2020-12-02/lr1_10_3.54_4
 lr1_10_4 | 27 | [30914.6509](best_known_solutions/LiLim/2020-12-02/lr1_10_4.27_30914.6509.txt) | 2020-12-02 | SCR | 
 lr1_10_5 | 58 | [59380.0934](best_known_solutions/LiLim/2020-12-02/lr1_10_5.58_59380.0934.txt) | 2020-12-02 | SCR | 
 lr1_10_6 | 47 | [49286.1457](best_known_solutions/LiLim/2019-11-06/lr1_10_6.47_49286.1457.txt) | 2019-11-06 | SCR | 
-lr1_10_7 | 35 | [38753.2378](best_known_solutions/LiLim/2020-12-02/lr1_10_7.35_38753.2378.txt) | 2020-12-02 | SCR | 
+lr1_10_7 | 35 | [38747.1952](best_known_solutions/LiLim/2020-12-08/lr1_10_7.35_38747.1952.txt) | 2020-12-08 | HW | 
 lr1_10_8 | 24 | [29782.9576](best_known_solutions/LiLim/2020-12-01/lr1_10_8.24_29782.9576.txt) | 2020-12-01 | HW | 
 lr1_10_9 | 48 | [52123.2586](best_known_solutions/LiLim/2020-03-24/lr1_10_9.48_52123.2586.txt) | 2020-03-24 | CAINIAO | 
 lr1_10_10 | 38 | [45956.6689](best_known_solutions/LiLim/2019-11-06/lr1_10_10.38_45956.6689.txt) | 2019-11-06 | SCR | 
@@ -435,11 +435,11 @@ instance | routes | distance | when | who | notes
 lr2_10_1 | 17 | [63318.2136](best_known_solutions/LiLim/2019-11-28/lr2_10_1.17_63318.2136.txt) | 2019-11-28 | WM | 
 lr2_10_2 | 14 | [51763.3164](best_known_solutions/LiLim/2020-01-21/lr2_10_2.14_51763.3164.txt) | 2020-01-21 | SCR | 
 lr2_10_3 | 10 | [42926.8312](best_known_solutions/LiLim/2020-12-01/lr2_10_3.10_42926.8312.txt) | 2020-12-01 | HW | 
-lr2_10_4 | 8 | [26598.0560](best_known_solutions/LiLim/2020-12-02/lr2_10_4.8_26598.0560.txt) | 2020-12-02 | SCR | 
+lr2_10_4 | 8 | [26597.6545](best_known_solutions/LiLim/2020-12-08/lr2_10_4.8_26597.6545.txt) | 2020-12-08 | HW | 
 lr2_10_5 | 13 | [55504.9072](best_known_solutions/LiLim/2020-12-01/lr2_10_5.13_55504.9072.txt) | 2020-12-01 | HW | 
 lr2_10_6 | 11 | [46268.0772](best_known_solutions/LiLim/2020-12-02/lr2_10_6.11_46268.0772.txt) | 2020-12-02 | SCR | 
 lr2_10_7 | 8 | [40211.8748](best_known_solutions/LiLim/2020-12-01/lr2_10_7.8_40211.8748.txt) | 2020-12-01 | HW | 
-lr2_10_8 | 6 | [26750.3723](best_known_solutions/LiLim/2020-12-02/lr2_10_8.6_26750.3723.txt) | 2020-12-02 | SCR | 
+lr2_10_8 | 6 | [26749.7107](best_known_solutions/LiLim/2020-12-08/lr2_10_8.6_26749.7107.txt) | 2020-12-08 | HW | 
 lr2_10_9 | 12 | [51244.7717](best_known_solutions/LiLim/2020-12-01/lr2_10_9.12_51244.7717.txt) | 2020-12-01 | HW | 
 lr2_10_10 | 10 | [46210.3661](best_known_solutions/LiLim/2020-12-03/lr2_10_10.10_46210.3661.txt) | 2020-12-03 | HW | 
 
@@ -459,7 +459,7 @@ lrc1_10_10 | 47 | [36554.0403](best_known_solutions/LiLim/2020-12-01/lrc1_10_10.
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 lrc2_10_1 | 22 | [34463.4648](best_known_solutions/LiLim/2019-11-06/lrc2_10_1.22_34463.4648.txt) | 2019-11-06 | SCR | 
-lrc2_10_2 | 19 | [38793.3388](best_known_solutions/LiLim/2020-12-02/lrc2_10_2.19_38793.3388.txt) | 2020-12-02 | SCR | 
+lrc2_10_2 | 19 | [38654.3386](best_known_solutions/LiLim/2020-12-08/lrc2_10_2.19_38654.3386.txt) | 2020-12-08 | HW | 
 lrc2_10_3 | 16 | [27313.1003](best_known_solutions/LiLim/2020-03-04/lrc2_10_3.16_27313.1003.txt) | 2020-03-04 | SCR | 
 lrc2_10_4 | 11 | [23256.1191](best_known_solutions/LiLim/2020-12-02/lrc2_10_4.11_23256.1191.txt) | 2020-12-02 | SCR | 
 lrc2_10_5 | 16 | [40848.5440](best_known_solutions/LiLim/2020-12-01/lrc2_10_5.16_40848.5440.txt) | 2020-12-01 | HW | 
