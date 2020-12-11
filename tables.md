@@ -354,11 +354,11 @@ lr1_8_10 | 31 | [29525.5710](best_known_solutions/LiLim/2020-01-21/lr1_8_10.31_2
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 lr2_8_1 | 14 | [41873.1217](best_known_solutions/LiLim/2020-12-01/lr2_8_1.14_41873.1217.txt) | 2020-12-01 | HW | 
-lr2_8_2 | 11 | [36646.3328](best_known_solutions/LiLim/2019-11-06/lr2_8_2.11_36646.3328.txt) | 2019-11-06 | SCR | 
-lr2_8_3 | 9 | [26472.8704](best_known_solutions/LiLim/2020-12-02/lr2_8_3.9_26472.8704.txt) | 2020-12-02 | SCR | 
-lr2_8_4 | 6 | [20685.0918](best_known_solutions/LiLim/2020-12-08/lr2_8_4.6_20685.0918.txt) | 2020-12-08 | HW | 
+lr2_8_2 | 11 | [36628.3947](best_known_solutions/LiLim/2020-12-11/lr2_8_2.11_36628.3947.txt) | 2020-12-11 | HW | 
+lr2_8_3 | 9 | [26426.2940](best_known_solutions/LiLim/2020-12-11/lr2_8_3.9_26426.2940.txt) | 2020-12-11 | HW | 
+lr2_8_4 | 6 | [20677.8868](best_known_solutions/LiLim/2020-12-11/lr2_8_4.6_20677.8868.txt) | 2020-12-11 | HW | 
 lr2_8_5 | 11 | [34819.6892](best_known_solutions/LiLim/2020-12-02/lr2_8_5.11_34819.6892.txt) | 2020-12-02 | SCR | 
-lr2_8_6 | 9 | [28985.1854](best_known_solutions/LiLim/2020-12-01/lr2_8_6.9_28985.1854.txt) | 2020-12-01 | HW | 
+lr2_8_6 | 9 | [28981.7744](best_known_solutions/LiLim/2020-12-11/lr2_8_6.9_28981.7744.txt) | 2020-12-11 | HW | 
 lr2_8_7 | 7 | [26056.6745](best_known_solutions/LiLim/2020-12-01/lr2_8_7.7_26056.6745.txt) | 2020-12-01 | HW | 
 lr2_8_8 | 5 | [18414.8295](best_known_solutions/LiLim/2020-12-02/lr2_8_8.5_18414.8295.txt) | 2020-12-02 | SCR | 
 lr2_8_9 | 10 | [30515.4950](best_known_solutions/LiLim/2019-11-06/lr2_8_9.10_30515.495.txt) | 2019-11-06 | SCR | 
@@ -432,16 +432,16 @@ lr1_10_10 | 38 | [45956.6689](best_known_solutions/LiLim/2019-11-06/lr1_10_10.38
 
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
-lr2_10_1 | 17 | [63108.8217](best_known_solutions/LiLim/2020-12-08/lr2_10_1.17_63108.8217.txt) | 2020-12-08 | HW | 
+lr2_10_1 | 17 | [63017.9679](best_known_solutions/LiLim/2020-12-11/lr2_10_1.17_63017.9679.txt) | 2020-12-11 | HW | 
 lr2_10_2 | 14 | [51763.3164](best_known_solutions/LiLim/2020-01-21/lr2_10_2.14_51763.3164.txt) | 2020-01-21 | SCR | 
 lr2_10_3 | 10 | [42926.8312](best_known_solutions/LiLim/2020-12-01/lr2_10_3.10_42926.8312.txt) | 2020-12-01 | HW | 
 lr2_10_4 | 8 | [26597.6545](best_known_solutions/LiLim/2020-12-08/lr2_10_4.8_26597.6545.txt) | 2020-12-08 | HW | 
 lr2_10_5 | 13 | [55504.9072](best_known_solutions/LiLim/2020-12-01/lr2_10_5.13_55504.9072.txt) | 2020-12-01 | HW | 
 lr2_10_6 | 11 | [46268.0772](best_known_solutions/LiLim/2020-12-02/lr2_10_6.11_46268.0772.txt) | 2020-12-02 | SCR | 
-lr2_10_7 | 8 | [40211.8748](best_known_solutions/LiLim/2020-12-01/lr2_10_7.8_40211.8748.txt) | 2020-12-01 | HW | 
+lr2_10_7 | 8 | [40193.8061](best_known_solutions/LiLim/2020-12-11/lr2_10_7.8_40193.8061.txt) | 2020-12-11 | HW | 
 lr2_10_8 | 6 | [26749.7107](best_known_solutions/LiLim/2020-12-08/lr2_10_8.6_26749.7107.txt) | 2020-12-08 | HW | 
 lr2_10_9 | 12 | [51244.7717](best_known_solutions/LiLim/2020-12-01/lr2_10_9.12_51244.7717.txt) | 2020-12-01 | HW | 
-lr2_10_10 | 10 | [46210.3661](best_known_solutions/LiLim/2020-12-03/lr2_10_10.10_46210.3661.txt) | 2020-12-03 | HW | 
+lr2_10_10 | 10 | [46190.8156](best_known_solutions/LiLim/2020-12-11/lr2_10_10.10_46190.8156.txt) | 2020-12-11 | HW | 
 
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
@@ -451,21 +451,21 @@ lrc1_10_3 | 53 | [35620.7288](best_known_solutions/LiLim/2020-12-01/lrc1_10_3.53
 lrc1_10_4 | 40 | [27213.9339](best_known_solutions/LiLim/2020-12-01/lrc1_10_4.40_27213.9339.txt) | 2020-12-01 | HW | 
 lrc1_10_5 | 72 | [50324.5718](best_known_solutions/LiLim/2020-03-24/lrc1_10_5.72_50324.5718.txt) | 2020-03-24 | CAINIAO | 
 lrc1_10_6 | 67 | [45115.2217](best_known_solutions/LiLim/2020-12-01/lrc1_10_6.67_45115.2217.txt) | 2020-12-01 | HW | 
-lrc1_10_7 | 60 | [41728.6260](best_known_solutions/LiLim/2020-12-01/lrc1_10_7.60_41728.6260.txt) | 2020-12-01 | HW | 
-lrc1_10_8 | 55 | [41454.3156](best_known_solutions/LiLim/2020-12-01/lrc1_10_8.55_41454.3156.txt) | 2020-12-01 | HW | 
+lrc1_10_7 | 60 | [41560.5569](best_known_solutions/LiLim/2020-12-11/lrc1_10_7.60_41560.5569.txt) | 2020-12-11 | HW | 
+lrc1_10_8 | 55 | [41396.3868](best_known_solutions/LiLim/2020-12-11/lrc1_10_8.55_41396.3868.txt) | 2020-12-11 | HW | 
 lrc1_10_9 | 53 | [39182.1459](best_known_solutions/LiLim/2020-12-01/lrc1_10_9.53_39182.1459.txt) | 2020-12-01 | HW | 
 lrc1_10_10 | 47 | [36554.0403](best_known_solutions/LiLim/2020-12-01/lrc1_10_10.47_36554.0403.txt) | 2020-12-01 | HW | 
 
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 lrc2_10_1 | 22 | [34463.4648](best_known_solutions/LiLim/2019-11-06/lrc2_10_1.22_34463.4648.txt) | 2019-11-06 | SCR | 
-lrc2_10_2 | 19 | [38654.3386](best_known_solutions/LiLim/2020-12-08/lrc2_10_2.19_38654.3386.txt) | 2020-12-08 | HW | 
-lrc2_10_3 | 16 | [27313.1003](best_known_solutions/LiLim/2020-03-04/lrc2_10_3.16_27313.1003.txt) | 2020-03-04 | SCR | 
+lrc2_10_2 | 19 | [38619.1328](best_known_solutions/LiLim/2020-12-11/lrc2_10_2.19_38619.1328.txt) | 2020-12-11 | HW | 
+lrc2_10_3 | 16 | [27218.1914](best_known_solutions/LiLim/2020-12-11/lrc2_10_3.16_27218.1914.txt) | 2020-12-11 | HW | 
 lrc2_10_4 | 11 | [23256.1191](best_known_solutions/LiLim/2020-12-02/lrc2_10_4.11_23256.1191.txt) | 2020-12-02 | SCR | 
 lrc2_10_5 | 16 | [40848.5440](best_known_solutions/LiLim/2020-12-01/lrc2_10_5.16_40848.5440.txt) | 2020-12-01 | HW | 
 lrc2_10_6 | 17 | [30910.6526](best_known_solutions/LiLim/2019-11-06/lrc2_10_6.17_30910.6526.txt) | 2019-11-06 | SCR | 
 lrc2_10_7 | 15 | [33275.2411](best_known_solutions/LiLim/2020-01-21/lrc2_10_7.15_33275.2411.txt) | 2020-01-21 | SCR | 
-lrc2_10_10 | 11 | [29194.9687](best_known_solutions/LiLim/2020-12-01/lrc2_10_10.11_29194.9687.txt) | 2020-12-01 | HW | 
+lrc2_10_10 | 11 | [29107.1306](best_known_solutions/LiLim/2020-12-11/lrc2_10_10.11_29107.1306.txt) | 2020-12-11 | HW | 
 
 # Gehring-Homberger CVRPTW Benchmark
 ## 200 clients
