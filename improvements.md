@@ -1,3 +1,22 @@
+## 2021-01-16 (16 new)
+### Li&Lim (16 new)
+#### HW (16 new):
+1. `lc2_8_4` from [12932.0498](best_known_solutions/LiLim/2020-12-02/lc2_8_4.23_12932.0498.txt) to [12917.3406](best_known_solutions/LiLim/2021-01-16/lc2_8_4.23_12917.3406.txt) after 45 days, beating SCR by -14.7092 (by -0.1137%).
+1. `lr1_8_9` from [36720.3653](best_known_solutions/LiLim/2020-12-02/lr1_8_9.40_36720.3653.txt) to [36641.6028](best_known_solutions/LiLim/2021-01-16/lr1_8_9.40_36641.6028.txt) after 45 days, beating SCR by -78.7625 (by -0.2145%).
+1. `lr2_8_3` from [26398.6259](best_known_solutions/LiLim/2020-12-24/lr2_8_3.9_26398.6259.txt) to [26392.426](best_known_solutions/LiLim/2021-01-16/lr2_8_3.9_26392.4260.txt) after 23 days, beating HW by -6.1999 (by -0.0235%).
+1. `lr2_8_4` from [20677.8868](best_known_solutions/LiLim/2020-12-11/lr2_8_4.6_20677.8868.txt) to [20640.1866](best_known_solutions/LiLim/2021-01-16/lr2_8_4.6_20640.1866.txt) after 36 days, beating HW by -37.7002 (by -0.1823%).
+1. `lr2_8_6` from [28836.843](best_known_solutions/LiLim/2020-12-24/lr2_8_6.9_28836.8430.txt) to [28814.6504](best_known_solutions/LiLim/2021-01-16/lr2_8_6.9_28814.6504.txt) after 23 days, beating HW by -22.1926 (by -0.077%).
+1. `lr2_8_8` from [18414.8295](best_known_solutions/LiLim/2020-12-02/lr2_8_8.5_18414.8295.txt) to [18378.5031](best_known_solutions/LiLim/2021-01-16/lr2_8_8.5_18378.5031.txt) after 45 days, beating SCR by -36.3264 (by -0.1973%).
+1. `lr2_8_10` from [30152.0445](best_known_solutions/LiLim/2020-01-21/lr2_8_10.8_30152.0445.txt) to [30136.8618](best_known_solutions/LiLim/2021-01-16/lr2_8_10.8_30136.8618.txt) after 361 days, beating SCR by -15.1827 (by -0.0504%).
+1. `lrc2_8_8` from [22612.7166](best_known_solutions/LiLim/2020-12-24/lrc2_8_8.11_22612.7166.txt) to [22604.3608](best_known_solutions/LiLim/2021-01-16/lrc2_8_8.11_22604.3608.txt) after 23 days, beating HW by -8.3558 (by -0.037%).
+1. `lr1_10_4` from [30914.6509](best_known_solutions/LiLim/2020-12-02/lr1_10_4.27_30914.6509.txt) to [30804.8813](best_known_solutions/LiLim/2021-01-16/lr1_10_4.27_30804.8813.txt) after 45 days, beating SCR by -109.7696 (by -0.3551%).
+1. `lr1_10_6` from [49264.3203](best_known_solutions/LiLim/2020-12-24/lr1_10_6.47_49264.3203.txt) to [49053.1955](best_known_solutions/LiLim/2021-01-16/lr1_10_6.47_49053.1955.txt) after 23 days, beating HW by -211.1248 (by -0.4286%).
+1. `lr1_10_9` from [52123.2586](best_known_solutions/LiLim/2020-03-24/lr1_10_9.48_52123.2586.txt) to [52048.7793](best_known_solutions/LiLim/2021-01-16/lr1_10_9.48_52048.7793.txt) after 298 days, beating CAINIAO by -74.4793 (by -0.1429%).
+1. `lr2_10_2` from [51763.3164](best_known_solutions/LiLim/2020-01-21/lr2_10_2.14_51763.3164.txt) to [51428.4425](best_known_solutions/LiLim/2021-01-16/lr2_10_2.14_51428.4425.txt) after 361 days, beating SCR by -334.8739 (by -0.6469%).
+1. `lr2_10_7` from [40193.8061](best_known_solutions/LiLim/2020-12-11/lr2_10_7.8_40193.8061.txt) to [39767.8746](best_known_solutions/LiLim/2021-01-16/lr2_10_7.8_39767.8746.txt) after 36 days, beating HW by -425.9315 (by -1.0597%).
+1. `lr2_10_10` from [45400.1963](best_known_solutions/LiLim/2020-12-24/lr2_10_10.10_45400.1963.txt) to [45063.0993](best_known_solutions/LiLim/2021-01-16/lr2_10_10.10_45063.0993.txt) after 23 days, beating HW by -337.097 (by -0.7425%).
+1. `lrc1_10_8` from [41232.5552](best_known_solutions/LiLim/2020-12-24/lrc1_10_8.55_41232.5552.txt) to [41063.5974](best_known_solutions/LiLim/2021-01-16/lrc1_10_8.55_41063.5974.txt) after 23 days, beating HW by -168.9578 (by -0.4098%).
+1. `lrc2_10_4` from [23231.8618](best_known_solutions/LiLim/2020-12-24/lrc2_10_4.11_23231.8618.txt) to [23220.6007](best_known_solutions/LiLim/2021-01-16/lrc2_10_4.11_23220.6007.txt) after 23 days, beating HW by -11.2611 (by -0.0485%).
 ## 2020-12-24 (15 new)
 ### Li&Lim (15 new)
 #### HW (15 new):
