@@ -352,7 +352,7 @@ LiLim,1000,lrc2_10_4,2021-03-02,11,23220.3816,HW,HW,best_known_solutions/LiLim/2
 LiLim,1000,lrc2_10_5,2020-12-01,16,40848.5440,HW,HW,best_known_solutions/LiLim/2020-12-01/lrc2_10_5.16_40848.5440.txt
 LiLim,1000,lrc2_10_6,2019-11-06,17,30910.6526,SCR,SCR,best_known_solutions/LiLim/2019-11-06/lrc2_10_6.17_30910.6526.txt
 LiLim,1000,lrc2_10_7,2020-01-21,15,33275.2411,SCR,SCR,best_known_solutions/LiLim/2020-01-21/lrc2_10_7.15_33275.2411.txt
-LiLim,1000,lrc2_10_10,2020-12-11,11,29107.1306,HW,HW,best_known_solutions/LiLim/2020-12-11/lrc2_10_10.11_29107.1306.txt
+LiLim,1000,lrc2_10_10,2020-12-24,11,29100.2767,HW,HW,best_known_solutions/LiLim/2020-12-24/lrc2_10_10.11_29100.2767.txt
 GehringHomberger,200,c1_2_1,2001-01-01,20,2704.5678,GH,SAM::OPT,best_known_solutions/GehringHomberger/2001-01-01/c1_2_1.20_2704.5678.txt
 GehringHomberger,200,c1_2_2,2001-01-01,18,2917.8920,BVH,SCR,best_known_solutions/GehringHomberger/2001-01-01/c1_2_2.18_2917.892.txt
 GehringHomberger,200,c1_2_3,2007-09-20,18,2707.3454,BSJ2,SCR,best_known_solutions/GehringHomberger/2007-09-20/c1_2_3.18_2707.3454.txt

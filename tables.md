@@ -465,7 +465,7 @@ lrc2_10_4 | 11 | [23220.3816](best_known_solutions/LiLim/2021-03-02/lrc2_10_4.11
 lrc2_10_5 | 16 | [40848.5440](best_known_solutions/LiLim/2020-12-01/lrc2_10_5.16_40848.5440.txt) | 2020-12-01 | HW | 
 lrc2_10_6 | 17 | [30910.6526](best_known_solutions/LiLim/2019-11-06/lrc2_10_6.17_30910.6526.txt) | 2019-11-06 | SCR | 
 lrc2_10_7 | 15 | [33275.2411](best_known_solutions/LiLim/2020-01-21/lrc2_10_7.15_33275.2411.txt) | 2020-01-21 | SCR | 
-lrc2_10_10 | 11 | [29107.1306](best_known_solutions/LiLim/2020-12-11/lrc2_10_10.11_29107.1306.txt) | 2020-12-11 | HW | 
+lrc2_10_10 | 11 | [29100.2767](best_known_solutions/LiLim/2020-12-24/lrc2_10_10.11_29100.2767.txt) | 2020-12-24 | HW | 
 
 # Gehring-Homberger CVRPTW Benchmark
 ## 200 clients
