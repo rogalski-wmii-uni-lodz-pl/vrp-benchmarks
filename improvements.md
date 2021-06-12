@@ -1,3 +1,15 @@
+## 2021-06-12 (9 new)
+### Li&Lim (9 new)
+#### HW (9 new):
+1. `lr1_4_4` from [7037.1662](best_known_solutions/LiLim/2019-11-06/lr1_4_4.15_7037.1662.txt) to [7007.8982](best_known_solutions/LiLim/2021-06-12/lr1_4_4.15_7007.8982.txt) after 584 days, beating SCR by -29.268 (by -0.4159%).
+1. `lr2_4_3` from [10282.009](best_known_solutions/LiLim/2020-01-21/lr2_4_3.5_10282.009.txt) to [10195.2985](best_known_solutions/LiLim/2021-06-12/lr2_4_3.5_10195.2985.txt) after 508 days, beating SCR by -86.7105 (by -0.8433%).
+1. `lr2_4_5` from [9906.5495](best_known_solutions/LiLim/2019-11-06/lr2_4_5.6_9906.5495.txt) to [9894.4593](best_known_solutions/LiLim/2021-06-12/lr2_4_5.6_9894.4593.txt) after 584 days, beating SCR by -12.0902 (by -0.122%).
+1. `lc1_6_4` from [13305.0865](best_known_solutions/LiLim/2020-12-02/lc1_6_4.47_13305.0865.txt) to [13300.5481](best_known_solutions/LiLim/2021-06-12/lc1_6_4.47_13300.5481.txt) after 192 days, beating SCR by -4.5384 (by -0.0341%).
+1. `lc1_8_10` from [26007.1756](best_known_solutions/LiLim/2019-11-06/lc1_8_10.69_26007.1756.txt) to [25990.6163](best_known_solutions/LiLim/2021-06-12/lc1_8_10.69_25990.6163.txt) after 584 days, beating SCR by -16.5593 (by -0.0637%).
+1. `lr2_8_7` from [25789.1163](best_known_solutions/LiLim/2021-04-26/lr2_8_7.7_25789.1163.txt) to [25564.1025](best_known_solutions/LiLim/2021-06-12/lr2_8_7.7_25564.1025.txt) after 47 days, beating SCR by -225.0138 (by -0.8725%).
+1. `lc1_10_4` from [37515.0365](best_known_solutions/LiLim/2020-01-21/lc1_10_4.73_37515.0365.txt) to [37511.3906](best_known_solutions/LiLim/2021-06-12/lc1_10_4.73_37511.3906.txt) after 508 days, beating SCR by -3.6459 (by -0.0097%).
+1. `lr1_10_7` from [38747.0929](best_known_solutions/LiLim/2021-04-26/lr1_10_7.35_38747.0929.txt) to [38563.1965](best_known_solutions/LiLim/2021-06-12/lr1_10_7.35_38563.1965.txt) after 47 days, beating SCR by -183.8964 (by -0.4746%).
+1. `lr1_10_8` from [29754.4164](best_known_solutions/LiLim/2021-04-26/lr1_10_8.24_29754.4164.txt) to [29717.0307](best_known_solutions/LiLim/2021-06-12/lr1_10_8.24_29717.0307.txt) after 47 days, beating SCR by -37.3857 (by -0.1256%).
 ## 2021-04-26 (19 new)
 ### Li&Lim (19 new)
 #### SCR (19 new):
