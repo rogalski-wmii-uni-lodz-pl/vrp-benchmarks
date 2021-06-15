@@ -281,7 +281,7 @@ lr2_6_4 | 6 | [10639.0761](best_known_solutions/LiLim/2019-11-06/lr2_6_4.6_10639
 lr2_6_5 | 8 | [22625.8932](best_known_solutions/LiLim/2021-03-02/lr2_6_5.8_22625.8932.txt) | 2021-03-02 | HW | 
 lr2_6_6 | 7 | [19099.4890](best_known_solutions/LiLim/2020-12-02/lr2_6_6.7_19099.4890.txt) | 2020-12-02 | SCR | 
 lr2_6_7 | 6 | [14654.2043](best_known_solutions/LiLim/2020-01-21/lr2_6_7.6_14654.2043.txt) | 2020-01-21 | SCR | 
-lr2_6_8 | 4 | [12382.1871](best_known_solutions/LiLim/2021-04-26/lr2_6_8.4_12382.1871.txt) | 2021-04-26 | SCR | 
+lr2_6_8 | 4 | [12368.1101](best_known_solutions/LiLim/2021-06-15/lr2_6_8.4_12368.1101.txt) | 2021-06-15 | HW | 
 lr2_6_9 | 8 | [18259.1969](best_known_solutions/LiLim/2019-11-06/lr2_6_9.8_18259.1969.txt) | 2019-11-06 | SCR | 
 lr2_6_10 | 7 | [16390.6427](best_known_solutions/LiLim/2019-11-06/lr2_6_10.7_16390.6427.txt) | 2019-11-06 | SCR | 
 

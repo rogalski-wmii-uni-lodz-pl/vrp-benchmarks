@@ -1,3 +1,7 @@
+## 2021-06-15 (1 new)
+### Li&Lim (1 new)
+#### HW (1 new):
+1. `lr2_6_8` from [12382.1871](best_known_solutions/LiLim/2021-04-26/lr2_6_8.4_12382.1871.txt) to [12368.1101](best_known_solutions/LiLim/2021-06-15/lr2_6_8.4_12368.1101.txt) after 50 days, beating SCR by -14.077 (by -0.1137%).
 ## 2021-06-12 (9 new)
 ### Li&Lim (9 new)
 #### HW (9 new):
