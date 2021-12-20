@@ -369,6 +369,10 @@
   ],
   "SCR": [
     {
+      "authors": "Piotr Sielski (piotr.sielski@wmii.uni.lodz.pl), Piotr Cybula, Marek Rogalski (marek.rogalski@wmii.uni.lodz.pl), Mariusz Kok, Piotr Beling, Andrzej Jaszkiewicz, Przemysław Pełka.  Emapa S.A. (http://www.emapa.pl).",
+      "reference": "\"New methods of VRP problem optimization\", unpublished research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16."
+    },
+    {
       "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Piotr Beling Andrzej Jaszkiewicz, Przemysław Pełka. Emapa S.A. (http://www.emapa.pl)",
       "reference": "\"New methods of VRP problem optimization\", unpublished research funded by The National Centre for Research and Development. project number: POIR.01.01.01.-00-0222/16."
     },
