@@ -24,10 +24,6 @@ current_full_path = pathlib.Path(__file__).resolve()
 pure_path = pathlib.PurePosixPath(current_full_path).parent
 
 
-def relative_url_hack(url):
-    return url.relative_to(pure_path)
-
-
 def to_improvmenet(prev, sol):
     what = "distance"
     t = float
@@ -46,8 +42,6 @@ def to_improvmenet(prev, sol):
 
     after = change(to_date, "when", sol, prev)
 
-    relative_url_hack(sol["url"])
-
     improvement = {
         "when": sol["when"],
         "who": sol["who"],
@@ -60,8 +54,8 @@ def to_improvmenet(prev, sol):
         "beaten": prev["who"],
         "prev_when": prev["when"],
         "after_days": after.days,
-        "prev_url": relative_url_hack(prev["url"]),
-        "new_url": relative_url_hack(sol["url"]),
+        "prev_url": prev["url"],
+        "new_url": sol["url"],
     }
     return improvement
 

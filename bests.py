@@ -9,7 +9,8 @@ from collections import defaultdict
 from parse_solution import Reference, parse_solution
 
 
-script_location = Path(__file__).parent
+script_location = Path("./")
+
 bks_location = script_location / "best_known_solutions"
 unknown = "???"
 
