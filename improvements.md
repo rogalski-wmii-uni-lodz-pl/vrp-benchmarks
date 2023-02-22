@@ -1,3 +1,7 @@
+## 2023-02-22 (1 new)
+### Li&Lim (1 new)
+#### NVIDIA (1 new):
+1. `lr2_10_9` from [51188.9521](best_known_solutions/LiLim/2021-12-21/lr2_10_9.12_51188.9521.txt) to [50781.8317](best_known_solutions/LiLim/2023-02-22/lr2_10_9.12_50781.8317.txt) after 428 days, beating SCR by -407.1204 (by -0.7953%).
 ## 2021-12-21 (61 new)
 ### Li&Lim (61 new)
 #### SCR (61 new):

@@ -440,7 +440,7 @@ lr2_10_5 | 13 | [55197.1290](best_known_solutions/LiLim/2021-12-21/lr2_10_5.13_5
 lr2_10_6 | 11 | [46253.3748](best_known_solutions/LiLim/2021-12-21/lr2_10_6.11_46253.3748.txt) | 2021-12-21 | SCR | 
 lr2_10_7 | 8 | [39648.5445](best_known_solutions/LiLim/2021-12-21/lr2_10_7.8_39648.5445.txt) | 2021-12-21 | SCR | 
 lr2_10_8 | 6 | [26744.4884](best_known_solutions/LiLim/2021-12-21/lr2_10_8.6_26744.4884.txt) | 2021-12-21 | SCR | 
-lr2_10_9 | 12 | [51188.9521](best_known_solutions/LiLim/2021-12-21/lr2_10_9.12_51188.9521.txt) | 2021-12-21 | SCR | 
+lr2_10_9 | 12 | [50781.8317](best_known_solutions/LiLim/2023-02-22/lr2_10_9.12_50781.8317.txt) | 2023-02-22 | NVIDIA | 
 lr2_10_10 | 10 | [44888.9910](best_known_solutions/LiLim/2021-12-21/lr2_10_10.10_44888.9910.txt) | 2021-12-21 | SCR | 
 
 instance | routes | distance | when | who | notes

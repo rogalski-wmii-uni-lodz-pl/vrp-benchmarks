@@ -161,7 +161,7 @@
       "reference": ""
     }
   ],
-  "HW" : [
+  "HW": [
     {
       "authors": "Zhu He, Weibo Lin (linweibo@huawei.com), Fuda Ma et al. (Team of Scheduling Architecture and Algorithms, Huawei Cloud) and Zhipeng Lü (Huazhong University of Science and Technology).",
       "reference": "Cloud-oriented solvers for industrial planning and resource scheduling problems of Huawei Cloud (https://www.huaweicloud.com), unpublished."
@@ -368,11 +368,10 @@
     }
   ],
   "SCR": [
-	  {
-
-	  "authors" : "Piotr Sielski (piotr.sielski@wmii.uni.lodz.pl), Piotr Cybula, Marek Rogalski (marek.rogalski@wmii.uni.lodz.pl), Mariusz Kok, Piotr Beling, Andrzej Jaszkiewicz, Przemysław Pełka.  Emapa S.A. (http://www.emapa.pl).",
-	  "reference": "\"Development of universal methods of solving advanced VRP problems with the use of machine learning\", unpublished research funded by The National Centre for Research and Development, project number: POIR.01.01.01-00-0012/19.  \"Optimization of advanced VRP problem variants\", unpublished. Computing grant 358 funded by Poznan Supercomputing and Networking Center."
-	  },
+    {
+      "authors": "Piotr Sielski (piotr.sielski@wmii.uni.lodz.pl), Piotr Cybula, Marek Rogalski (marek.rogalski@wmii.uni.lodz.pl), Mariusz Kok, Piotr Beling, Andrzej Jaszkiewicz, Przemysław Pełka.  Emapa S.A. (http://www.emapa.pl).",
+      "reference": "\"Development of universal methods of solving advanced VRP problems with the use of machine learning\", unpublished research funded by The National Centre for Research and Development, project number: POIR.01.01.01-00-0012/19.  \"Optimization of advanced VRP problem variants\", unpublished. Computing grant 358 funded by Poznan Supercomputing and Networking Center."
+    },
     {
       "authors": "Piotr Sielski (piotr.sielski@wmii.uni.lodz.pl), Piotr Cybula, Marek Rogalski (marek.rogalski@wmii.uni.lodz.pl), Mariusz Kok, Piotr Beling, Andrzej Jaszkiewicz, Przemysław Pełka.  Emapa S.A. (http://www.emapa.pl).",
       "reference": "\"New methods of VRP problem optimization\", unpublished research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16."
@@ -456,6 +455,12 @@
     {
       "authors": "Witoslaw Wierzbicki",
       "reference": "\"Design and implementation of parallel programs with shared memory\". Master of Science Thesis, University of Silesia, Sosnowiec, 2012."
+    }
+  ],
+  "NVIDIA": [
+    {
+      "authors": "Piotr Sielski, Akif Çördük, Nicolas Blin, Hugo Linsenmaier, Alex Fender",
+      "reference": "NVIDIA"
     }
   ]
 }
