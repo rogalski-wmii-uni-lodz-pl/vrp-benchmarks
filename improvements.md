@@ -1,3 +1,9 @@
+## 2023-03-08 (3 new)
+### Li&Lim (3 new)
+#### NVIDIA (3 new):
+1. `lr1_10_5` from [59276.3932](best_known_solutions/LiLim/2021-12-21/lr1_10_5.58_59276.3932.txt) to [59053.6768](best_known_solutions/LiLim/2023-03-08/lr1_10_5.58_59053.6768.txt) after 442 days, beating SCR by -222.7164 (by -0.3757%).
+1. `lr1_10_6` from [51488.5612](best_known_solutions/LiLim/2021-12-21/lr1_10_6.46_51488.5612.txt) to [51377.4374](best_known_solutions/LiLim/2023-03-08/lr1_10_6.46_51377.4374.txt) after 442 days, beating SCR by -111.1238 (by -0.2158%).
+1. `lr2_10_5` from [55197.129](best_known_solutions/LiLim/2021-12-21/lr2_10_5.13_55197.1290.txt) to [55038.2097](best_known_solutions/LiLim/2023-03-08/lr2_10_5.13_55038.2097.txt) after 442 days, beating SCR by -158.9193 (by -0.2879%).
 ## 2023-02-22 (1 new)
 ### Li&Lim (1 new)
 #### NVIDIA (1 new):

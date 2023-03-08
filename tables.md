@@ -423,8 +423,8 @@ lr1_10_1 | 100 | [56744.9118](best_known_solutions/LiLim/2018-08-22/lr1_10_1.100
 lr1_10_2 | 80 | [49349.8412](best_known_solutions/LiLim/2019-11-06/lr1_10_2.80_49349.8412.txt) | 2019-11-06 | SCR | 
 lr1_10_3 | 54 | [41483.8892](best_known_solutions/LiLim/2021-12-21/lr1_10_3.54_41483.8892.txt) | 2021-12-21 | SCR | 
 lr1_10_4 | 27 | [30792.8705](best_known_solutions/LiLim/2021-04-26/lr1_10_4.27_30792.8705.txt) | 2021-04-26 | SCR | 
-lr1_10_5 | 58 | [59276.3932](best_known_solutions/LiLim/2021-12-21/lr1_10_5.58_59276.3932.txt) | 2021-12-21 | SCR | 
-lr1_10_6 | 46 | [51488.5612](best_known_solutions/LiLim/2021-12-21/lr1_10_6.46_51488.5612.txt) | 2021-12-21 | SCR | 
+lr1_10_5 | 58 | [59053.6768](best_known_solutions/LiLim/2023-03-08/lr1_10_5.58_59053.6768.txt) | 2023-03-08 | NVIDIA | 
+lr1_10_6 | 46 | [51377.4374](best_known_solutions/LiLim/2023-03-08/lr1_10_6.46_51377.4374.txt) | 2023-03-08 | NVIDIA | 
 lr1_10_7 | 35 | [38563.1965](best_known_solutions/LiLim/2021-06-12/lr1_10_7.35_38563.1965.txt) | 2021-06-12 | HW | 
 lr1_10_8 | 24 | [29613.2681](best_known_solutions/LiLim/2021-12-21/lr1_10_8.24_29613.2681.txt) | 2021-12-21 | SCR | 
 lr1_10_9 | 47 | [54582.2490](best_known_solutions/LiLim/2021-12-21/lr1_10_9.47_54582.2490.txt) | 2021-12-21 | SCR | 
@@ -436,7 +436,7 @@ lr2_10_1 | 17 | [62859.2910](best_known_solutions/LiLim/2021-12-21/lr2_10_1.17_6
 lr2_10_2 | 14 | [51357.3044](best_known_solutions/LiLim/2021-04-26/lr2_10_2.14_51357.3044.txt) | 2021-04-26 | SCR | 
 lr2_10_3 | 10 | [42908.3328](best_known_solutions/LiLim/2021-12-21/lr2_10_3.10_42908.3328.txt) | 2021-12-21 | SCR | 
 lr2_10_4 | 8 | [26595.3914](best_known_solutions/LiLim/2021-04-26/lr2_10_4.8_26595.3914.txt) | 2021-04-26 | SCR | 
-lr2_10_5 | 13 | [55197.1290](best_known_solutions/LiLim/2021-12-21/lr2_10_5.13_55197.1290.txt) | 2021-12-21 | SCR | 
+lr2_10_5 | 13 | [55038.2097](best_known_solutions/LiLim/2023-03-08/lr2_10_5.13_55038.2097.txt) | 2023-03-08 | NVIDIA | 
 lr2_10_6 | 11 | [46253.3748](best_known_solutions/LiLim/2021-12-21/lr2_10_6.11_46253.3748.txt) | 2021-12-21 | SCR | 
 lr2_10_7 | 8 | [39648.5445](best_known_solutions/LiLim/2021-12-21/lr2_10_7.8_39648.5445.txt) | 2021-12-21 | SCR | 
 lr2_10_8 | 6 | [26744.4884](best_known_solutions/LiLim/2021-12-21/lr2_10_8.6_26744.4884.txt) | 2021-12-21 | SCR | 
