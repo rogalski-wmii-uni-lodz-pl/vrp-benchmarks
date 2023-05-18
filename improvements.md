@@ -1,3 +1,7 @@
+## 2023-05-18 (1 new)
+### Li&Lim (1 new)
+#### VR (1 new):
+1. `lr1_10_6` from [51377.4374](best_known_solutions/LiLim/2023-03-08/lr1_10_6.46_51377.4374.txt) to [51374.9359](best_known_solutions/LiLim/2023-05-18/lr1_10_6.46_51374.9359.txt) after 71 days, beating NVIDIA by -2.5015 (by -0.0049%).
 ## 2023-03-08 (3 new)
 ### Li&Lim (3 new)
 #### NVIDIA (3 new):

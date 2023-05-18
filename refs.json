@@ -466,5 +466,11 @@
       "authors": "Piotr Sielski, Akif Corduk, Nicolas Blin, Hugo Linsenmaier, Alex Fender",
       "reference": "Nvidia"
     }
+  ],
+  "VR" : [
+	  {
+		  "authors": "Dmitriy Demin, Mikhail Diakov (msd@veeroute.com), Ivan Ilin, Nikita Ivanov, Viacheslav Sokolov (vs@veeroute.com) et al. VRt Global (https://veeroute.com/)",
+		  "reference": "veeroute.com"
+	  }
   ]
 }

@@ -424,7 +424,7 @@ lr1_10_2 | 80 | [49349.8412](best_known_solutions/LiLim/2019-11-06/lr1_10_2.80_4
 lr1_10_3 | 54 | [41483.8892](best_known_solutions/LiLim/2021-12-21/lr1_10_3.54_41483.8892.txt) | 2021-12-21 | SCR | 
 lr1_10_4 | 27 | [30792.8705](best_known_solutions/LiLim/2021-04-26/lr1_10_4.27_30792.8705.txt) | 2021-04-26 | SCR | 
 lr1_10_5 | 58 | [59053.6768](best_known_solutions/LiLim/2023-03-08/lr1_10_5.58_59053.6768.txt) | 2023-03-08 | NVIDIA | 
-lr1_10_6 | 46 | [51377.4374](best_known_solutions/LiLim/2023-03-08/lr1_10_6.46_51377.4374.txt) | 2023-03-08 | NVIDIA | 
+lr1_10_6 | 46 | [51374.9359](best_known_solutions/LiLim/2023-05-18/lr1_10_6.46_51374.9359.txt) | 2023-05-18 | VR | 
 lr1_10_7 | 35 | [38563.1965](best_known_solutions/LiLim/2021-06-12/lr1_10_7.35_38563.1965.txt) | 2021-06-12 | HW | 
 lr1_10_8 | 24 | [29613.2681](best_known_solutions/LiLim/2021-12-21/lr1_10_8.24_29613.2681.txt) | 2021-12-21 | SCR | 
 lr1_10_9 | 47 | [54582.2490](best_known_solutions/LiLim/2021-12-21/lr1_10_9.47_54582.2490.txt) | 2021-12-21 | SCR | 
