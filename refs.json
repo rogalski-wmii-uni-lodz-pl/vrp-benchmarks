@@ -467,10 +467,16 @@
       "reference": "Nvidia"
     }
   ],
-  "VR" : [
-	  {
-		  "authors": "Dmitriy Demin, Mikhail Diakov (msd@veeroute.com), Ivan Ilin, Nikita Ivanov, Viacheslav Sokolov (vs@veeroute.com) et al. VRt Global (https://veeroute.com/)",
-		  "reference": "veeroute.com"
-	  }
+  "VR": [
+    {
+      "authors": "Dmitriy Demin, Mikhail Diakov (msd@veeroute.com), Ivan Ilin, Nikita Ivanov, Viacheslav Sokolov (vs@veeroute.com) et al. VRt Global (https://veeroute.com/)",
+      "reference": "veeroute.com"
+    }
+  ],
+  "OT": [
+    {
+      "authors": "Otimo.  Piotr Sielski, Piotr Cybula, Marek Rogalski (marek.rogalski@otimo.pro), Mariusz Kok, Przemysław Pełka, Krzysztof Chaładyn.",
+      "reference": "Otimo (https://otimo.pro)"
+    }
   ]
 }

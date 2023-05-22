@@ -1,3 +1,7 @@
+## 2023-05-22 (1 new)
+### Li&Lim (1 new)
+#### OT (1 new):
+1. `lr1_10_6` from [51374.9359](best_known_solutions/LiLim/2023-05-18/lr1_10_6.46_51374.9359.txt) to [51219.609](best_known_solutions/LiLim/2023-05-22/lr1_10_6.46_51219.6090.txt) after 4 days, beating VR by -155.3269 (by -0.3023%).
 ## 2023-05-18 (1 new)
 ### Li&Lim (1 new)
 #### VR (1 new):

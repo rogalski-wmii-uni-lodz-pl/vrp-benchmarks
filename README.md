@@ -2,7 +2,7 @@
 A solution checker for CVRPTW (Gehring-Homberger) and PDP (Li-Lim) solutions in Sintef format, plus a clone of best known solutions from https://www.sintef.no/projectweb/top/, and an automated table generator for them.
 
 # Benchmarks
-Last updated: [2023-03-08](https://github.com/rogalski-wmii-uni-lodz-pl/vrp-benchmarks/blob/master/improvements.md#2023-03-08-3-new)
+Last updated: [2023-03-08](https://github.com/rogalski-wmii-uni-lodz-pl/vrp-benchmarks/blob/master/improvements.md#2023-05-22-1-new)
 
 ## [full csv](https://github.com/rogalski-wmii-uni-lodz-pl/vrp-benchmarks/blob/master/tables.csv)
 
@@ -28,7 +28,7 @@ Run `python3 verify.py sol [precision=4]` to verify one solution sol in the sint
 
 ## Generating tables
 First, add files using `python3 adder file1 file2...`, which should create a directory with todays date in the best_known_solutions directory.
-Afterwards, run `pytho3n bests.py` to generate `tables.md` and `tables.csv`.
+Afterwards, run `python bests.py` to generate `tables.md` and `tables.csv`.
 
 ## Generating improvements
 `python3 improvements.py`
