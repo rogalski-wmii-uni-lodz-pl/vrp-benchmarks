@@ -1,3 +1,29 @@
+## 2024-02-02 (21 new)
+### Gehring-Homberger (15 new)
+#### NVIDIA (15 new):
+1. `rc1_8_2` from [28511.5494](best_known_solutions/GehringHomberger/2019-06-01/rc1_8_2.72_28511.5494.txt) to [28511.3679](best_known_solutions/GehringHomberger/2024-02-02/rc1_8_2.72_28511.3679.txt) after 1707 days, beating SCR by -0.1815 (by -0.0006%).
+1. `rc1_8_8` from [28607.5057](best_known_solutions/GehringHomberger/2019-05-01/rc1_8_8.72_28607.5057.txt) to [28605.6028](best_known_solutions/GehringHomberger/2024-02-02/rc1_8_8.72_28605.6028.txt) after 1738 days, beating SCR by -1.9029 (by -0.0067%).
+1. `c1_10_7` from [43368.7945](best_known_solutions/GehringHomberger/2021-12-20/c1_10_7.97_43368.7945.txt) to [43341.7665](best_known_solutions/GehringHomberger/2024-02-02/c1_10_7.97_43341.7665.txt) after 774 days, beating SCR by -27.028 (by -0.0623%).
+1. `c1_10_9` from [40322.3676](best_known_solutions/GehringHomberger/2021-12-20/c1_10_9.90_40322.3676.txt) to [40318.0345](best_known_solutions/GehringHomberger/2024-02-02/c1_10_9.90_40318.0345.txt) after 774 days, beating SCR by -4.3331 (by -0.0107%).
+1. `r1_10_2` from [48261.0372](best_known_solutions/GehringHomberger/2021-12-20/r1_10_2.91_48261.0372.txt) to [48232.6727](best_known_solutions/GehringHomberger/2024-02-02/r1_10_2.91_48232.6727.txt) after 774 days, beating SCR by -28.3645 (by -0.0588%).
+1. `r1_10_3` from [44720.8753](best_known_solutions/GehringHomberger/2021-12-20/r1_10_3.91_44720.8753.txt) to [44694.1555](best_known_solutions/GehringHomberger/2024-02-02/r1_10_3.91_44694.1555.txt) after 774 days, beating SCR by -26.7198 (by -0.0597%).
+1. `r1_10_5` from [50452.8687](best_known_solutions/GehringHomberger/2019-06-01/r1_10_5.91_50452.8687.txt) to [50445.3906](best_known_solutions/GehringHomberger/2024-02-02/r1_10_5.91_50445.3906.txt) after 1707 days, beating SCR by -7.4781 (by -0.0148%).
+1. `r1_10_6` from [46966.4714](best_known_solutions/GehringHomberger/2021-12-20/r1_10_6.91_46966.4714.txt) to [46930.044](best_known_solutions/GehringHomberger/2024-02-02/r1_10_6.91_46930.0440.txt) after 774 days, beating SCR by -36.4274 (by -0.0776%).
+1. `r1_10_7` from [43978.6888](best_known_solutions/GehringHomberger/2021-12-20/r1_10_7.91_43978.6888.txt) to [43975.4697](best_known_solutions/GehringHomberger/2024-02-02/r1_10_7.91_43975.4697.txt) after 774 days, beating SCR by -3.2191 (by -0.0073%).
+1. `r1_10_8` from [42291.741](best_known_solutions/GehringHomberger/2021-12-20/r1_10_8.91_42291.7410.txt) to [42288.4973](best_known_solutions/GehringHomberger/2024-02-02/r1_10_8.91_42288.4973.txt) after 774 days, beating SCR by -3.2437 (by -0.0077%).
+1. `r1_10_9` from [49208.0979](best_known_solutions/GehringHomberger/2019-04-01/r1_10_9.91_49208.0979.txt) to [49195.255](best_known_solutions/GehringHomberger/2024-02-02/r1_10_9.91_49195.2550.txt) after 1768 days, beating SCR by -12.8429 (by -0.0261%).
+1. `rc1_10_3` from [42156.0745](best_known_solutions/GehringHomberger/2021-12-20/rc1_10_3.90_42156.0745.txt) to [42146.7949](best_known_solutions/GehringHomberger/2024-02-02/rc1_10_3.90_42146.7949.txt) after 774 days, beating SCR by -9.2796 (by -0.022%).
+1. `rc1_10_4` from [41394.949](best_known_solutions/GehringHomberger/2021-12-20/rc1_10_4.90_41394.9490.txt) to [41391.1831](best_known_solutions/GehringHomberger/2024-02-02/rc1_10_4.90_41391.1831.txt) after 774 days, beating SCR by -3.7659 (by -0.0091%).
+1. `rc1_10_6` from [44942.2653](best_known_solutions/GehringHomberger/2021-12-20/rc1_10_6.90_44942.2653.txt) to [44937.3649](best_known_solutions/GehringHomberger/2024-02-02/rc1_10_6.90_44937.3649.txt) after 774 days, beating SCR by -4.9004 (by -0.0109%).
+1. `rc1_10_10` from [43563.8236](best_known_solutions/GehringHomberger/2021-12-20/rc1_10_10.90_43563.8236.txt) to [43551.6905](best_known_solutions/GehringHomberger/2024-02-02/rc1_10_10.90_43551.6905.txt) after 774 days, beating SCR by -12.1331 (by -0.0279%).
+### Li&Lim (6 new)
+#### NVIDIA (6 new):
+1. `lr1_8_2` from [34074.4858](best_known_solutions/LiLim/2019-11-06/lr1_8_2.59_34074.4858.txt) to [34071.1897](best_known_solutions/LiLim/2024-02-02/lr1_8_2.59_34071.1897.txt) after 1549 days, beating SCR by -3.2961 (by -0.0097%).
+1. `lr1_8_3` from [29225.3625](best_known_solutions/LiLim/2020-12-01/lr1_8_3.44_29225.3625.txt) to [29223.0998](best_known_solutions/LiLim/2024-02-02/lr1_8_3.44_29223.0998.txt) after 1158 days, beating HW by -2.2627 (by -0.0077%).
+1. `lr1_10_4` from [30792.8705](best_known_solutions/LiLim/2021-04-26/lr1_10_4.27_30792.8705.txt) to [30788.1088](best_known_solutions/LiLim/2024-02-02/lr1_10_4.27_30788.1088.txt) after 1012 days, beating SCR by -4.7617 (by -0.0155%).
+1. `lr1_10_6` from [51219.609](best_known_solutions/LiLim/2023-05-22/lr1_10_6.46_51219.6090.txt) to [51058.5279](best_known_solutions/LiLim/2024-02-02/lr1_10_6.46_51058.5279.txt) after 256 days, beating OT by -161.0811 (by -0.3145%).
+1. `lr2_10_5` from [55038.2097](best_known_solutions/LiLim/2023-03-08/lr2_10_5.13_55038.2097.txt) to [54951.1206](best_known_solutions/LiLim/2024-02-02/lr2_10_5.13_54951.1206.txt) after 331 days, beating NVIDIA by -87.0891 (by -0.1582%).
+1. `lr2_10_8` from [26744.4884](best_known_solutions/LiLim/2021-12-21/lr2_10_8.6_26744.4884.txt) to [26742.3089](best_known_solutions/LiLim/2024-02-02/lr2_10_8.6_26742.3089.txt) after 773 days, beating SCR by -2.1795 (by -0.0081%).
 ## 2023-05-22 (1 new)
 ### Li&Lim (1 new)
 #### OT (1 new):

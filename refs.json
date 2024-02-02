@@ -459,6 +459,10 @@
   ],
   "NVIDIA": [
     {
+      "authors": "Piotr Sielski, Akif Corduk, Nicolas Blin, Hugo Linsenmaier, Alex Fender, Rajesh Gandham",
+      "reference": "Nvidia"
+    },
+    {
       "authors": "Piotr Sielski, Akif Çördük, Nicolas Blin, Hugo Linsenmaier, Alex Fender",
       "reference": "NVIDIA"
     },

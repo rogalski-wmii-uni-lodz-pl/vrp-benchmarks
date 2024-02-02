@@ -341,8 +341,8 @@ lc2_8_10 | 23 | [12226.4219](best_known_solutions/LiLim/2019-11-06/lc2_8_10.23_1
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 lr1_8_1 | 80 | [39291.3198](best_known_solutions/LiLim/2018-04-06/lr1_8_1.80_39291.3198.txt) | 2018-04-06 | CVB | 
-lr1_8_2 | 59 | [34074.4858](best_known_solutions/LiLim/2019-11-06/lr1_8_2.59_34074.4858.txt) | 2019-11-06 | SCR | 
-lr1_8_3 | 44 | [29225.3625](best_known_solutions/LiLim/2020-12-01/lr1_8_3.44_29225.3625.txt) | 2020-12-01 | HW | 
+lr1_8_2 | 59 | [34071.1897](best_known_solutions/LiLim/2024-02-02/lr1_8_2.59_34071.1897.txt) | 2024-02-02 | NVIDIA | 
+lr1_8_3 | 44 | [29223.0998](best_known_solutions/LiLim/2024-02-02/lr1_8_3.44_29223.0998.txt) | 2024-02-02 | NVIDIA | 
 lr1_8_4 | 25 | [20675.6955](best_known_solutions/LiLim/2021-12-21/lr1_8_4.25_20675.6955.txt) | 2021-12-21 | SCR | 
 lr1_8_5 | 48 | [39809.6803](best_known_solutions/LiLim/2021-12-21/lr1_8_5.48_39809.6803.txt) | 2021-12-21 | SCR | 
 lr1_8_6 | 38 | [36244.9032](best_known_solutions/LiLim/2021-12-21/lr1_8_6.38_36244.9032.txt) | 2021-12-21 | SCR | 
@@ -422,9 +422,9 @@ instance | routes | distance | when | who | notes
 lr1_10_1 | 100 | [56744.9118](best_known_solutions/LiLim/2018-08-22/lr1_10_1.100_56744.9118.txt) | 2018-08-22 | EMIF | 
 lr1_10_2 | 80 | [49349.8412](best_known_solutions/LiLim/2019-11-06/lr1_10_2.80_49349.8412.txt) | 2019-11-06 | SCR | 
 lr1_10_3 | 54 | [41483.8892](best_known_solutions/LiLim/2021-12-21/lr1_10_3.54_41483.8892.txt) | 2021-12-21 | SCR | 
-lr1_10_4 | 27 | [30792.8705](best_known_solutions/LiLim/2021-04-26/lr1_10_4.27_30792.8705.txt) | 2021-04-26 | SCR | 
+lr1_10_4 | 27 | [30788.1088](best_known_solutions/LiLim/2024-02-02/lr1_10_4.27_30788.1088.txt) | 2024-02-02 | NVIDIA | 
 lr1_10_5 | 58 | [59053.6768](best_known_solutions/LiLim/2023-03-08/lr1_10_5.58_59053.6768.txt) | 2023-03-08 | NVIDIA | 
-lr1_10_6 | 46 | [51219.6090](best_known_solutions/LiLim/2023-05-22/lr1_10_6.46_51219.6090.txt) | 2023-05-22 | OT | 
+lr1_10_6 | 46 | [51058.5279](best_known_solutions/LiLim/2024-02-02/lr1_10_6.46_51058.5279.txt) | 2024-02-02 | NVIDIA | 
 lr1_10_7 | 35 | [38563.1965](best_known_solutions/LiLim/2021-06-12/lr1_10_7.35_38563.1965.txt) | 2021-06-12 | HW | 
 lr1_10_8 | 24 | [29613.2681](best_known_solutions/LiLim/2021-12-21/lr1_10_8.24_29613.2681.txt) | 2021-12-21 | SCR | 
 lr1_10_9 | 47 | [54582.2490](best_known_solutions/LiLim/2021-12-21/lr1_10_9.47_54582.2490.txt) | 2021-12-21 | SCR | 
@@ -436,10 +436,10 @@ lr2_10_1 | 17 | [62859.2910](best_known_solutions/LiLim/2021-12-21/lr2_10_1.17_6
 lr2_10_2 | 14 | [51357.3044](best_known_solutions/LiLim/2021-04-26/lr2_10_2.14_51357.3044.txt) | 2021-04-26 | SCR | 
 lr2_10_3 | 10 | [42908.3328](best_known_solutions/LiLim/2021-12-21/lr2_10_3.10_42908.3328.txt) | 2021-12-21 | SCR | 
 lr2_10_4 | 8 | [26595.3914](best_known_solutions/LiLim/2021-04-26/lr2_10_4.8_26595.3914.txt) | 2021-04-26 | SCR | 
-lr2_10_5 | 13 | [55038.2097](best_known_solutions/LiLim/2023-03-08/lr2_10_5.13_55038.2097.txt) | 2023-03-08 | NVIDIA | 
+lr2_10_5 | 13 | [54951.1206](best_known_solutions/LiLim/2024-02-02/lr2_10_5.13_54951.1206.txt) | 2024-02-02 | NVIDIA | 
 lr2_10_6 | 11 | [46253.3748](best_known_solutions/LiLim/2021-12-21/lr2_10_6.11_46253.3748.txt) | 2021-12-21 | SCR | 
 lr2_10_7 | 8 | [39648.5445](best_known_solutions/LiLim/2021-12-21/lr2_10_7.8_39648.5445.txt) | 2021-12-21 | SCR | 
-lr2_10_8 | 6 | [26744.4884](best_known_solutions/LiLim/2021-12-21/lr2_10_8.6_26744.4884.txt) | 2021-12-21 | SCR | 
+lr2_10_8 | 6 | [26742.3089](best_known_solutions/LiLim/2024-02-02/lr2_10_8.6_26742.3089.txt) | 2024-02-02 | NVIDIA | 
 lr2_10_9 | 12 | [50781.8317](best_known_solutions/LiLim/2023-02-22/lr2_10_9.12_50781.8317.txt) | 2023-02-22 | NVIDIA | 
 lr2_10_10 | 10 | [44888.9910](best_known_solutions/LiLim/2021-12-21/lr2_10_10.10_44888.9910.txt) | 2021-12-21 | SCR | 
 
@@ -761,13 +761,13 @@ r2_8_10 | 15 | [20358.6072](best_known_solutions/GehringHomberger/2018-09-19/r2_
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 rc1_8_1 | 72 | [30464.6542](best_known_solutions/GehringHomberger/2019-08-29/rc1_8_1.72_30464.6542.txt) | 2019-08-29 | SCR | 
-rc1_8_2 | 72 | [28511.5494](best_known_solutions/GehringHomberger/2019-06-01/rc1_8_2.72_28511.5494.txt) | 2019-06-01 | SCR | 
+rc1_8_2 | 72 | [28511.3679](best_known_solutions/GehringHomberger/2024-02-02/rc1_8_2.72_28511.3679.txt) | 2024-02-02 | NVIDIA | 
 rc1_8_3 | 72 | [27528.1571](best_known_solutions/GehringHomberger/2021-12-20/rc1_8_3.72_27528.1571.txt) | 2021-12-20 | SCR | 
 rc1_8_4 | 72 | [26663.4533](best_known_solutions/GehringHomberger/2020-02-01/rc1_8_4.72_26663.4533.txt) | 2020-02-01 | SCR | 
 rc1_8_5 | 72 | [29508.2740](best_known_solutions/GehringHomberger/2019-06-01/rc1_8_5.72_29508.274.txt) | 2019-06-01 | SCR | 
 rc1_8_6 | 72 | [29458.3840](best_known_solutions/GehringHomberger/2019-05-01/rc1_8_6.72_29458.384.txt) | 2019-05-01 | SCR | 
 rc1_8_7 | 72 | [28979.6001](best_known_solutions/GehringHomberger/2021-12-20/rc1_8_7.72_28979.6001.txt) | 2021-12-20 | SCR | 
-rc1_8_8 | 72 | [28607.5057](best_known_solutions/GehringHomberger/2019-05-01/rc1_8_8.72_28607.5057.txt) | 2019-05-01 | SCR | 
+rc1_8_8 | 72 | [28605.6028](best_known_solutions/GehringHomberger/2024-02-02/rc1_8_8.72_28605.6028.txt) | 2024-02-02 | NVIDIA | 
 rc1_8_9 | 72 | [28555.5315](best_known_solutions/GehringHomberger/2019-05-01/rc1_8_9.72_28555.5315.txt) | 2019-05-01 | SCR | 
 rc1_8_10 | 72 | [28331.1557](best_known_solutions/GehringHomberger/2021-12-20/rc1_8_10.72_28331.1557.txt) | 2021-12-20 | SCR | 
 
@@ -793,9 +793,9 @@ c1_10_3 | 90 | [40101.3564](best_known_solutions/GehringHomberger/2015-09-17/c1_
 c1_10_4 | 90 | [39468.5974](best_known_solutions/GehringHomberger/2013-04-17/c1_10_4.90_39468.5974.txt) | 2013-04-17 | Q | 
 c1_10_5 | 100 | [42469.1758](best_known_solutions/GehringHomberger/2005-02-25/c1_10_5.100_42469.1758.txt) | 2005-02-25 | RP | contributed by BS
 c1_10_6 | 99 | [43830.2125](best_known_solutions/GehringHomberger/2014-09-05/c1_10_6.99_43830.2125.txt) | 2014-09-05 | Q | 
-c1_10_7 | 97 | [43368.7945](best_known_solutions/GehringHomberger/2021-12-20/c1_10_7.97_43368.7945.txt) | 2021-12-20 | SCR | 
+c1_10_7 | 97 | [43341.7665](best_known_solutions/GehringHomberger/2024-02-02/c1_10_7.97_43341.7665.txt) | 2024-02-02 | NVIDIA | 
 c1_10_8 | 92 | [42629.9122](best_known_solutions/GehringHomberger/2020-03-31/c1_10_8.92_42629.9122.txt) | 2020-03-31 | CAINIAO | 
-c1_10_9 | 90 | [40322.3676](best_known_solutions/GehringHomberger/2021-12-20/c1_10_9.90_40322.3676.txt) | 2021-12-20 | SCR | 
+c1_10_9 | 90 | [40318.0345](best_known_solutions/GehringHomberger/2024-02-02/c1_10_9.90_40318.0345.txt) | 2024-02-02 | NVIDIA | 
 c1_10_10 | 90 | [39852.4426](best_known_solutions/GehringHomberger/2018-09-10/c1_10_10.90_39852.4426.txt) | 2018-09-10 | SCR | 
 
 instance | routes | distance | when | who | notes
@@ -814,14 +814,14 @@ c2_10_10 | 28 | [15937.4475](best_known_solutions/GehringHomberger/2018-11-01/c2
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 r1_10_1 | 100 | [53380.1787](best_known_solutions/GehringHomberger/2021-12-20/r1_10_1.100_53380.1787.txt) | 2021-12-20 | SCR | 
-r1_10_2 | 91 | [48261.0372](best_known_solutions/GehringHomberger/2021-12-20/r1_10_2.91_48261.0372.txt) | 2021-12-20 | SCR | 
-r1_10_3 | 91 | [44720.8753](best_known_solutions/GehringHomberger/2021-12-20/r1_10_3.91_44720.8753.txt) | 2021-12-20 | SCR | 
+r1_10_2 | 91 | [48232.6727](best_known_solutions/GehringHomberger/2024-02-02/r1_10_2.91_48232.6727.txt) | 2024-02-02 | NVIDIA | 
+r1_10_3 | 91 | [44694.1555](best_known_solutions/GehringHomberger/2024-02-02/r1_10_3.91_44694.1555.txt) | 2024-02-02 | NVIDIA | 
 r1_10_4 | 91 | [42463.7404](best_known_solutions/GehringHomberger/2021-12-20/r1_10_4.91_42463.7404.txt) | 2021-12-20 | SCR | 
-r1_10_5 | 91 | [50452.8687](best_known_solutions/GehringHomberger/2019-06-01/r1_10_5.91_50452.8687.txt) | 2019-06-01 | SCR | 
-r1_10_6 | 91 | [46966.4714](best_known_solutions/GehringHomberger/2021-12-20/r1_10_6.91_46966.4714.txt) | 2021-12-20 | SCR | 
-r1_10_7 | 91 | [43978.6888](best_known_solutions/GehringHomberger/2021-12-20/r1_10_7.91_43978.6888.txt) | 2021-12-20 | SCR | 
-r1_10_8 | 91 | [42291.7410](best_known_solutions/GehringHomberger/2021-12-20/r1_10_8.91_42291.7410.txt) | 2021-12-20 | SCR | 
-r1_10_9 | 91 | [49208.0979](best_known_solutions/GehringHomberger/2019-04-01/r1_10_9.91_49208.0979.txt) | 2019-04-01 | SCR | 
+r1_10_5 | 91 | [50445.3906](best_known_solutions/GehringHomberger/2024-02-02/r1_10_5.91_50445.3906.txt) | 2024-02-02 | NVIDIA | 
+r1_10_6 | 91 | [46930.0440](best_known_solutions/GehringHomberger/2024-02-02/r1_10_6.91_46930.0440.txt) | 2024-02-02 | NVIDIA | 
+r1_10_7 | 91 | [43975.4697](best_known_solutions/GehringHomberger/2024-02-02/r1_10_7.91_43975.4697.txt) | 2024-02-02 | NVIDIA | 
+r1_10_8 | 91 | [42288.4973](best_known_solutions/GehringHomberger/2024-02-02/r1_10_8.91_42288.4973.txt) | 2024-02-02 | NVIDIA | 
+r1_10_9 | 91 | [49195.2550](best_known_solutions/GehringHomberger/2024-02-02/r1_10_9.91_49195.2550.txt) | 2024-02-02 | NVIDIA | 
 r1_10_10 | 91 | [47407.1563](best_known_solutions/GehringHomberger/2021-12-20/r1_10_10.91_47407.1563.txt) | 2021-12-20 | SCR | 
 
 instance | routes | distance | when | who | notes
@@ -841,14 +841,14 @@ instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 rc1_10_1 | 90 | [45830.6235](best_known_solutions/GehringHomberger/2020-01-04/rc1_10_1.90_45830.6235.txt) | 2020-01-04 | CAINIAO | 
 rc1_10_2 | 90 | [43718.8449](best_known_solutions/GehringHomberger/2019-05-01/rc1_10_2.90_43718.8449.txt) | 2019-05-01 | SCR | 
-rc1_10_3 | 90 | [42156.0745](best_known_solutions/GehringHomberger/2021-12-20/rc1_10_3.90_42156.0745.txt) | 2021-12-20 | SCR | 
-rc1_10_4 | 90 | [41394.9490](best_known_solutions/GehringHomberger/2021-12-20/rc1_10_4.90_41394.9490.txt) | 2021-12-20 | SCR | 
+rc1_10_3 | 90 | [42146.7949](best_known_solutions/GehringHomberger/2024-02-02/rc1_10_3.90_42146.7949.txt) | 2024-02-02 | NVIDIA | 
+rc1_10_4 | 90 | [41391.1831](best_known_solutions/GehringHomberger/2024-02-02/rc1_10_4.90_41391.1831.txt) | 2024-02-02 | NVIDIA | 
 rc1_10_5 | 90 | [45069.3748](best_known_solutions/GehringHomberger/2019-06-08/rc1_10_5.90_45069.3748.txt) | 2019-06-08 | SCR | 
-rc1_10_6 | 90 | [44942.2653](best_known_solutions/GehringHomberger/2021-12-20/rc1_10_6.90_44942.2653.txt) | 2021-12-20 | SCR | 
+rc1_10_6 | 90 | [44937.3649](best_known_solutions/GehringHomberger/2024-02-02/rc1_10_6.90_44937.3649.txt) | 2024-02-02 | NVIDIA | 
 rc1_10_7 | 90 | [44457.7866](best_known_solutions/GehringHomberger/2020-03-04/rc1_10_7.90_44457.7866.txt) | 2020-03-04 | SCR | 
 rc1_10_8 | 90 | [43956.9138](best_known_solutions/GehringHomberger/2020-02-01/rc1_10_8.90_43956.9138.txt) | 2020-02-01 | SCR | 
 rc1_10_9 | 90 | [43897.2132](best_known_solutions/GehringHomberger/2021-12-20/rc1_10_9.90_43897.2132.txt) | 2021-12-20 | SCR | 
-rc1_10_10 | 90 | [43563.8236](best_known_solutions/GehringHomberger/2021-12-20/rc1_10_10.90_43563.8236.txt) | 2021-12-20 | SCR | 
+rc1_10_10 | 90 | [43551.6905](best_known_solutions/GehringHomberger/2024-02-02/rc1_10_10.90_43551.6905.txt) | 2024-02-02 | NVIDIA | 
 
 instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
