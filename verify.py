@@ -144,7 +144,6 @@ def verify_file_contents(file_contents, approximation: int = 4):
     routes = 0
     distance = 0
     rounded = 0
-    status = ""
     feasible = False
 
     if ok:
