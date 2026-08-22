@@ -1,3 +1,7 @@
+## 2026-08-22 (1 new)
+### Gehring-Homberger (1 new)
+#### ISCT (1 new):
+1. `r1_10_6` from [46930.044](best_known_solutions/GehringHomberger/2024-02-02/r1_10_6.91_46930.0440.txt) to [46929.1716](best_known_solutions/GehringHomberger/2026-08-22/r1_10_6.91_46929.1716.txt) after 932 days, beating NVIDIA by -0.8724 (by -0.0019%).
 ## 2024-02-02 (21 new)
 ### Gehring-Homberger (15 new)
 #### NVIDIA (15 new):
