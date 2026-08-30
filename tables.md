@@ -815,7 +815,7 @@ instance | routes | distance | when | who | notes
 :---: | :---: | :---: | :---: | :---: | :---:
 r1_10_1 | 100 | [53380.1787](best_known_solutions/GehringHomberger/2021-12-20/r1_10_1.100_53380.1787.txt) | 2021-12-20 | SCR | 
 r1_10_2 | 91 | [48232.6727](best_known_solutions/GehringHomberger/2024-02-02/r1_10_2.91_48232.6727.txt) | 2024-02-02 | NVIDIA | 
-r1_10_3 | 91 | [44694.1555](best_known_solutions/GehringHomberger/2024-02-02/r1_10_3.91_44694.1555.txt) | 2024-02-02 | NVIDIA | 
+r1_10_3 | 91 | [44690.6455](best_known_solutions/GehringHomberger/2026-08-30/r1_10_3.91_44690.6455.txt) | 2026-08-30 | ISCT | 
 r1_10_4 | 91 | [42463.7404](best_known_solutions/GehringHomberger/2021-12-20/r1_10_4.91_42463.7404.txt) | 2021-12-20 | SCR | 
 r1_10_5 | 91 | [50445.3906](best_known_solutions/GehringHomberger/2024-02-02/r1_10_5.91_50445.3906.txt) | 2024-02-02 | NVIDIA | 
 r1_10_6 | 91 | [46929.1716](best_known_solutions/GehringHomberger/2026-08-22/r1_10_6.91_46929.1716.txt) | 2026-08-22 | ISCT | 
