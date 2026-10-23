@@ -1,3 +1,9 @@
+## 2026-10-23 (2 new)
+### Gehring-Homberger (2 new)
+#### ISCT (1 new):
+1. `r1_10_6` from [46929.1716](best_known_solutions/GehringHomberger/2026-08-22/r1_10_6.91_46929.1716.txt) to [46928.4448](best_known_solutions/GehringHomberger/2026-10-23/r1_10_6.91_46928.4448.txt) after 62 days, beating ISCT by -0.7268 (by -0.0015%).
+#### TL (1 new):
+1. `r1_10_3` from [44690.6455](best_known_solutions/GehringHomberger/2026-08-30/r1_10_3.91_44690.6455.txt) to [44689.1882](best_known_solutions/GehringHomberger/2026-10-23/r1_10_3.91_44689.1882.txt) after 54 days, beating ISCT by -1.4573 (by -0.0033%).
 ## 2026-08-30 (1 new)
 ### Gehring-Homberger (1 new)
 #### ISCT (1 new):

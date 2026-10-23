@@ -488,5 +488,11 @@
       "authors": "Seiya Takahashi, Tsubasa Kumamoto, Ryotaro Shin, Masahiro Nomura, Isao Ono",
       "reference": "Seiya Takahashi (takahashi.s@ic.comp.isct.ac.jp), Tsubasa Kumamoto, Ryotaro Shin, Masahiro Nomura, Isao Ono, \"Evolutionary Computation for the Vehicle Routing Problem with Time Windows Considering Edge Diversity\", Master's thesis, Institute of Science Tokyo, 2026."
     }
+  ],
+  "TL": [
+    {
+      "authors": "Tobias Linke, Enpal Fulfillment B.V.",
+      "reference": "GPU local search on an Apple M4 Max (GLS-ILS + HGS route-import population, research code, Tobias Linke 2026); warm start from the published ISCT solution 91 / 44690.65 (28-aug-26)"
+    }
   ]
 }

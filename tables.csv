@@ -615,10 +615,10 @@ GehringHomberger,1000,c2_10_9,2021-12-20,28,17809.3374,SCR,SCR,best_known_soluti
 GehringHomberger,1000,c2_10_10,2018-11-01,28,15937.4475,SCR,SCR,best_known_solutions/GehringHomberger/2018-11-01/c2_10_10.28_15937.4475.txt
 GehringHomberger,1000,r1_10_1,2021-12-20,100,53380.1787,SCR,SCR,best_known_solutions/GehringHomberger/2021-12-20/r1_10_1.100_53380.1787.txt
 GehringHomberger,1000,r1_10_2,2024-02-02,91,48232.6727,NVIDIA,NVIDIA,best_known_solutions/GehringHomberger/2024-02-02/r1_10_2.91_48232.6727.txt
-GehringHomberger,1000,r1_10_3,2026-08-30,91,44690.6455,ISCT,ISCT,best_known_solutions/GehringHomberger/2026-08-30/r1_10_3.91_44690.6455.txt
+GehringHomberger,1000,r1_10_3,2026-10-23,91,44689.1882,TL,TL,best_known_solutions/GehringHomberger/2026-10-23/r1_10_3.91_44689.1882.txt
 GehringHomberger,1000,r1_10_4,2021-12-20,91,42463.7404,SCR,SCR,best_known_solutions/GehringHomberger/2021-12-20/r1_10_4.91_42463.7404.txt
 GehringHomberger,1000,r1_10_5,2024-02-02,91,50445.3906,NVIDIA,NVIDIA,best_known_solutions/GehringHomberger/2024-02-02/r1_10_5.91_50445.3906.txt
-GehringHomberger,1000,r1_10_6,2026-08-22,91,46929.1716,ISCT,ISCT,best_known_solutions/GehringHomberger/2026-08-22/r1_10_6.91_46929.1716.txt
+GehringHomberger,1000,r1_10_6,2026-10-23,91,46928.4448,ISCT,ISCT,best_known_solutions/GehringHomberger/2026-10-23/r1_10_6.91_46928.4448.txt
 GehringHomberger,1000,r1_10_7,2024-02-02,91,43975.4697,NVIDIA,NVIDIA,best_known_solutions/GehringHomberger/2024-02-02/r1_10_7.91_43975.4697.txt
 GehringHomberger,1000,r1_10_8,2024-02-02,91,42288.4973,NVIDIA,NVIDIA,best_known_solutions/GehringHomberger/2024-02-02/r1_10_8.91_42288.4973.txt
 GehringHomberger,1000,r1_10_9,2024-02-02,91,49195.2550,NVIDIA,NVIDIA,best_known_solutions/GehringHomberger/2024-02-02/r1_10_9.91_49195.2550.txt
