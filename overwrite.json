@@ -812,5 +812,7 @@
 {"instance":  "c1_2_2",     "when":  "2001-01-01",  "who":  ["BVH"],            "routes":  18,   "distance":  2917.892,    "file":  "c1_2_2.18_2917.892.txt"},
 {"instance":  "rc2_8_5",    "when":  "2019-04-01",  "who":  ["CAINIAO","SCR"],  "routes":  15,   "distance":  19074.0238,  "file":  "rc2_8_5.15_19074.0238.txt"},
 {"instance":  "r1_10_6",    "when":  "2026-10-03",  "who":  ["ISCT","TL"],      "routes":  91,   "distance":  46928.4448,  "file":  "r1_10_6.91_46928.4448.txt"},
+{"instance":  "lc1_4_4",    "when":  "2026-10-26",  "who":  ["Anonymous"],      "routes":  30,   "distance":  6834.3758,   "file":  "lc1_4_4.30_6834.3758.txt"},
+{"instance":  "lc2_4_4",    "when":  "2026-10-26",  "who":  ["Anonymous"],      "routes":  12,   "distance":  4038.0005,   "file":  "lc2_4_4.12_4038.0005.txt"},
 {}
 ]

@@ -494,5 +494,11 @@
       "authors": "Tobias Linke, Enpal Fulfillment B.V.",
       "reference": "GPU local search on an Apple M4 Max (GLS-ILS + HGS route-import population, research code, Tobias Linke 2026); warm start from the published ISCT solution 91 / 44690.65 (28-aug-26)"
     }
+  ],
+  "Anonymous": [
+    {
+      "authors": "",
+      "reference": ""
+    }
   ]
 }

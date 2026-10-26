@@ -159,7 +159,7 @@ instance | routes | distance | when | who | notes
 lc1_4_1 | 40 | [7152.0566](best_known_solutions/LiLim/2003-06-16/lc1_4_1.40_7152.0566.txt) | 2003-06-16 | SAM::OPT | 
 lc1_4_2 | 38 | [8007.7853](best_known_solutions/LiLim/2015-10-08/lc1_4_2.38_8007.7853.txt) | 2015-10-08 | Q | 
 lc1_4_3 | 32 | [8678.2293](best_known_solutions/LiLim/2019-11-06/lc1_4_3.32_8678.2293.txt) | 2019-11-06 | SCR | 
-lc1_4_4 | 30 | [6451.6800](best_known_solutions/LiLim/2001-01-01/lc1_4_4.30_6451.68.txt) | 2001-01-01 | LL | contributed by ???
+lc1_4_4 | 30 | [6834.3758](best_known_solutions/LiLim/2026-10-26/lc1_4_4.30_6834.3758.txt) | 2026-10-26 | Anonymous | 
 lc1_4_5 | 40 | [7149.9962](best_known_solutions/LiLim/2003-04-19/lc1_4_5.40_7149.9962.txt) | 2003-04-19 | SAM::OPT | 
 lc1_4_6 | 40 | [7154.0159](best_known_solutions/LiLim/2001-01-01/lc1_4_6.40_7154.0159.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc1_4_7 | 40 | [7149.4345](best_known_solutions/LiLim/2003-03-15/lc1_4_7.40_7149.4345.txt) | 2003-03-15 | SAM::OPT | 
@@ -172,7 +172,7 @@ instance | routes | distance | when | who | notes
 lc2_4_1 | 12 | [4116.3291](best_known_solutions/LiLim/2001-01-01/lc2_4_1.12_4116.3291.txt) | 2001-01-01 | Li&Lim | contributed by SAM::OPT
 lc2_4_2 | 12 | [4144.2890](best_known_solutions/LiLim/2003-05-15/lc2_4_2.12_4144.289.txt) | 2003-05-15 | SAM::OPT | 
 lc2_4_3 | 12 | [4401.0810](best_known_solutions/LiLim/2019-01-17/lc2_4_3.12_4401.081.txt) | 2019-01-17 | CVB2 | 
-lc2_4_4 | 12 | [3743.9500](best_known_solutions/LiLim/2001-01-01/lc2_4_4.12_3743.95.txt) | 2001-01-01 | Li&Lim | contributed by ???
+lc2_4_4 | 12 | [4038.0005](best_known_solutions/LiLim/2026-10-26/lc2_4_4.12_4038.0005.txt) | 2026-10-26 | Anonymous | 
 lc2_4_5 | 12 | [4030.6341](best_known_solutions/LiLim/2003-05-01/lc2_4_5.12_4030.6341.txt) | 2003-05-01 | TS | contributed by SAM::OPT
 lc2_4_6 | 12 | [3900.2855](best_known_solutions/LiLim/2003-04-20/lc2_4_6.12_3900.2855.txt) | 2003-04-20 | SAM::OPT | 
 lc2_4_7 | 12 | [3962.5070](best_known_solutions/LiLim/2003-06-27/lc2_4_7.12_3962.507.txt) | 2003-06-27 | BVH | contributed by SAM::OPT
